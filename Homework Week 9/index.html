@@ -14,12 +14,13 @@
 
 </head>
 <body>
-    <div id = "choropleth_map_cp_index"></div>
+    <div id = "choropleth_map"></div>
 
 
 <script type="text/javascript">
-    var spec = "choropleth_map_cp_index.vl.json";
-    vegaEmbed('#choropleth_map_cp_index', spec, {actions: false});
+    var spec = "js/choropleth_map_cp_index.vg.json";
+    vegaEmbed('#choropleth_map', spec).then(function(result) {
+  }).catch(console.error);
 </script>
 </body>
 </html>
