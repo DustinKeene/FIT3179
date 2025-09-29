@@ -38,7 +38,7 @@
     {
       "data": {
         "url": "https://raw.githubusercontent.com/DustinKeene/FIT3179/refs/heads/main/Homework%20Week%209/js/ne_50m.json",
-        "format": {"type": "topojson", "feature": "ne_50m_graticules_30"}
+        "format": {"type": "topojson", "feature": "ne_50m_graticules_10"}
       },
       "mark": {
         "type": "geoshape",
