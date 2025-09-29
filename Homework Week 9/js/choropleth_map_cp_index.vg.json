@@ -1,6 +1,9 @@
 {
    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": "Suicide Rates by State in Australia (2023)",
+  "title": {
+    "text": "Age-standardised suicide rates by Australian States (2023)",
+    "fontSize": 18
+  },
   "width": 1200,
   "height": 800,
   "padding": {"top": 50, "left": 30, "right": 30},
