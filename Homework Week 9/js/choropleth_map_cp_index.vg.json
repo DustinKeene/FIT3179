@@ -1,18 +1,18 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": "Global Corruption Perception Index (2024)",
-  "width": 1000,
-  "height": 400,
-  "projection": {"type": "equalEarth"},
+  "title": "Suicide Rates by State in Australia (2023)",
+  "width": 1200,
+  "height": 800,
+  "projection": {"type": "mercator"},
+  "data": {
+    "url": "https://raw.githubusercontent.com/DustinKeene/FIT3179/refs/heads/main/Homework%20Week%209/js/ne_50m.json",
+    "format": {"type": "topojson", "feature": "ne_50m_admin_1_states_provinces"}
+  },
   "layer": [
     {
-      "data": {
-        "url": "https://raw.githubusercontent.com/DustinKeene/FIT3179/refs/heads/main/Homework%20Week%209/js/ne_110m.json",
-        "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
-      },
       "transform": [
         {
-          "calculate": "'Data is not available for ' + datum.properties.NAME",
+          "calculate": "'Data is not available for ' + datum.properties.name",
           "as": "note"
         }
       ],
@@ -24,47 +24,33 @@
       },
       "encoding": {
         "tooltip": [
-          {"field": "note", "type": "nominal"}
+          {"field": "note", "type": "nominal", "title": "Note"}
         ]
       }
     },
     {
       "data": {
-        "url": "https://raw.githubusercontent.com/DustinKeene/FIT3179/refs/heads/main/Homework%20Week%209/js/ne_110m.json",
-        "format": {"type": "topojson", "feature": "ne_110m_graticules_30"}
+        "url": "https://raw.githubusercontent.com/DustinKeene/FIT3179/refs/heads/main/Homework%20Week%209/js/ne_50m.json",
+        "format": {"type": "topojson", "feature": "ne_50m_graticules_30"}
       },
       "mark": {
         "type": "geoshape",
         "fill": null, 
-        "stroke": "lightgray", 
+        "stroke": "black", 
         "strokeWidth": 0.2
       }
     },
     {
-      "data": {
-        "url": "https://raw.githubusercontent.com/DustinKeene/FIT3179/refs/heads/main/Homework%20Week%209/js/ne_110m_ocean.json",
-        "format": {"type": "topojson", "feature": "oceans"}
-      },
-      "mark": {"type": "geoshape", "fill": "skyblue"}
-    },
-    {
-      "data": {
-        "url": "https://raw.githubusercontent.com/DustinKeene/FIT3179/refs/heads/main/Homework%20Week%209/js/ne_110m.json",
-        "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
-      },
       "transform": [
         {
-          "lookup": "properties.ISO_A3",
+          "lookup": "properties.name",
           "from": {
             "data": {
-              "url": "https://raw.githubusercontent.com/DustinKeene/FIT3179/refs/heads/main/Homework%20Week%209/data/ti-corruption-perception-index.csv"
+              "url": "https://raw.githubusercontent.com/DustinKeene/FIT3179/refs/heads/main/Homework%20Week%209/data/Suicide_rate_data_2023.csv"
             },
-            "key": "Code",
-            "fields": ["Corruption_perception_index", "Year"]
+            "key": "code",
+            "fields": ["age_standardised_suicide_rate", "code"]
           }
-        },
-        {
-          "filter": "datum.Year == 2024 && datum.Corruption_perception_index != null"
         }
       ],
       "mark": {
@@ -74,7 +60,7 @@
       },
       "encoding": {
         "color": {
-          "field": "Corruption_perception_index",
+          "field": "age_standardised_suicide_rate",
           "type": "quantitative",
           "scale": {
             "type": "threshold",
@@ -82,16 +68,16 @@
             "range": ["#b30000", "#e34a33", "#fc8d59", "#fdbb84", "#fdd49e", "#fef0d9"]
           },
           "legend": {
-            "title": "Corruption Perception Index",
+            "title": "Age-standardised Suicide Rate (per 100,000)",
             "titleAnchor": "start",
             "titleAlign": "left",
-            "orient": "bottom-left",
-            "direction": "horizontal"
+            "orient": "top-right",
+            "direction": "vertical"
           }
         },
         "tooltip": [
-          {"field": "properties.NAME", "type": "nominal", "title": "Country"},
-          {"field": "Corruption_perception_index", "type": "quantitative", "title": "CPI Score", "format": ".1f"}
+          {"field": "properties.name", "type": "nominal", "title": "State"},
+          {"field": "age_standardised_suicide_rate", "type": "quantitative", "title": "Age-standardised Suicide Rate", "format": ".1f"}
         ]
       }
     }
