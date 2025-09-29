@@ -1,4 +1,4 @@
-Year,States ,Code,"Age-standardised Suicide rate (per 100,000)"
+year,state,code,age_standardised_suicide_rate
 2023,New South Wales,NSW,9.9
 2023,Victoria,VIC,10.9
 2023,Queensland,QLD,14.2
