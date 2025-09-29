@@ -1,9 +1,16 @@
 {
-  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "title": "Suicide Rates by State in Australia (2023)",
   "width": 1200,
   "height": 800,
+  "padding": {"top": 50, "left": 30, "right": 30},
   "projection": {"type": "mercator"},
+  "config": {
+    "title": {
+      "align": "center",
+      "offset": 30
+    }
+  },
   "data": {
     "url": "https://raw.githubusercontent.com/DustinKeene/FIT3179/refs/heads/main/Homework%20Week%209/js/ne_50m.json",
     "format": {"type": "topojson", "feature": "ne_50m_admin_1_states_provinces"}
@@ -13,14 +20,14 @@
       "transform": [
         {
           "calculate": "'Data is not available for ' + datum.properties.name",
-          "as": "note"
+          "as": "Note"
         }
       ],
       "mark": {
         "type": "geoshape", 
         "fill": "lightgray", 
         "stroke": "white",
-        "strokeWidth": 0.8
+        "strokeWidth": 0.5
       },
       "encoding": {
         "tooltip": [
@@ -36,8 +43,8 @@
       "mark": {
         "type": "geoshape",
         "fill": null, 
-        "stroke": "black", 
-        "strokeWidth": 0.2
+        "stroke": "lightgray", 
+        "strokeWidth": 0.5
       }
     },
     {
@@ -48,7 +55,7 @@
             "data": {
               "url": "https://raw.githubusercontent.com/DustinKeene/FIT3179/refs/heads/main/Homework%20Week%209/data/Suicide_rate_data_2023.csv"
             },
-            "key": "code",
+            "key": "state",
             "fields": ["age_standardised_suicide_rate", "code"]
           }
         }
@@ -64,20 +71,22 @@
           "type": "quantitative",
           "scale": {
             "type": "threshold",
-            "domain": [0, 20, 40, 60, 80, 100],
-            "range": ["#b30000", "#e34a33", "#fc8d59", "#fdbb84", "#fdd49e", "#fef0d9"]
+            "domain":  [8, 11, 14, 17],
+            "range": ["#fef0d9", "#fdbb84", "#fc8d59", "#e34a33", "#b30000"]
           },
           "legend": {
             "title": "Age-standardised Suicide Rate (per 100,000)",
-            "titleAnchor": "start",
+            "titleLimit": 500,
+            "offset": 175,
+            "labelLimit": 100,
             "titleAlign": "left",
-            "orient": "top-right",
-            "direction": "vertical"
+            "orient": "bottom-left",
+            "direction": "horizontal"
           }
         },
         "tooltip": [
           {"field": "properties.name", "type": "nominal", "title": "State"},
-          {"field": "age_standardised_suicide_rate", "type": "quantitative", "title": "Age-standardised Suicide Rate", "format": ".1f"}
+          {"field": "age_standardised_suicide_rate", "type": "quantitative", "title": "Suicide Rate (Normalised)", "format": ".1f"}
         ]
       }
     }
