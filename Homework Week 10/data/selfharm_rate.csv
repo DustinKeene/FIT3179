@@ -1,4 +1,4 @@
-State,Sex,Age group,Measure,Year,Hospitalisation_rate
+State,Sex,Age_group,Measure,Year,Hospitalisation_rate
 New South Wales,Males,0–24,Number,2013–14,766
 New South Wales,Males,0–24,Number,2014–15,829
 New South Wales,Males,0–24,Number,2015–16,893
