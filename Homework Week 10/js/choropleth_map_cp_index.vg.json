@@ -14,10 +14,47 @@
       "offset": 30
     }
   },
+  "params": [
+  {
+  "name": "Year_selection",
+  "bind": {
+  "input": "select",
+  "options": [
+  2013,
+  2014,
+  2015,
+  2016,
+  2017,
+  2018,
+  2019,
+  2020,
+  2021,
+  2022,
+  2023
+  ],
+  "labels":[
+  "2013",
+  "2014",
+  "2015",
+  "2016",
+  "2017",
+  "2018",
+  "2019",
+  "2020",
+  "2021",
+  "2022",
+  "2023"
+  ],
+  "name": "Year of Registration: "
+  }
+  }
+  ],
   "data": {
     "url": "https://raw.githubusercontent.com/DustinKeene/FIT3179/refs/heads/main/Homework%20Week%209/js/ne_50m.json",
     "format": {"type": "topojson", "feature": "ne_50m_admin_1_states_provinces"}
   },
+
+  
   "layer": [
     {
       "transform": [
@@ -56,13 +93,17 @@
           "lookup": "properties.name",
           "from": {
             "data": {
-              "url": "https://raw.githubusercontent.com/DustinKeene/FIT3179/refs/heads/main/Homework%20Week%209/data/Suicide_rate_data_2023.csv"
+              "url": "https://raw.githubusercontent.com/DustinKeene/FIT3179/refs/heads/main/Homework%20Week%2010/data/standardised_australian_suicide_rate.csv"
             },
-            "key": "state",
-            "fields": ["age_standardised_suicide_rate", "code"]
+            "key": "State",
+            "fields": ["Age_standardised_suicide_rate", "Year", "State"]
           }
+        },
+        {
+          "filter": "Year_selection == null || datum.Year == Year_selection"
         }
       ],
+
       "mark": {
         "type": "geoshape",
         "stroke": "white", 
@@ -70,7 +111,7 @@
       },
       "encoding": {
         "color": {
-          "field": "age_standardised_suicide_rate",
+          "field": "Age_standardised_suicide_rate",
           "type": "quantitative",
           "scale": {
             "type": "threshold",
@@ -89,7 +130,8 @@
         },
         "tooltip": [
           {"field": "properties.name", "type": "nominal", "title": "State"},
-          {"field": "age_standardised_suicide_rate", "type": "quantitative", "title": "Suicide Rate (Normalised)", "format": ".1f"}
+          {"field": "Age_standardised_suicide_rate", "type": "quantitative", "title": "Suicide Rate (Normalised)", "format": ".1f"},
+          {"field": "Year", "type": "ordinal", "title": "Year"}
         ]
       }
     }
