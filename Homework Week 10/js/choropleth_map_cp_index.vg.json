@@ -1,12 +1,12 @@
 {
-   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+   "$schema": "https://vega.github.io/schema/vega-lite/v6.json",
   "title": {
     "text": "Age-standardised suicide rates by Australian States (2023)",
     "fontSize": 18
   },
-  "width": 1200,
-  "height": 800 ,
-  "padding": {"top": 50, "left": 30, "right": 30},
+  "width": 650,
+  "height": 650 ,
+  "padding": {"top": 25, "left": 30, "right": 30},
   "projection": {"type": "mercator"},
   "config": {
     "title": {
@@ -80,7 +80,7 @@
           "legend": {
             "title": "Age-standardised Suicide Rate (per 100,000)",
             "titleLimit": 500,
-            "offset": 175,
+            "offset": 80  ,
             "labelLimit": 100,
             "titleAlign": "left",
             "orient": "bottom-left",
