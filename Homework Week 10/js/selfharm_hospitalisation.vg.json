@@ -30,8 +30,8 @@
   "facet": {
     "field": "State",
     "type": "nominal",
-    "title": null,
-    "header": {"labelFontSize": 14, "labelFontWeight": "bold"}
+    "title": "Self-harm Hospitalisation Rate on Age Groups and Gender by Australian States",
+    "header": {"labelFontSize": 14, "titleFontSize":18, "titleFontWeight":"bold"}
   },
   "columns": 4,
   "spec": {
@@ -58,7 +58,7 @@
             "field": "Sex",
             "type": "nominal",
             "scale": {"range": ["#AD1028", "#FFC72C"]},
-            "legend": {"orient": "top", "title": null}
+            "legend": {"orient": "top", "title": null,"offset": 0}
           },
           "tooltip": [
             {"field": "State", "title": "State"},
@@ -74,7 +74,7 @@
           "align": "center",
           "baseline": "middle",
           "fontSize": 11,
-          "dx": -3,
+          "dx": -1,
           "fontWeight": "bold",
           "color": "black"
         },
@@ -107,5 +107,6 @@
   "config": {
     "view": {"stroke": null},
     "axis": {"grid": false}
+
   }
 }
