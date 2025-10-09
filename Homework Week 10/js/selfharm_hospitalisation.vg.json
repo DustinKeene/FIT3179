@@ -3,8 +3,6 @@
   "data": {
     "url": "https://raw.githubusercontent.com/DustinKeene/FIT3179/refs/heads/main/Homework%20Week%2010/data/selfharm_rate.csv"
   },
-  "width": 250,
-  "height": 250,
   "padding": {"top": 25},
   "params": [
     {
@@ -13,19 +11,10 @@
       "bind": {
         "input": "select",
         "options": [
-          "2013-14",
-          "2014-15",
-          "2015-16",
-          "2016-17",
-          "2017-18",
-          "2018-19",
-          "2019-20",
-          "2020-21",
-          "2021-22",
-          "2022-23",
-          "2023-24"
+          "2013-14", "2014-15", "2015-16", "2016-17", "2017-18",
+          "2018-19", "2019-20", "2020-21", "2021-22", "2022-23", "2023-24"
         ],
-        "name": "Year:"
+        "name": "Year: "
       }
     }
   ],
@@ -38,32 +27,85 @@
       "as": "signed_rate"
     }
   ],
-  "mark": "bar",
-  "encoding": {
-    "facet": {"field": "State", "type": "nominal", "columns": 4, "title": null},
-    "y": {
-      "field": "Age_group",
-      "type": "ordinal",
-      "sort": [ "65+","45-64", "25-44", "0-24"]
-    },
-    "x": {
-      "aggregate": "sum",
-      "field": "signed_rate",
-      "title": "Hospitalisation Rate (per 100,000)",
-      "axis": {"format": ".1f", "labelExpr": "abs(datum.value)"},
-      "scale": {"domain": [-300, 300]}
-    },
-    "color": {
-      "field": "Sex",
-      "type": "nominal",
-      "scale": {"range": ["#675193", "#ca8861"]},
-      "legend": {"orient": "top", "title": null}
-    },
-     "tooltip": [
-          {"field": "State", "type": "nominal", "title": "State"},
-          {"field": "Sex", "type": "nominal", "title": "Sex"},
-          {"field": "Hospitalisation_rate", "type": "quantitative", "title": "Self-Harm Rate (Normalised)", "format": ".1f"}
-        ]
+  "facet": {
+    "field": "State",
+    "type": "nominal",
+    "title": null,
+    "header": {"labelFontSize": 14, "labelFontWeight": "bold"}
   },
-  "config": {"view": {"stroke": null}, "axis": {"grid": false}}
+  "columns": 4,
+  "spec": {
+    "width": 350  ,
+    "height": 250,
+    "layer": [
+      {
+        "mark": "bar",
+        "encoding": {
+          "y": {
+            "field": "Age_group",
+            "type": "ordinal",
+            "sort": ["65+","45-64","25-44","0-24"],
+            "axis": {"offset": 50}
+          },
+          "x": {
+            "aggregate": "sum",
+            "field": "signed_rate",
+            "title": "Hospitalisation Rate (per 100,000)",
+            "axis": {"format": ".1f", "labelExpr": "abs(datum.value)", "offset": 40},
+            "scale": {"domain": [-400, 400]}
+          },
+          "color": {
+            "field": "Sex",
+            "type": "nominal",
+            "scale": {"range": ["#AD1028", "#FFC72C"]},
+            "legend": {"orient": "top", "title": null}
+          },
+          "tooltip": [
+            {"field": "State", "title": "State"},
+            {"field": "Sex", "title": "Sex"},
+            {"field": "Age_group", "title": "Age Group"},
+            {"field": "Hospitalisation_rate", "title": "Self-Harm Rate (Normalised)", "format": ".1f"}
+          ]
+        }
+      },
+      {
+        "mark": {
+          "type": "text",
+          "align": "center",
+          "baseline": "middle",
+          "fontSize": 11,
+          "dx": -3,
+          "fontWeight": "bold",
+          "color": "black"
+        },
+        "encoding": {
+          "y": {
+            "field": "Age_group",
+            "type": "ordinal",
+            "sort": ["65+","45-64","25-44","0-24"]
+          },
+          "x": {
+            "aggregate": "sum",
+            "field": "signed_rate"  
+          },
+          "text": {
+            "field": "Hospitalisation_rate",
+            "type": "quantitative",
+            "format": ".1f"
+          },
+          "opacity": {
+            "condition": {
+              "test": "abs(datum.Hospitalisation_rate) >= 200",
+              "value": 1
+            },
+            "value": 0
+          }
+        }
+      }
+    ]
+  },
+  "config": {
+    "view": {"stroke": null},
+    "axis": {"grid": false}
+  }
 }
