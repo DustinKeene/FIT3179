@@ -64,6 +64,7 @@
             {"field": "State", "title": "State"},
             {"field": "Sex", "title": "Sex"},
             {"field": "Age_group", "title": "Age Group"},
+            {"field": "Year", "title": "Year"},
             {"field": "Hospitalisation_rate", "title": "Self-Harm Rate (Normalised)", "format": ".1f"}
           ]
         }
