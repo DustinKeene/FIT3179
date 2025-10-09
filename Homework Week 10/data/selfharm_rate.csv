@@ -1,1618 +1,1618 @@
 State,Sex,Age_group,Measure,Year,Hospitalisation_rate
-New South Wales,Males,0–24,Number,2013–14,766
-New South Wales,Males,0–24,Number,2014–15,829
-New South Wales,Males,0–24,Number,2015–16,893
-New South Wales,Males,0–24,Number,2016–17,953
-New South Wales,Males,0–24,Number,2017–18,740
-New South Wales,Males,0–24,Number,2018–19,698
-New South Wales,Males,0–24,Number,2019–20,715
-New South Wales,Males,0–24,Number,2020–21,620
-New South Wales,Males,0–24,Number,2021–22,500
-New South Wales,Males,0–24,Number,2022–23,419
-New South Wales,Males,0–24,Number,2023–24,403
-New South Wales,Males,0–24,"Rate (per 100,000)",2013–14,62.66
-New South Wales,Males,0–24,"Rate (per 100,000)",2014–15,67.13
-New South Wales,Males,0–24,"Rate (per 100,000)",2015–16,71.5
-New South Wales,Males,0–24,"Rate (per 100,000)",2016–17,75.39
-New South Wales,Males,0–24,"Rate (per 100,000)",2017–18,57.91
-New South Wales,Males,0–24,"Rate (per 100,000)",2018–19,54.14
-New South Wales,Males,0–24,"Rate (per 100,000)",2019–20,55.38
-New South Wales,Males,0–24,"Rate (per 100,000)",2020–21,48.47
-New South Wales,Males,0–24,"Rate (per 100,000)",2021–22,39.11
-New South Wales,Males,0–24,"Rate (per 100,000)",2022–23,32.19
-New South Wales,Males,0–24,"Rate (per 100,000)",2023–24,30.59
-New South Wales,Males,25–44,Number,2013–14,1320
-New South Wales,Males,25–44,Number,2014–15,1417
-New South Wales,Males,25–44,Number,2015–16,1537
-New South Wales,Males,25–44,Number,2016–17,1612
-New South Wales,Males,25–44,Number,2017–18,1164
-New South Wales,Males,25–44,Number,2018–19,1093
-New South Wales,Males,25–44,Number,2019–20,1088
-New South Wales,Males,25–44,Number,2020–21,867
-New South Wales,Males,25–44,Number,2021–22,687
-New South Wales,Males,25–44,Number,2022–23,753
-New South Wales,Males,25–44,Number,2023–24,694
-New South Wales,Males,25–44,"Rate (per 100,000)",2013–14,126.64
-New South Wales,Males,25–44,"Rate (per 100,000)",2014–15,133.86
-New South Wales,Males,25–44,"Rate (per 100,000)",2015–16,142.87
-New South Wales,Males,25–44,"Rate (per 100,000)",2016–17,147.37
-New South Wales,Males,25–44,"Rate (per 100,000)",2017–18,104.69
-New South Wales,Males,25–44,"Rate (per 100,000)",2018–19,96.98
-New South Wales,Males,25–44,"Rate (per 100,000)",2019–20,95.65
-New South Wales,Males,25–44,"Rate (per 100,000)",2020–21,76.26
-New South Wales,Males,25–44,"Rate (per 100,000)",2021–22,60.46
-New South Wales,Males,25–44,"Rate (per 100,000)",2022–23,64.86
-New South Wales,Males,25–44,"Rate (per 100,000)",2023–24,58.71
-New South Wales,Males,45–64,Number,2013–14,760
-New South Wales,Males,45–64,Number,2014–15,809
-New South Wales,Males,45–64,Number,2015–16,853
-New South Wales,Males,45–64,Number,2016–17,964
-New South Wales,Males,45–64,Number,2017–18,720
-New South Wales,Males,45–64,Number,2018–19,643
-New South Wales,Males,45–64,Number,2019–20,604
-New South Wales,Males,45–64,Number,2020–21,548
-New South Wales,Males,45–64,Number,2021–22,481
-New South Wales,Males,45–64,Number,2022–23,490
-New South Wales,Males,45–64,Number,2023–24,495
-New South Wales,Males,45–64,"Rate (per 100,000)",2013–14,83.64
-New South Wales,Males,45–64,"Rate (per 100,000)",2014–15,88.48
-New South Wales,Males,45–64,"Rate (per 100,000)",2015–16,92.56
-New South Wales,Males,45–64,"Rate (per 100,000)",2016–17,103.38
-New South Wales,Males,45–64,"Rate (per 100,000)",2017–18,76.3
-New South Wales,Males,45–64,"Rate (per 100,000)",2018–19,67.51
-New South Wales,Males,45–64,"Rate (per 100,000)",2019–20,62.82
-New South Wales,Males,45–64,"Rate (per 100,000)",2020–21,56.62
-New South Wales,Males,45–64,"Rate (per 100,000)",2021–22,49.66
-New South Wales,Males,45–64,"Rate (per 100,000)",2022–23,50.63
-New South Wales,Males,45–64,"Rate (per 100,000)",2023–24,51.15
-New South Wales,Males,65+,Number,2013–14,203
-New South Wales,Males,65+,Number,2014–15,235
-New South Wales,Males,65+,Number,2015–16,230
-New South Wales,Males,65+,Number,2016–17,294
-New South Wales,Males,65+,Number,2017–18,207
-New South Wales,Males,65+,Number,2018–19,197
-New South Wales,Males,65+,Number,2019–20,191
-New South Wales,Males,65+,Number,2020–21,199
-New South Wales,Males,65+,Number,2021–22,216
-New South Wales,Males,65+,Number,2022–23,223
-New South Wales,Males,65+,Number,2023–24,214
-New South Wales,Males,65+,"Rate (per 100,000)",2013–14,38.6
-New South Wales,Males,65+,"Rate (per 100,000)",2014–15,43.32
-New South Wales,Males,65+,"Rate (per 100,000)",2015–16,41.15
-New South Wales,Males,65+,"Rate (per 100,000)",2016–17,51.14
-New South Wales,Males,65+,"Rate (per 100,000)",2017–18,35.06
-New South Wales,Males,65+,"Rate (per 100,000)",2018–19,32.48
-New South Wales,Males,65+,"Rate (per 100,000)",2019–20,30.55
-New South Wales,Males,65+,"Rate (per 100,000)",2020–21,30.9
-New South Wales,Males,65+,"Rate (per 100,000)",2021–22,32.77
-New South Wales,Males,65+,"Rate (per 100,000)",2022–23,33.08
-New South Wales,Males,65+,"Rate (per 100,000)",2023–24,31.38
-New South Wales,Females,0–24,Number,2013–14,2167
-New South Wales,Females,0–24,Number,2014–15,2181
-New South Wales,Females,0–24,Number,2015–16,2362
-New South Wales,Females,0–24,Number,2016–17,2777
-New South Wales,Females,0–24,Number,2017–18,2046
-New South Wales,Females,0–24,Number,2018–19,1788
-New South Wales,Females,0–24,Number,2019–20,1818
-New South Wales,Females,0–24,Number,2020–21,1990
-New South Wales,Females,0–24,Number,2021–22,1750
-New South Wales,Females,0–24,Number,2022–23,1472
-New South Wales,Females,0–24,Number,2023–24,1095
-New South Wales,Females,0–24,"Rate (per 100,000)",2013–14,186.88
-New South Wales,Females,0–24,"Rate (per 100,000)",2014–15,186.16
-New South Wales,Females,0–24,"Rate (per 100,000)",2015–16,199.33
-New South Wales,Females,0–24,"Rate (per 100,000)",2016–17,231.68
-New South Wales,Females,0–24,"Rate (per 100,000)",2017–18,169.21
-New South Wales,Females,0–24,"Rate (per 100,000)",2018–19,147.09
-New South Wales,Females,0–24,"Rate (per 100,000)",2019–20,149.83
-New South Wales,Females,0–24,"Rate (per 100,000)",2020–21,165.86
-New South Wales,Females,0–24,"Rate (per 100,000)",2021–22,146.28
-New South Wales,Females,0–24,"Rate (per 100,000)",2022–23,121.13
-New South Wales,Females,0–24,"Rate (per 100,000)",2023–24,89.14
-New South Wales,Females,25–44,Number,2013–14,1800
-New South Wales,Females,25–44,Number,2014–15,1866
-New South Wales,Females,25–44,Number,2015–16,1896
-New South Wales,Females,25–44,Number,2016–17,2051
-New South Wales,Females,25–44,Number,2017–18,1573
-New South Wales,Females,25–44,Number,2018–19,1353
-New South Wales,Females,25–44,Number,2019–20,1252
-New South Wales,Females,25–44,Number,2020–21,1147
-New South Wales,Females,25–44,Number,2021–22,1005
-New South Wales,Females,25–44,Number,2022–23,915
-New South Wales,Females,25–44,Number,2023–24,968
-New South Wales,Females,25–44,"Rate (per 100,000)",2013–14,170.93
-New South Wales,Females,25–44,"Rate (per 100,000)",2014–15,174.5
-New South Wales,Females,25–44,"Rate (per 100,000)",2015–16,174.67
-New South Wales,Females,25–44,"Rate (per 100,000)",2016–17,186.14
-New South Wales,Females,25–44,"Rate (per 100,000)",2017–18,140.84
-New South Wales,Females,25–44,"Rate (per 100,000)",2018–19,119.73
-New South Wales,Females,25–44,"Rate (per 100,000)",2019–20,109.75
-New South Wales,Females,25–44,"Rate (per 100,000)",2020–21,100.48
-New South Wales,Females,25–44,"Rate (per 100,000)",2021–22,88
-New South Wales,Females,25–44,"Rate (per 100,000)",2022–23,78.52
-New South Wales,Females,25–44,"Rate (per 100,000)",2023–24,81.71
-New South Wales,Females,45–64,Number,2013–14,1144
-New South Wales,Females,45–64,Number,2014–15,1170
-New South Wales,Females,45–64,Number,2015–16,1201
-New South Wales,Females,45–64,Number,2016–17,1209
-New South Wales,Females,45–64,Number,2017–18,972
-New South Wales,Females,45–64,Number,2018–19,906
-New South Wales,Females,45–64,Number,2019–20,767
-New South Wales,Females,45–64,Number,2020–21,670
-New South Wales,Females,45–64,Number,2021–22,582
-New South Wales,Females,45–64,Number,2022–23,576
-New South Wales,Females,45–64,Number,2023–24,563
-New South Wales,Females,45–64,"Rate (per 100,000)",2013–14,122.51
-New South Wales,Females,45–64,"Rate (per 100,000)",2014–15,123.8
-New South Wales,Females,45–64,"Rate (per 100,000)",2015–16,125.42
-New South Wales,Females,45–64,"Rate (per 100,000)",2016–17,124.49
-New South Wales,Females,45–64,"Rate (per 100,000)",2017–18,99.02
-New South Wales,Females,45–64,"Rate (per 100,000)",2018–19,91.59
-New South Wales,Females,45–64,"Rate (per 100,000)",2019–20,76.87
-New South Wales,Females,45–64,"Rate (per 100,000)",2020–21,66.86
-New South Wales,Females,45–64,"Rate (per 100,000)",2021–22,58.14
-New South Wales,Females,45–64,"Rate (per 100,000)",2022–23,57.5
-New South Wales,Females,45–64,"Rate (per 100,000)",2023–24,56.15
-New South Wales,Females,45–64,Per cent,2013–14,31.06
-New South Wales,Females,45–64,Per cent,2014–15,30.96
-New South Wales,Females,45–64,Per cent,2015–16,28.48
-New South Wales,Females,45–64,Per cent,2016–17,28.64
-New South Wales,Females,45–64,Per cent,2017–18,25.98
-New South Wales,Females,45–64,Per cent,2018–19,23.45
-New South Wales,Females,45–64,Per cent,2019–20,22
-New South Wales,Females,45–64,Per cent,2020–21,20.07
-New South Wales,Females,45–64,Per cent,2021–22,19.47
-New South Wales,Females,45–64,Per cent,2022–23,20.1
-New South Wales,Females,45–64,Per cent,2023–24,19.71
-New South Wales,Females,65+,Number,2013–14,254
-New South Wales,Females,65+,Number,2014–15,232
-New South Wales,Females,65+,Number,2015–16,271
-New South Wales,Females,65+,Number,2016–17,301
-New South Wales,Females,65+,Number,2017–18,251
-New South Wales,Females,65+,Number,2018–19,267
-New South Wales,Females,65+,Number,2019–20,249
-New South Wales,Females,65+,Number,2020–21,226
-New South Wales,Females,65+,Number,2021–22,249
-New South Wales,Females,65+,Number,2022–23,223
-New South Wales,Females,65+,Number,2023–24,216
-New South Wales,Females,65+,"Rate (per 100,000)",2013–14,41.61
-New South Wales,Females,65+,"Rate (per 100,000)",2014–15,37.07
-New South Wales,Females,65+,"Rate (per 100,000)",2015–16,42.26
-New South Wales,Females,65+,"Rate (per 100,000)",2016–17,45.81
-New South Wales,Females,65+,"Rate (per 100,000)",2017–18,37.27
-New South Wales,Females,65+,"Rate (per 100,000)",2018–19,38.65
-New South Wales,Females,65+,"Rate (per 100,000)",2019–20,34.99
-New South Wales,Females,65+,"Rate (per 100,000)",2020–21,30.86
-New South Wales,Females,65+,"Rate (per 100,000)",2021–22,33.2
-New South Wales,Females,65+,"Rate (per 100,000)",2022–23,29.04
-New South Wales,Females,65+,"Rate (per 100,000)",2023–24,27.78
-Victoria,Males,0–24,Number,2013–14,310
-Victoria,Males,0–24,Number,2014–15,362
-Victoria,Males,0–24,Number,2015–16,430
-Victoria,Males,0–24,Number,2016–17,519
-Victoria,Males,0–24,Number,2017–18,491
-Victoria,Males,0–24,Number,2018–19,551
-Victoria,Males,0–24,Number,2019–20,521
-Victoria,Males,0–24,Number,2020–21,602
-Victoria,Males,0–24,Number,2021–22,538
-Victoria,Males,0–24,Number,2022–23,459
-Victoria,Males,0–24,Number,2023–24,447
-Victoria,Males,0–24,"Rate (per 100,000)",2013–14,32.55
-Victoria,Males,0–24,"Rate (per 100,000)",2014–15,37.28
-Victoria,Males,0–24,"Rate (per 100,000)",2015–16,43.3
-Victoria,Males,0–24,"Rate (per 100,000)",2016–17,51.13
-Victoria,Males,0–24,"Rate (per 100,000)",2017–18,47.54
-Victoria,Males,0–24,"Rate (per 100,000)",2018–19,52.6
-Victoria,Males,0–24,"Rate (per 100,000)",2019–20,49.58
-Victoria,Males,0–24,"Rate (per 100,000)",2020–21,58.26
-Victoria,Males,0–24,"Rate (per 100,000)",2021–22,52.56
-Victoria,Males,0–24,"Rate (per 100,000)",2022–23,43.96
-Victoria,Males,0–24,"Rate (per 100,000)",2023–24,42.17
-Victoria,Males,25–44,Number,2013–14,663
-Victoria,Males,25–44,Number,2014–15,739
-Victoria,Males,25–44,Number,2015–16,748
-Victoria,Males,25–44,Number,2016–17,886
-Victoria,Males,25–44,Number,2017–18,770
-Victoria,Males,25–44,Number,2018–19,885
-Victoria,Males,25–44,Number,2019–20,821
-Victoria,Males,25–44,Number,2020–21,760
-Victoria,Males,25–44,Number,2021–22,699
-Victoria,Males,25–44,Number,2022–23,667
-Victoria,Males,25–44,Number,2023–24,785
-Victoria,Males,25–44,"Rate (per 100,000)",2013–14,78.35
-Victoria,Males,25–44,"Rate (per 100,000)",2014–15,85.71
-Victoria,Males,25–44,"Rate (per 100,000)",2015–16,84.88
-Victoria,Males,25–44,"Rate (per 100,000)",2016–17,98.22
-Victoria,Males,25–44,"Rate (per 100,000)",2017–18,83.35
-Victoria,Males,25–44,"Rate (per 100,000)",2018–19,93.5
-Victoria,Males,25–44,"Rate (per 100,000)",2019–20,85
-Victoria,Males,25–44,"Rate (per 100,000)",2020–21,78.74
-Victoria,Males,25–44,"Rate (per 100,000)",2021–22,72.47
-Victoria,Males,25–44,"Rate (per 100,000)",2022–23,67.14
-Victoria,Males,25–44,"Rate (per 100,000)",2023–24,77.38
-Victoria,Males,45–64,Number,2013–14,407
-Victoria,Males,45–64,Number,2014–15,421
-Victoria,Males,45–64,Number,2015–16,539
-Victoria,Males,45–64,Number,2016–17,520
-Victoria,Males,45–64,Number,2017–18,481
-Victoria,Males,45–64,Number,2018–19,578
-Victoria,Males,45–64,Number,2019–20,504
-Victoria,Males,45–64,Number,2020–21,445
-Victoria,Males,45–64,Number,2021–22,399
-Victoria,Males,45–64,Number,2022–23,424
-Victoria,Males,45–64,Number,2023–24,479
-Victoria,Males,45–64,"Rate (per 100,000)",2013–14,58.53
-Victoria,Males,45–64,"Rate (per 100,000)",2014–15,59.58
-Victoria,Males,45–64,"Rate (per 100,000)",2015–16,75.01
-Victoria,Males,45–64,"Rate (per 100,000)",2016–17,71.11
-Victoria,Males,45–64,"Rate (per 100,000)",2017–18,64.79
-Victoria,Males,45–64,"Rate (per 100,000)",2018–19,76.84
-Victoria,Males,45–64,"Rate (per 100,000)",2019–20,66.1
-Victoria,Males,45–64,"Rate (per 100,000)",2020–21,58
-Victoria,Males,45–64,"Rate (per 100,000)",2021–22,51.94
-Victoria,Males,45–64,"Rate (per 100,000)",2022–23,54.88
-Victoria,Males,45–64,"Rate (per 100,000)",2023–24,61.78
-Victoria,Males,65+,Number,2013–14,113
-Victoria,Males,65+,Number,2014–15,118
-Victoria,Males,65+,Number,2015–16,155
-Victoria,Males,65+,Number,2016–17,142
-Victoria,Males,65+,Number,2017–18,115
-Victoria,Males,65+,Number,2018–19,165
-Victoria,Males,65+,Number,2019–20,162
-Victoria,Males,65+,Number,2020–21,160
-Victoria,Males,65+,Number,2021–22,150
-Victoria,Males,65+,Number,2022–23,160
-Victoria,Males,65+,Number,2023–24,187
-Victoria,Males,65+,"Rate (per 100,000)",2013–14,28.83
-Victoria,Males,65+,"Rate (per 100,000)",2014–15,29.04
-Victoria,Males,65+,"Rate (per 100,000)",2015–16,36.8
-Victoria,Males,65+,"Rate (per 100,000)",2016–17,32.61
-Victoria,Males,65+,"Rate (per 100,000)",2017–18,25.65
-Victoria,Males,65+,"Rate (per 100,000)",2018–19,35.78
-Victoria,Males,65+,"Rate (per 100,000)",2019–20,34.04
-Victoria,Males,65+,"Rate (per 100,000)",2020–21,32.66
-Victoria,Males,65+,"Rate (per 100,000)",2021–22,29.92
-Victoria,Males,65+,"Rate (per 100,000)",2022–23,31.13
-Victoria,Males,65+,"Rate (per 100,000)",2023–24,35.92
-Victoria,Females,0–24,Number,2013–14,1167
-Victoria,Females,0–24,Number,2014–15,1280
-Victoria,Females,0–24,Number,2015–16,1422
-Victoria,Females,0–24,Number,2016–17,1706
-Victoria,Females,0–24,Number,2017–18,1590
-Victoria,Females,0–24,Number,2018–19,1639
-Victoria,Females,0–24,Number,2019–20,1505
-Victoria,Females,0–24,Number,2020–21,2066
-Victoria,Females,0–24,Number,2021–22,1904
-Victoria,Females,0–24,Number,2022–23,1628
-Victoria,Females,0–24,Number,2023–24,1542
-Victoria,Females,0–24,"Rate (per 100,000)",2013–14,128.62
-Victoria,Females,0–24,"Rate (per 100,000)",2014–15,138.46
-Victoria,Females,0–24,"Rate (per 100,000)",2015–16,150.5
-Victoria,Females,0–24,"Rate (per 100,000)",2016–17,176.87
-Victoria,Females,0–24,"Rate (per 100,000)",2017–18,162.45
-Victoria,Females,0–24,"Rate (per 100,000)",2018–19,165.69
-Victoria,Females,0–24,"Rate (per 100,000)",2019–20,152.01
-Victoria,Females,0–24,"Rate (per 100,000)",2020–21,212.04
-Victoria,Females,0–24,"Rate (per 100,000)",2021–22,196.74
-Victoria,Females,0–24,"Rate (per 100,000)",2022–23,164.77
-Victoria,Females,0–24,"Rate (per 100,000)",2023–24,153.8
-Victoria,Females,25–44,Number,2013–14,1075
-Victoria,Females,25–44,Number,2014–15,1226
-Victoria,Females,25–44,Number,2015–16,1248
-Victoria,Females,25–44,Number,2016–17,1314
-Victoria,Females,25–44,Number,2017–18,1315
-Victoria,Females,25–44,Number,2018–19,1321
-Victoria,Females,25–44,Number,2019–20,1252
-Victoria,Females,25–44,Number,2020–21,1253
-Victoria,Females,25–44,Number,2021–22,1115
-Victoria,Females,25–44,Number,2022–23,1219
-Victoria,Females,25–44,Number,2023–24,1248
-Victoria,Females,25–44,"Rate (per 100,000)",2013–14,125.75
-Victoria,Females,25–44,"Rate (per 100,000)",2014–15,140.39
-Victoria,Females,25–44,"Rate (per 100,000)",2015–16,139.77
-Victoria,Females,25–44,"Rate (per 100,000)",2016–17,143.91
-Victoria,Females,25–44,"Rate (per 100,000)",2017–18,140.8
-Victoria,Females,25–44,"Rate (per 100,000)",2018–19,138.25
-Victoria,Females,25–44,"Rate (per 100,000)",2019–20,128.64
-Victoria,Females,25–44,"Rate (per 100,000)",2020–21,128.78
-Victoria,Females,25–44,"Rate (per 100,000)",2021–22,114.66
-Victoria,Females,25–44,"Rate (per 100,000)",2022–23,121.96
-Victoria,Females,25–44,"Rate (per 100,000)",2023–24,122.4
-Victoria,Females,45–64,Number,2013–14,658
-Victoria,Females,45–64,Number,2014–15,733
-Victoria,Females,45–64,Number,2015–16,797
-Victoria,Females,45–64,Number,2016–17,849
-Victoria,Females,45–64,Number,2017–18,706
-Victoria,Females,45–64,Number,2018–19,887
-Victoria,Females,45–64,Number,2019–20,784
-Victoria,Females,45–64,Number,2020–21,805
-Victoria,Females,45–64,Number,2021–22,672
-Victoria,Females,45–64,Number,2022–23,731
-Victoria,Females,45–64,Number,2023–24,702
-Victoria,Females,45–64,"Rate (per 100,000)",2013–14,90.9
-Victoria,Females,45–64,"Rate (per 100,000)",2014–15,99.26
-Victoria,Females,45–64,"Rate (per 100,000)",2015–16,105.66
-Victoria,Females,45–64,"Rate (per 100,000)",2016–17,110.28
-Victoria,Females,45–64,"Rate (per 100,000)",2017–18,90.32
-Victoria,Females,45–64,"Rate (per 100,000)",2018–19,112.01
-Victoria,Females,45–64,"Rate (per 100,000)",2019–20,97.55
-Victoria,Females,45–64,"Rate (per 100,000)",2020–21,99.66
-Victoria,Females,45–64,"Rate (per 100,000)",2021–22,83.3
-Victoria,Females,45–64,"Rate (per 100,000)",2022–23,90.1
-Victoria,Females,45–64,"Rate (per 100,000)",2023–24,86.18
-Victoria,Females,65+,Number,2013–14,120
-Victoria,Females,65+,Number,2014–15,197
-Victoria,Females,65+,Number,2015–16,178
-Victoria,Females,65+,Number,2016–17,178
-Victoria,Females,65+,Number,2017–18,179
-Victoria,Females,65+,Number,2018–19,184
-Victoria,Females,65+,Number,2019–20,168
-Victoria,Females,65+,Number,2020–21,178
-Victoria,Females,65+,Number,2021–22,202
-Victoria,Females,65+,Number,2022–23,212
-Victoria,Females,65+,Number,2023–24,223
-Victoria,Females,65+,"Rate (per 100,000)",2013–14,25.98
-Victoria,Females,65+,"Rate (per 100,000)",2014–15,41.37
-Victoria,Females,65+,"Rate (per 100,000)",2015–16,36.21
-Victoria,Females,65+,"Rate (per 100,000)",2016–17,35.13
-Victoria,Females,65+,"Rate (per 100,000)",2017–18,34.35
-Victoria,Females,65+,"Rate (per 100,000)",2018–19,34.32
-Victoria,Females,65+,"Rate (per 100,000)",2019–20,30.32
-Victoria,Females,65+,"Rate (per 100,000)",2020–21,31.19
-Victoria,Females,65+,"Rate (per 100,000)",2021–22,34.55
-Victoria,Females,65+,"Rate (per 100,000)",2022–23,35.33
-Victoria,Females,65+,"Rate (per 100,000)",2023–24,36.66
-Queensland,Males,0–24,Number,2013–14,672
-Queensland,Males,0–24,Number,2014–15,773
-Queensland,Males,0–24,Number,2015–16,805
-Queensland,Males,0–24,Number,2016–17,899
-Queensland,Males,0–24,Number,2017–18,861
-Queensland,Males,0–24,Number,2018–19,856
-Queensland,Males,0–24,Number,2019–20,946
-Queensland,Males,0–24,Number,2020–21,1080
-Queensland,Males,0–24,Number,2021–22,883
-Queensland,Males,0–24,Number,2022–23,697
-Queensland,Males,0–24,Number,2023–24,669
-Queensland,Males,0–24,"Rate (per 100,000)",2013–14,83.52
-Queensland,Males,0–24,"Rate (per 100,000)",2014–15,95.31
-Queensland,Males,0–24,"Rate (per 100,000)",2015–16,98.65
-Queensland,Males,0–24,"Rate (per 100,000)",2016–17,109.18
-Queensland,Males,0–24,"Rate (per 100,000)",2017–18,103.57
-Queensland,Males,0–24,"Rate (per 100,000)",2018–19,102.1
-Queensland,Males,0–24,"Rate (per 100,000)",2019–20,112.21
-Queensland,Males,0–24,"Rate (per 100,000)",2020–21,128.13
-Queensland,Males,0–24,"Rate (per 100,000)",2021–22,104.11
-Queensland,Males,0–24,"Rate (per 100,000)",2022–23,80.67
-Queensland,Males,0–24,"Rate (per 100,000)",2023–24,76.59
-Queensland,Males,25–44,Number,2013–14,1210
-Queensland,Males,25–44,Number,2014–15,1294
-Queensland,Males,25–44,Number,2015–16,1283
-Queensland,Males,25–44,Number,2016–17,1367
-Queensland,Males,25–44,Number,2017–18,1249
-Queensland,Males,25–44,Number,2018–19,1308
-Queensland,Males,25–44,Number,2019–20,1328
-Queensland,Males,25–44,Number,2020–21,1327
-Queensland,Males,25–44,Number,2021–22,1173
-Queensland,Males,25–44,Number,2022–23,996
-Queensland,Males,25–44,Number,2023–24,918
-Queensland,Males,25–44,"Rate (per 100,000)",2013–14,184.81
-Queensland,Males,25–44,"Rate (per 100,000)",2014–15,196.91
-Queensland,Males,25–44,"Rate (per 100,000)",2015–16,194.68
-Queensland,Males,25–44,"Rate (per 100,000)",2016–17,206.14
-Queensland,Males,25–44,"Rate (per 100,000)",2017–18,186.38
-Queensland,Males,25–44,"Rate (per 100,000)",2018–19,192.91
-Queensland,Males,25–44,"Rate (per 100,000)",2019–20,193.31
-Queensland,Males,25–44,"Rate (per 100,000)",2020–21,191.03
-Queensland,Males,25–44,"Rate (per 100,000)",2021–22,166.35
-Queensland,Males,25–44,"Rate (per 100,000)",2022–23,136.86
-Queensland,Males,25–44,"Rate (per 100,000)",2023–24,123.57
-Queensland,Males,45–64,Number,2013–14,573
-Queensland,Males,45–64,Number,2014–15,618
-Queensland,Males,45–64,Number,2015–16,742
-Queensland,Males,45–64,Number,2016–17,757
-Queensland,Males,45–64,Number,2017–18,705
-Queensland,Males,45–64,Number,2018–19,736
-Queensland,Males,45–64,Number,2019–20,737
-Queensland,Males,45–64,Number,2020–21,643
-Queensland,Males,45–64,Number,2021–22,614
-Queensland,Males,45–64,Number,2022–23,507
-Queensland,Males,45–64,Number,2023–24,598
-Queensland,Males,45–64,"Rate (per 100,000)",2013–14,100.67
-Queensland,Males,45–64,"Rate (per 100,000)",2014–15,107.51
-Queensland,Males,45–64,"Rate (per 100,000)",2015–16,127.58
-Queensland,Males,45–64,"Rate (per 100,000)",2016–17,128.13
-Queensland,Males,45–64,"Rate (per 100,000)",2017–18,117.26
-Queensland,Males,45–64,"Rate (per 100,000)",2018–19,120.33
-Queensland,Males,45–64,"Rate (per 100,000)",2019–20,118.47
-Queensland,Males,45–64,"Rate (per 100,000)",2020–21,101.82
-Queensland,Males,45–64,"Rate (per 100,000)",2021–22,96
-Queensland,Males,45–64,"Rate (per 100,000)",2022–23,78.44
-Queensland,Males,45–64,"Rate (per 100,000)",2023–24,92.1
-Queensland,Males,65+,Number,2013–14,155
-Queensland,Males,65+,Number,2014–15,158
-Queensland,Males,65+,Number,2015–16,176
-Queensland,Males,65+,Number,2016–17,183
-Queensland,Males,65+,Number,2017–18,182
-Queensland,Males,65+,Number,2018–19,181
-Queensland,Males,65+,Number,2019–20,203
-Queensland,Males,65+,Number,2020–21,219
-Queensland,Males,65+,Number,2021–22,203
-Queensland,Males,65+,Number,2022–23,226
-Queensland,Males,65+,Number,2023–24,202
-Queensland,Males,65+,"Rate (per 100,000)",2013–14,50.66
-Queensland,Males,65+,"Rate (per 100,000)",2014–15,49.54
-Queensland,Males,65+,"Rate (per 100,000)",2015–16,52.98
-Queensland,Males,65+,"Rate (per 100,000)",2016–17,52.93
-Queensland,Males,65+,"Rate (per 100,000)",2017–18,50.65
-Queensland,Males,65+,"Rate (per 100,000)",2018–19,48.51
-Queensland,Males,65+,"Rate (per 100,000)",2019–20,52.35
-Queensland,Males,65+,"Rate (per 100,000)",2020–21,54.34
-Queensland,Males,65+,"Rate (per 100,000)",2021–22,48.58
-Queensland,Males,65+,"Rate (per 100,000)",2022–23,52.34
-Queensland,Males,65+,"Rate (per 100,000)",2023–24,46.07
-Queensland,Females,0–24,Number,2013–14,1901
-Queensland,Females,0–24,Number,2014–15,2050
-Queensland,Females,0–24,Number,2015–16,2149
-Queensland,Females,0–24,Number,2016–17,2477
-Queensland,Females,0–24,Number,2017–18,2239
-Queensland,Females,0–24,Number,2018–19,2351
-Queensland,Females,0–24,Number,2019–20,2467
-Queensland,Females,0–24,Number,2020–21,3104
-Queensland,Females,0–24,Number,2021–22,2746
-Queensland,Females,0–24,Number,2022–23,2325
-Queensland,Females,0–24,Number,2023–24,2051
-Queensland,Females,0–24,"Rate (per 100,000)",2013–14,247.38
-Queensland,Females,0–24,"Rate (per 100,000)",2014–15,264.61
-Queensland,Females,0–24,"Rate (per 100,000)",2015–16,275.24
-Queensland,Females,0–24,"Rate (per 100,000)",2016–17,314.59
-Queensland,Females,0–24,"Rate (per 100,000)",2017–18,282.11
-Queensland,Females,0–24,"Rate (per 100,000)",2018–19,294.02
-Queensland,Females,0–24,"Rate (per 100,000)",2019–20,307.35
-Queensland,Females,0–24,"Rate (per 100,000)",2020–21,387.76
-Queensland,Females,0–24,"Rate (per 100,000)",2021–22,341.33
-Queensland,Females,0–24,"Rate (per 100,000)",2022–23,283.56
-Queensland,Females,0–24,"Rate (per 100,000)",2023–24,247.43
-Queensland,Females,25–44,Number,2013–14,1710
-Queensland,Females,25–44,Number,2014–15,1837
-Queensland,Females,25–44,Number,2015–16,1968
-Queensland,Females,25–44,Number,2016–17,1850
-Queensland,Females,25–44,Number,2017–18,1814
-Queensland,Females,25–44,Number,2018–19,1747
-Queensland,Females,25–44,Number,2019–20,1723
-Queensland,Females,25–44,Number,2020–21,1847
-Queensland,Females,25–44,Number,2021–22,1620
-Queensland,Females,25–44,Number,2022–23,1486
-Queensland,Females,25–44,Number,2023–24,1438
-Queensland,Females,25–44,"Rate (per 100,000)",2013–14,259.04
-Queensland,Females,25–44,"Rate (per 100,000)",2014–15,275.88
-Queensland,Females,25–44,"Rate (per 100,000)",2015–16,293.18
-Queensland,Females,25–44,"Rate (per 100,000)",2016–17,272.73
-Queensland,Females,25–44,"Rate (per 100,000)",2017–18,263.79
-Queensland,Females,25–44,"Rate (per 100,000)",2018–19,250.26
-Queensland,Females,25–44,"Rate (per 100,000)",2019–20,243.16
-Queensland,Females,25–44,"Rate (per 100,000)",2020–21,257.97
-Queensland,Females,25–44,"Rate (per 100,000)",2021–22,223.21
-Queensland,Females,25–44,"Rate (per 100,000)",2022–23,198.73
-Queensland,Females,25–44,"Rate (per 100,000)",2023–24,188.67
-Queensland,Females,45–64,Number,2013–14,1047
-Queensland,Females,45–64,Number,2014–15,1048
-Queensland,Females,45–64,Number,2015–16,1205
-Queensland,Females,45–64,Number,2016–17,1184
-Queensland,Females,45–64,Number,2017–18,1084
-Queensland,Females,45–64,Number,2018–19,1058
-Queensland,Females,45–64,Number,2019–20,1018
-Queensland,Females,45–64,Number,2020–21,999
-Queensland,Females,45–64,Number,2021–22,919
-Queensland,Females,45–64,Number,2022–23,852
-Queensland,Females,45–64,Number,2023–24,810
-Queensland,Females,45–64,"Rate (per 100,000)",2013–14,179.64
-Queensland,Females,45–64,"Rate (per 100,000)",2014–15,176.84
-Queensland,Females,45–64,"Rate (per 100,000)",2015–16,199.7
-Queensland,Females,45–64,"Rate (per 100,000)",2016–17,192.35
-Queensland,Females,45–64,"Rate (per 100,000)",2017–18,172.86
-Queensland,Females,45–64,"Rate (per 100,000)",2018–19,165.97
-Queensland,Females,45–64,"Rate (per 100,000)",2019–20,157.11
-Queensland,Females,45–64,"Rate (per 100,000)",2020–21,152.09
-Queensland,Females,45–64,"Rate (per 100,000)",2021–22,138.22
-Queensland,Females,45–64,"Rate (per 100,000)",2022–23,126.55
-Queensland,Females,45–64,"Rate (per 100,000)",2023–24,119.66
-Queensland,Females,65+,Number,2013–14,147
-Queensland,Females,65+,Number,2014–15,187
-Queensland,Females,65+,Number,2015–16,155
-Queensland,Females,65+,Number,2016–17,193
-Queensland,Females,65+,Number,2017–18,204
-Queensland,Females,65+,Number,2018–19,197
-Queensland,Females,65+,Number,2019–20,214
-Queensland,Females,65+,Number,2020–21,257
-Queensland,Females,65+,Number,2021–22,248
-Queensland,Females,65+,Number,2022–23,244
-Queensland,Females,65+,Number,2023–24,257
-Queensland,Females,65+,"Rate (per 100,000)",2013–14,43.19
-Queensland,Females,65+,"Rate (per 100,000)",2014–15,52.91
-Queensland,Females,65+,"Rate (per 100,000)",2015–16,42.21
-Queensland,Females,65+,"Rate (per 100,000)",2016–17,50.61
-Queensland,Females,65+,"Rate (per 100,000)",2017–18,51.52
-Queensland,Females,65+,"Rate (per 100,000)",2018–19,47.88
-Queensland,Females,65+,"Rate (per 100,000)",2019–20,49.99
-Queensland,Females,65+,"Rate (per 100,000)",2020–21,57.71
-Queensland,Females,65+,"Rate (per 100,000)",2021–22,53.61
-Queensland,Females,65+,"Rate (per 100,000)",2022–23,50.86
-Queensland,Females,65+,"Rate (per 100,000)",2023–24,52.64
-Western Australia,Males,0–24,Number,2013–14,212
-Western Australia,Males,0–24,Number,2014–15,228
-Western Australia,Males,0–24,Number,2015–16,278
-Western Australia,Males,0–24,Number,2016–17,291
-Western Australia,Males,0–24,Number,2017–18,271
-Western Australia,Males,0–24,Number,2018–19,273
-Western Australia,Males,0–24,Number,2019–20,288
-Western Australia,Males,0–24,Number,2020–21,260
-Western Australia,Males,0–24,Number,2021–22,245
-Western Australia,Males,0–24,Number,2022–23,257
-Western Australia,Males,0–24,Number,2023–24,215
-Western Australia,Males,0–24,"Rate (per 100,000)",2013–14,50.46
-Western Australia,Males,0–24,"Rate (per 100,000)",2014–15,54.1
-Western Australia,Males,0–24,"Rate (per 100,000)",2015–16,65.81
-Western Australia,Males,0–24,"Rate (per 100,000)",2016–17,68.62
-Western Australia,Males,0–24,"Rate (per 100,000)",2017–18,63.46
-Western Australia,Males,0–24,"Rate (per 100,000)",2018–19,63.3
-Western Australia,Males,0–24,"Rate (per 100,000)",2019–20,66.03
-Western Australia,Males,0–24,"Rate (per 100,000)",2020–21,59.16
-Western Australia,Males,0–24,"Rate (per 100,000)",2021–22,55.31
-Western Australia,Males,0–24,"Rate (per 100,000)",2022–23,56.9
-Western Australia,Males,0–24,"Rate (per 100,000)",2023–24,46.94
-Western Australia,Males,0–24,Per cent,2013–14,9.11
-Western Australia,Males,0–24,Per cent,2014–15,8.83
-Western Australia,Males,0–24,Per cent,2015–16,9.6
-Western Australia,Males,0–24,Per cent,2016–17,9.24
-Western Australia,Males,0–24,Per cent,2017–18,9.46
-Western Australia,Males,0–24,Per cent,2018–19,9.38
-Western Australia,Males,0–24,Per cent,2019–20,9.63
-Western Australia,Males,0–24,Per cent,2020–21,8.6
-Western Australia,Males,0–24,Per cent,2021–22,9.45
-Western Australia,Males,0–24,Per cent,2022–23,11.42
-Western Australia,Males,0–24,Per cent,2023–24,10.02
-Western Australia,Males,25–44,Number,2013–14,380
-Western Australia,Males,25–44,Number,2014–15,375
-Western Australia,Males,25–44,Number,2015–16,532
-Western Australia,Males,25–44,Number,2016–17,492
-Western Australia,Males,25–44,Number,2017–18,480
-Western Australia,Males,25–44,Number,2018–19,427
-Western Australia,Males,25–44,Number,2019–20,453
-Western Australia,Males,25–44,Number,2020–21,395
-Western Australia,Males,25–44,Number,2021–22,343
-Western Australia,Males,25–44,Number,2022–23,403
-Western Australia,Males,25–44,Number,2023–24,396
-Western Australia,Males,25–44,"Rate (per 100,000)",2013–14,98.41
-Western Australia,Males,25–44,"Rate (per 100,000)",2014–15,96.75
-Western Australia,Males,25–44,"Rate (per 100,000)",2015–16,137.79
-Western Australia,Males,25–44,"Rate (per 100,000)",2016–17,128.24
-Western Australia,Males,25–44,"Rate (per 100,000)",2017–18,125.52
-Western Australia,Males,25–44,"Rate (per 100,000)",2018–19,111.52
-Western Australia,Males,25–44,"Rate (per 100,000)",2019–20,117.25
-Western Australia,Males,25–44,"Rate (per 100,000)",2020–21,101.2
-Western Australia,Males,25–44,"Rate (per 100,000)",2021–22,86.76
-Western Australia,Males,25–44,"Rate (per 100,000)",2022–23,98.24
-Western Australia,Males,25–44,"Rate (per 100,000)",2023–24,93.92
-Western Australia,Males,45–64,Number,2013–14,176
-Western Australia,Males,45–64,Number,2014–15,160
-Western Australia,Males,45–64,Number,2015–16,251
-Western Australia,Males,45–64,Number,2016–17,277
-Western Australia,Males,45–64,Number,2017–18,216
-Western Australia,Males,45–64,Number,2018–19,215
-Western Australia,Males,45–64,Number,2019–20,229
-Western Australia,Males,45–64,Number,2020–21,203
-Western Australia,Males,45–64,Number,2021–22,172
-Western Australia,Males,45–64,Number,2022–23,209
-Western Australia,Males,45–64,Number,2023–24,249
-Western Australia,Males,45–64,"Rate (per 100,000)",2013–14,57.59
-Western Australia,Males,45–64,"Rate (per 100,000)",2014–15,51.91
-Western Australia,Males,45–64,"Rate (per 100,000)",2015–16,80.87
-Western Australia,Males,45–64,"Rate (per 100,000)",2016–17,88.17
-Western Australia,Males,45–64,"Rate (per 100,000)",2017–18,67.58
-Western Australia,Males,45–64,"Rate (per 100,000)",2018–19,66.17
-Western Australia,Males,45–64,"Rate (per 100,000)",2019–20,69.18
-Western Australia,Males,45–64,"Rate (per 100,000)",2020–21,60.23
-Western Australia,Males,45–64,"Rate (per 100,000)",2021–22,50.41
-Western Australia,Males,45–64,"Rate (per 100,000)",2022–23,60.63
-Western Australia,Males,45–64,"Rate (per 100,000)",2023–24,71.81
-Western Australia,Males,65+,Number,2013–14,49
-Western Australia,Males,65+,Number,2014–15,44
-Western Australia,Males,65+,Number,2015–16,55
-Western Australia,Males,65+,Number,2016–17,67
-Western Australia,Males,65+,Number,2017–18,65
-Western Australia,Males,65+,Number,2018–19,80
-Western Australia,Males,65+,Number,2019–20,68
-Western Australia,Males,65+,Number,2020–21,85
-Western Australia,Males,65+,Number,2021–22,64
-Western Australia,Males,65+,Number,2022–23,71
-Western Australia,Males,65+,Number,2023–24,83
-Western Australia,Males,65+,"Rate (per 100,000)",2013–14,32.95
-Western Australia,Males,65+,"Rate (per 100,000)",2014–15,28.48
-Western Australia,Males,65+,"Rate (per 100,000)",2015–16,34.29
-Western Australia,Males,65+,"Rate (per 100,000)",2016–17,40.11
-Western Australia,Males,65+,"Rate (per 100,000)",2017–18,37.3
-Western Australia,Males,65+,"Rate (per 100,000)",2018–19,43.99
-Western Australia,Males,65+,"Rate (per 100,000)",2019–20,35.68
-Western Australia,Males,65+,"Rate (per 100,000)",2020–21,42.53
-Western Australia,Males,65+,"Rate (per 100,000)",2021–22,30.79
-Western Australia,Males,65+,"Rate (per 100,000)",2022–23,33
-Western Australia,Males,65+,"Rate (per 100,000)",2023–24,37.92
-Western Australia,Females,0–24,Number,2013–14,584
-Western Australia,Females,0–24,Number,2014–15,551
-Western Australia,Females,0–24,Number,2015–16,764
-Western Australia,Females,0–24,Number,2016–17,772
-Western Australia,Females,0–24,Number,2017–18,803
-Western Australia,Females,0–24,Number,2018–19,801
-Western Australia,Females,0–24,Number,2019–20,771
-Western Australia,Females,0–24,Number,2020–21,963
-Western Australia,Females,0–24,Number,2021–22,950
-Western Australia,Females,0–24,Number,2022–23,732
-Western Australia,Females,0–24,Number,2023–24,611
-Western Australia,Females,0–24,"Rate (per 100,000)",2013–14,145.84
-Western Australia,Females,0–24,"Rate (per 100,000)",2014–15,137.15
-Western Australia,Females,0–24,"Rate (per 100,000)",2015–16,190.05
-Western Australia,Females,0–24,"Rate (per 100,000)",2016–17,191.55
-Western Australia,Females,0–24,"Rate (per 100,000)",2017–18,198.29
-Western Australia,Females,0–24,"Rate (per 100,000)",2018–19,196.48
-Western Australia,Females,0–24,"Rate (per 100,000)",2019–20,187.39
-Western Australia,Females,0–24,"Rate (per 100,000)",2020–21,232.58
-Western Australia,Females,0–24,"Rate (per 100,000)",2021–22,227.95
-Western Australia,Females,0–24,"Rate (per 100,000)",2022–23,172.48
-Western Australia,Females,0–24,"Rate (per 100,000)",2023–24,142.11
-Western Australia,Females,25–44,Number,2013–14,517
-Western Australia,Females,25–44,Number,2014–15,554
-Western Australia,Females,25–44,Number,2015–16,700
-Western Australia,Females,25–44,Number,2016–17,709
-Western Australia,Females,25–44,Number,2017–18,674
-Western Australia,Females,25–44,Number,2018–19,650
-Western Australia,Females,25–44,Number,2019–20,641
-Western Australia,Females,25–44,Number,2020–21,610
-Western Australia,Females,25–44,Number,2021–22,523
-Western Australia,Females,25–44,Number,2022–23,549
-Western Australia,Females,25–44,Number,2023–24,524
-Western Australia,Females,25–44,"Rate (per 100,000)",2013–14,140.55
-Western Australia,Females,25–44,"Rate (per 100,000)",2014–15,148.65
-Western Australia,Females,25–44,"Rate (per 100,000)",2015–16,186.94
-Western Australia,Females,25–44,"Rate (per 100,000)",2016–17,189.17
-Western Australia,Females,25–44,"Rate (per 100,000)",2017–18,179.03
-Western Australia,Females,25–44,"Rate (per 100,000)",2018–19,171.12
-Western Australia,Females,25–44,"Rate (per 100,000)",2019–20,166.62
-Western Australia,Females,25–44,"Rate (per 100,000)",2020–21,156.72
-Western Australia,Females,25–44,"Rate (per 100,000)",2021–22,132.85
-Western Australia,Females,25–44,"Rate (per 100,000)",2022–23,135.28
-Western Australia,Females,25–44,"Rate (per 100,000)",2023–24,126.19
-Western Australia,Females,45–64,Number,2013–14,306
-Western Australia,Females,45–64,Number,2014–15,297
-Western Australia,Females,45–64,Number,2015–16,409
-Western Australia,Females,45–64,Number,2016–17,373
-Western Australia,Females,45–64,Number,2017–18,388
-Western Australia,Females,45–64,Number,2018–19,390
-Western Australia,Females,45–64,Number,2019–20,369
-Western Australia,Females,45–64,Number,2020–21,325
-Western Australia,Females,45–64,Number,2021–22,311
-Western Australia,Females,45–64,Number,2022–23,235
-Western Australia,Females,45–64,Number,2023–24,251
-Western Australia,Females,45–64,"Rate (per 100,000)",2013–14,100.36
-Western Australia,Females,45–64,"Rate (per 100,000)",2014–15,96.22
-Western Australia,Females,45–64,"Rate (per 100,000)",2015–16,130.9
-Western Australia,Females,45–64,"Rate (per 100,000)",2016–17,117.52
-Western Australia,Females,45–64,"Rate (per 100,000)",2017–18,120.31
-Western Australia,Females,45–64,"Rate (per 100,000)",2018–19,119.17
-Western Australia,Females,45–64,"Rate (per 100,000)",2019–20,110.77
-Western Australia,Females,45–64,"Rate (per 100,000)",2020–21,96.12
-Western Australia,Females,45–64,"Rate (per 100,000)",2021–22,91.17
-Western Australia,Females,45–64,"Rate (per 100,000)",2022–23,68.23
-Western Australia,Females,45–64,"Rate (per 100,000)",2023–24,72.47
-Western Australia,Females,65+,Number,2013–14,48
-Western Australia,Females,65+,Number,2014–15,41
-Western Australia,Females,65+,Number,2015–16,70
-Western Australia,Females,65+,Number,2016–17,93
-Western Australia,Females,65+,Number,2017–18,68
-Western Australia,Females,65+,Number,2018–19,76
-Western Australia,Females,65+,Number,2019–20,70
-Western Australia,Females,65+,Number,2020–21,77
-Western Australia,Females,65+,Number,2021–22,83
-Western Australia,Females,65+,Number,2022–23,84
-Western Australia,Females,65+,Number,2023–24,89
-Western Australia,Females,65+,"Rate (per 100,000)",2013–14,28.49
-Western Australia,Females,65+,"Rate (per 100,000)",2014–15,23.53
-Western Australia,Females,65+,"Rate (per 100,000)",2015–16,38.87
-Western Australia,Females,65+,"Rate (per 100,000)",2016–17,49.81
-Western Australia,Females,65+,"Rate (per 100,000)",2017–18,34.96
-Western Australia,Females,65+,"Rate (per 100,000)",2018–19,37.44
-Western Australia,Females,65+,"Rate (per 100,000)",2019–20,32.89
-Western Australia,Females,65+,"Rate (per 100,000)",2020–21,34.53
-Western Australia,Females,65+,"Rate (per 100,000)",2021–22,35.82
-Western Australia,Females,65+,"Rate (per 100,000)",2022–23,34.99
-Western Australia,Females,65+,"Rate (per 100,000)",2023–24,36.41
-South Australia,Males,0–24,Number,2013–14,214
-South Australia,Males,0–24,Number,2014–15,209
-South Australia,Males,0–24,Number,2015–16,278
-South Australia,Males,0–24,Number,2016–17,267
-South Australia,Males,0–24,Number,2017–18,244
-South Australia,Males,0–24,Number,2018–19,256
-South Australia,Males,0–24,Number,2019–20,271
-South Australia,Males,0–24,Number,2020–21,246
-South Australia,Males,0–24,Number,2021–22,214
-South Australia,Males,0–24,Number,2022–23,206
-South Australia,Males,0–24,Number,2023–24,175
-South Australia,Males,0–24,"Rate (per 100,000)",2013–14,80.49
-South Australia,Males,0–24,"Rate (per 100,000)",2014–15,78.26
-South Australia,Males,0–24,"Rate (per 100,000)",2015–16,103.73
-South Australia,Males,0–24,"Rate (per 100,000)",2016–17,99.28
-South Australia,Males,0–24,"Rate (per 100,000)",2017–18,90.43
-South Australia,Males,0–24,"Rate (per 100,000)",2018–19,94.44
-South Australia,Males,0–24,"Rate (per 100,000)",2019–20,99.69
-South Australia,Males,0–24,"Rate (per 100,000)",2020–21,90.9
-South Australia,Males,0–24,"Rate (per 100,000)",2021–22,79.17
-South Australia,Males,0–24,"Rate (per 100,000)",2022–23,75.34
-South Australia,Males,0–24,"Rate (per 100,000)",2023–24,63.49
-South Australia,Males,25–44,Number,2013–14,353
-South Australia,Males,25–44,Number,2014–15,360
-South Australia,Males,25–44,Number,2015–16,427
-South Australia,Males,25–44,Number,2016–17,439
-South Australia,Males,25–44,Number,2017–18,416
-South Australia,Males,25–44,Number,2018–19,423
-South Australia,Males,25–44,Number,2019–20,382
-South Australia,Males,25–44,Number,2020–21,398
-South Australia,Males,25–44,Number,2021–22,292
-South Australia,Males,25–44,Number,2022–23,324
-South Australia,Males,25–44,Number,2023–24,327
-South Australia,Males,25–44,"Rate (per 100,000)",2013–14,158.85
-South Australia,Males,25–44,"Rate (per 100,000)",2014–15,161.66
-South Australia,Males,25–44,"Rate (per 100,000)",2015–16,191.88
-South Australia,Males,25–44,"Rate (per 100,000)",2016–17,197.38
-South Australia,Males,25–44,"Rate (per 100,000)",2017–18,185.93
-South Australia,Males,25–44,"Rate (per 100,000)",2018–19,186.81
-South Australia,Males,25–44,"Rate (per 100,000)",2019–20,166.09
-South Australia,Males,25–44,"Rate (per 100,000)",2020–21,170.34
-South Australia,Males,25–44,"Rate (per 100,000)",2021–22,123.18
-South Australia,Males,25–44,"Rate (per 100,000)",2022–23,133.52
-South Australia,Males,25–44,"Rate (per 100,000)",2023–24,132.61
-South Australia,Males,45–64,Number,2013–14,170
-South Australia,Males,45–64,Number,2014–15,188
-South Australia,Males,45–64,Number,2015–16,238
-South Australia,Males,45–64,Number,2016–17,252
-South Australia,Males,45–64,Number,2017–18,248
-South Australia,Males,45–64,Number,2018–19,229
-South Australia,Males,45–64,Number,2019–20,237
-South Australia,Males,45–64,Number,2020–21,195
-South Australia,Males,45–64,Number,2021–22,204
-South Australia,Males,45–64,Number,2022–23,196
-South Australia,Males,45–64,Number,2023–24,200
-South Australia,Males,45–64,"Rate (per 100,000)",2013–14,79.22
-South Australia,Males,45–64,"Rate (per 100,000)",2014–15,87.22
-South Australia,Males,45–64,"Rate (per 100,000)",2015–16,109.95
-South Australia,Males,45–64,"Rate (per 100,000)",2016–17,115.62
-South Australia,Males,45–64,"Rate (per 100,000)",2017–18,112.93
-South Australia,Males,45–64,"Rate (per 100,000)",2018–19,103.7
-South Australia,Males,45–64,"Rate (per 100,000)",2019–20,106.66
-South Australia,Males,45–64,"Rate (per 100,000)",2020–21,87.3
-South Australia,Males,45–64,"Rate (per 100,000)",2021–22,91.25
-South Australia,Males,45–64,"Rate (per 100,000)",2022–23,87.87
-South Australia,Males,45–64,"Rate (per 100,000)",2023–24,89.81
-South Australia,Males,65+,Number,2013–14,40
-South Australia,Males,65+,Number,2014–15,47
-South Australia,Males,65+,Number,2015–16,51
-South Australia,Males,65+,Number,2016–17,52
-South Australia,Males,65+,Number,2017–18,53
-South Australia,Males,65+,Number,2018–19,51
-South Australia,Males,65+,Number,2019–20,58
-South Australia,Males,65+,Number,2020–21,68
-South Australia,Males,65+,Number,2021–22,58
-South Australia,Males,65+,Number,2022–23,78
-South Australia,Males,65+,Number,2023–24,77
-South Australia,Males,65+,"Rate (per 100,000)",2013–14,31.04
-South Australia,Males,65+,"Rate (per 100,000)",2014–15,35.32
-South Australia,Males,65+,"Rate (per 100,000)",2015–16,37.18
-South Australia,Males,65+,"Rate (per 100,000)",2016–17,36.8
-South Australia,Males,65+,"Rate (per 100,000)",2017–18,36.42
-South Australia,Males,65+,"Rate (per 100,000)",2018–19,34.01
-South Australia,Males,65+,"Rate (per 100,000)",2019–20,37.43
-South Australia,Males,65+,"Rate (per 100,000)",2020–21,42.47
-South Australia,Males,65+,"Rate (per 100,000)",2021–22,35.22
-South Australia,Males,65+,"Rate (per 100,000)",2022–23,46.17
-South Australia,Males,65+,"Rate (per 100,000)",2023–24,45.01
-South Australia,Females,0–24,Number,2013–14,577
-South Australia,Females,0–24,Number,2014–15,609
-South Australia,Females,0–24,Number,2015–16,763
-South Australia,Females,0–24,Number,2016–17,747
-South Australia,Females,0–24,Number,2017–18,696
-South Australia,Females,0–24,Number,2018–19,602
-South Australia,Females,0–24,Number,2019–20,646
-South Australia,Females,0–24,Number,2020–21,842
-South Australia,Females,0–24,Number,2021–22,883
-South Australia,Females,0–24,Number,2022–23,743
-South Australia,Females,0–24,Number,2023–24,695
-South Australia,Females,0–24,"Rate (per 100,000)",2013–14,228.45
-South Australia,Females,0–24,"Rate (per 100,000)",2014–15,239.91
-South Australia,Females,0–24,"Rate (per 100,000)",2015–16,299.14
-South Australia,Females,0–24,"Rate (per 100,000)",2016–17,291.9
-South Australia,Females,0–24,"Rate (per 100,000)",2017–18,271.64
-South Australia,Females,0–24,"Rate (per 100,000)",2018–19,234.39
-South Australia,Females,0–24,"Rate (per 100,000)",2019–20,251.2
-South Australia,Females,0–24,"Rate (per 100,000)",2020–21,328.85
-South Australia,Females,0–24,"Rate (per 100,000)",2021–22,345.43
-South Australia,Females,0–24,"Rate (per 100,000)",2022–23,288.15
-South Australia,Females,0–24,"Rate (per 100,000)",2023–24,267.81
-South Australia,Females,25–44,Number,2013–14,454
-South Australia,Females,25–44,Number,2014–15,518
-South Australia,Females,25–44,Number,2015–16,606
-South Australia,Females,25–44,Number,2016–17,538
-South Australia,Females,25–44,Number,2017–18,464
-South Australia,Females,25–44,Number,2018–19,514
-South Australia,Females,25–44,Number,2019–20,483
-South Australia,Females,25–44,Number,2020–21,518
-South Australia,Females,25–44,Number,2021–22,462
-South Australia,Females,25–44,Number,2022–23,445
-South Australia,Females,25–44,Number,2023–24,468
-South Australia,Females,25–44,"Rate (per 100,000)",2013–14,206.36
-South Australia,Females,25–44,"Rate (per 100,000)",2014–15,234.09
-South Australia,Females,25–44,"Rate (per 100,000)",2015–16,273.26
-South Australia,Females,25–44,"Rate (per 100,000)",2016–17,241.89
-South Australia,Females,25–44,"Rate (per 100,000)",2017–18,206.79
-South Australia,Females,25–44,"Rate (per 100,000)",2018–19,225.97
-South Australia,Females,25–44,"Rate (per 100,000)",2019–20,208.67
-South Australia,Females,25–44,"Rate (per 100,000)",2020–21,220.71
-South Australia,Females,25–44,"Rate (per 100,000)",2021–22,194.42
-South Australia,Females,25–44,"Rate (per 100,000)",2022–23,183
-South Australia,Females,25–44,"Rate (per 100,000)",2023–24,189.57
-South Australia,Females,45–64,Number,2013–14,348
-South Australia,Females,45–64,Number,2014–15,313
-South Australia,Females,45–64,Number,2015–16,369
-South Australia,Females,45–64,Number,2016–17,340
-South Australia,Females,45–64,Number,2017–18,333
-South Australia,Females,45–64,Number,2018–19,358
-South Australia,Females,45–64,Number,2019–20,341
-South Australia,Females,45–64,Number,2020–21,355
-South Australia,Females,45–64,Number,2021–22,299
-South Australia,Females,45–64,Number,2022–23,262
-South Australia,Females,45–64,Number,2023–24,276
-South Australia,Females,45–64,"Rate (per 100,000)",2013–14,157.52
-South Australia,Females,45–64,"Rate (per 100,000)",2014–15,140.67
-South Australia,Females,45–64,"Rate (per 100,000)",2015–16,164.75
-South Australia,Females,45–64,"Rate (per 100,000)",2016–17,150.65
-South Australia,Females,45–64,"Rate (per 100,000)",2017–18,146.47
-South Australia,Females,45–64,"Rate (per 100,000)",2018–19,156.67
-South Australia,Females,45–64,"Rate (per 100,000)",2019–20,148.26
-South Australia,Females,45–64,"Rate (per 100,000)",2020–21,153.74
-South Australia,Females,45–64,"Rate (per 100,000)",2021–22,129.58
-South Australia,Females,45–64,"Rate (per 100,000)",2022–23,113.58
-South Australia,Females,45–64,"Rate (per 100,000)",2023–24,119.66
-South Australia,Females,65+,Number,2013–14,54
-South Australia,Females,65+,Number,2014–15,62
-South Australia,Females,65+,Number,2015–16,65
-South Australia,Females,65+,Number,2016–17,57
-South Australia,Females,65+,Number,2017–18,58
-South Australia,Females,65+,Number,2018–19,78
-South Australia,Females,65+,Number,2019–20,88
-South Australia,Females,65+,Number,2020–21,92
-South Australia,Females,65+,Number,2021–22,81
-South Australia,Females,65+,Number,2022–23,83
-South Australia,Females,65+,Number,2023–24,91
-South Australia,Females,65+,"Rate (per 100,000)",2013–14,35.03
-South Australia,Females,65+,"Rate (per 100,000)",2014–15,39.28
-South Australia,Females,65+,"Rate (per 100,000)",2015–16,40.18
-South Australia,Females,65+,"Rate (per 100,000)",2016–17,34.31
-South Australia,Females,65+,"Rate (per 100,000)",2017–18,33.97
-South Australia,Females,65+,"Rate (per 100,000)",2018–19,44.39
-South Australia,Females,65+,"Rate (per 100,000)",2019–20,48.55
-South Australia,Females,65+,"Rate (per 100,000)",2020–21,49.18
-South Australia,Females,65+,"Rate (per 100,000)",2021–22,42.12
-South Australia,Females,65+,"Rate (per 100,000)",2022–23,42.13
-South Australia,Females,65+,"Rate (per 100,000)",2023–24,45.67
-Tasmania,Males,0–24,Number,2013–14,39
-Tasmania,Males,0–24,Number,2014–15,33
-Tasmania,Males,0–24,Number,2015–16,54
-Tasmania,Males,0–24,Number,2016–17,68
-Tasmania,Males,0–24,Number,2017–18,89
-Tasmania,Males,0–24,Number,2018–19,89
-Tasmania,Males,0–24,Number,2019–20,48
-Tasmania,Males,0–24,Number,2020–21,48
-Tasmania,Males,0–24,Number,2021–22,45
-Tasmania,Males,0–24,Number,2022–23,49
-Tasmania,Males,0–24,Number,2023–24,54
-Tasmania,Males,0–24,"Rate (per 100,000)",2013–14,47.48
-Tasmania,Males,0–24,"Rate (per 100,000)",2014–15,40.44
-Tasmania,Males,0–24,"Rate (per 100,000)",2015–16,66.44
-Tasmania,Males,0–24,"Rate (per 100,000)",2016–17,83.4
-Tasmania,Males,0–24,"Rate (per 100,000)",2017–18,108.41
-Tasmania,Males,0–24,"Rate (per 100,000)",2018–19,107.98
-Tasmania,Males,0–24,"Rate (per 100,000)",2019–20,58.36
-Tasmania,Males,0–24,"Rate (per 100,000)",2020–21,58.56
-Tasmania,Males,0–24,"Rate (per 100,000)",2021–22,55.06
-Tasmania,Males,0–24,"Rate (per 100,000)",2022–23,60.24
-Tasmania,Males,0–24,"Rate (per 100,000)",2023–24,66.55
-Tasmania,Males,25–44,Number,2013–14,70
-Tasmania,Males,25–44,Number,2014–15,62
-Tasmania,Males,25–44,Number,2015–16,68
-Tasmania,Males,25–44,Number,2016–17,81
-Tasmania,Males,25–44,Number,2017–18,84
-Tasmania,Males,25–44,Number,2018–19,103
-Tasmania,Males,25–44,Number,2019–20,57
-Tasmania,Males,25–44,Number,2020–21,72
-Tasmania,Males,25–44,Number,2021–22,48
-Tasmania,Males,25–44,Number,2022–23,52
-Tasmania,Males,25–44,Number,2023–24,47
-Tasmania,Males,25–44,"Rate (per 100,000)",2013–14,114.91
-Tasmania,Males,25–44,"Rate (per 100,000)",2014–15,102.74
-Tasmania,Males,25–44,"Rate (per 100,000)",2015–16,113.54
-Tasmania,Males,25–44,"Rate (per 100,000)",2016–17,133.94
-Tasmania,Males,25–44,"Rate (per 100,000)",2017–18,134.29
-Tasmania,Males,25–44,"Rate (per 100,000)",2018–19,158.09
-Tasmania,Males,25–44,"Rate (per 100,000)",2019–20,83.86
-Tasmania,Males,25–44,"Rate (per 100,000)",2020–21,101.06
-Tasmania,Males,25–44,"Rate (per 100,000)",2021–22,65.27
-Tasmania,Males,25–44,"Rate (per 100,000)",2022–23,69.94
-Tasmania,Males,25–44,"Rate (per 100,000)",2023–24,62.98
-Tasmania,Males,45–64,Number,2013–14,44
-Tasmania,Males,45–64,Number,2014–15,50
-Tasmania,Males,45–64,Number,2015–16,75
-Tasmania,Males,45–64,Number,2016–17,73
-Tasmania,Males,45–64,Number,2017–18,72
-Tasmania,Males,45–64,Number,2018–19,71
-Tasmania,Males,45–64,Number,2019–20,45
-Tasmania,Males,45–64,Number,2020–21,35
-Tasmania,Males,45–64,Number,2021–22,38
-Tasmania,Males,45–64,Number,2022–23,47
-Tasmania,Males,45–64,Number,2023–24,34
-Tasmania,Males,45–64,"Rate (per 100,000)",2013–14,63.33
-Tasmania,Males,45–64,"Rate (per 100,000)",2014–15,71.95
-Tasmania,Males,45–64,"Rate (per 100,000)",2015–16,107.97
-Tasmania,Males,45–64,"Rate (per 100,000)",2016–17,104.73
-Tasmania,Males,45–64,"Rate (per 100,000)",2017–18,102.63
-Tasmania,Males,45–64,"Rate (per 100,000)",2018–19,100.49
-Tasmania,Males,45–64,"Rate (per 100,000)",2019–20,63.28
-Tasmania,Males,45–64,"Rate (per 100,000)",2020–21,49.06
-Tasmania,Males,45–64,"Rate (per 100,000)",2021–22,53.38
-Tasmania,Males,45–64,"Rate (per 100,000)",2022–23,66.58
-Tasmania,Males,45–64,"Rate (per 100,000)",2023–24,48.44
-Tasmania,Males,65+,Number,2013–14,13
-Tasmania,Males,65+,Number,2014–15,16
-Tasmania,Males,65+,Number,2015–16,12
-Tasmania,Males,65+,Number,2016–17,19
-Tasmania,Males,65+,Number,2017–18,14
-Tasmania,Males,65+,Number,2018–19,15
-Tasmania,Males,65+,Number,2019–20,24
-Tasmania,Males,65+,Number,2020–21,17
-Tasmania,Males,65+,Number,2021–22,14
-Tasmania,Males,65+,Number,2022–23,17
-Tasmania,Males,65+,Number,2023–24,17
-Tasmania,Males,65+,"Rate (per 100,000)",2013–14,30.72
-Tasmania,Males,65+,"Rate (per 100,000)",2014–15,36.58
-Tasmania,Males,65+,"Rate (per 100,000)",2015–16,26.58
-Tasmania,Males,65+,"Rate (per 100,000)",2016–17,40.6
-Tasmania,Males,65+,"Rate (per 100,000)",2017–18,28.78
-Tasmania,Males,65+,"Rate (per 100,000)",2018–19,29.75
-Tasmania,Males,65+,"Rate (per 100,000)",2019–20,45.93
-Tasmania,Males,65+,"Rate (per 100,000)",2020–21,31.4
-Tasmania,Males,65+,"Rate (per 100,000)",2021–22,25.08
-Tasmania,Males,65+,"Rate (per 100,000)",2022–23,29.66
-Tasmania,Males,65+,"Rate (per 100,000)",2023–24,29.28
-Tasmania,Females,0–24,Number,2013–14,143
-Tasmania,Females,0–24,Number,2014–15,150
-Tasmania,Females,0–24,Number,2015–16,205
-Tasmania,Females,0–24,Number,2016–17,203
-Tasmania,Females,0–24,Number,2017–18,250
-Tasmania,Females,0–24,Number,2018–19,238
-Tasmania,Females,0–24,Number,2019–20,179
-Tasmania,Females,0–24,Number,2020–21,261
-Tasmania,Females,0–24,Number,2021–22,278
-Tasmania,Females,0–24,Number,2022–23,225
-Tasmania,Females,0–24,Number,2023–24,183
-Tasmania,Females,0–24,"Rate (per 100,000)",2013–14,187.05
-Tasmania,Females,0–24,"Rate (per 100,000)",2014–15,197.4
-Tasmania,Females,0–24,"Rate (per 100,000)",2015–16,271.12
-Tasmania,Females,0–24,"Rate (per 100,000)",2016–17,267.79
-Tasmania,Females,0–24,"Rate (per 100,000)",2017–18,327.03
-Tasmania,Females,0–24,"Rate (per 100,000)",2018–19,309.11
-Tasmania,Females,0–24,"Rate (per 100,000)",2019–20,232.01
-Tasmania,Females,0–24,"Rate (per 100,000)",2020–21,339.61
-Tasmania,Females,0–24,"Rate (per 100,000)",2021–22,363.64
-Tasmania,Females,0–24,"Rate (per 100,000)",2022–23,295.81
-Tasmania,Females,0–24,"Rate (per 100,000)",2023–24,241.21
-Tasmania,Females,0–24,Per cent,2013–14,2.1
-Tasmania,Females,0–24,Per cent,2014–15,2.1
-Tasmania,Females,0–24,Per cent,2015–16,2.55
-Tasmania,Females,0–24,Per cent,2016–17,2.24
-Tasmania,Females,0–24,Per cent,2017–18,3.09
-Tasmania,Females,0–24,Per cent,2018–19,3.03
-Tasmania,Females,0–24,Per cent,2019–20,2.27
-Tasmania,Females,0–24,Per cent,2020–21,2.69
-Tasmania,Females,0–24,Per cent,2021–22,3.12
-Tasmania,Females,0–24,Per cent,2022–23,2.99
-Tasmania,Females,0–24,Per cent,2023–24,2.78
-Tasmania,Females,25–44,Number,2013–14,102
-Tasmania,Females,25–44,Number,2014–15,122
-Tasmania,Females,25–44,Number,2015–16,151
-Tasmania,Females,25–44,Number,2016–17,135
-Tasmania,Females,25–44,Number,2017–18,167
-Tasmania,Females,25–44,Number,2018–19,180
-Tasmania,Females,25–44,Number,2019–20,83
-Tasmania,Females,25–44,Number,2020–21,93
-Tasmania,Females,25–44,Number,2021–22,76
-Tasmania,Females,25–44,Number,2022–23,87
-Tasmania,Females,25–44,Number,2023–24,91
-Tasmania,Females,25–44,"Rate (per 100,000)",2013–14,163.1
-Tasmania,Females,25–44,"Rate (per 100,000)",2014–15,196.34
-Tasmania,Females,25–44,"Rate (per 100,000)",2015–16,244.23
-Tasmania,Females,25–44,"Rate (per 100,000)",2016–17,216.33
-Tasmania,Females,25–44,"Rate (per 100,000)",2017–18,260.17
-Tasmania,Females,25–44,"Rate (per 100,000)",2018–19,270.27
-Tasmania,Females,25–44,"Rate (per 100,000)",2019–20,119.9
-Tasmania,Females,25–44,"Rate (per 100,000)",2020–21,129.39
-Tasmania,Females,25–44,"Rate (per 100,000)",2021–22,103.07
-Tasmania,Females,25–44,"Rate (per 100,000)",2022–23,116.71
-Tasmania,Females,25–44,"Rate (per 100,000)",2023–24,121.57
-Tasmania,Females,45–64,Number,2013–14,87
-Tasmania,Females,45–64,Number,2014–15,103
-Tasmania,Females,45–64,Number,2015–16,79
-Tasmania,Females,45–64,Number,2016–17,127
-Tasmania,Females,45–64,Number,2017–18,111
-Tasmania,Females,45–64,Number,2018–19,110
-Tasmania,Females,45–64,Number,2019–20,75
-Tasmania,Females,45–64,Number,2020–21,71
-Tasmania,Females,45–64,Number,2021–22,67
-Tasmania,Females,45–64,Number,2022–23,72
-Tasmania,Females,45–64,Number,2023–24,71
-Tasmania,Females,45–64,"Rate (per 100,000)",2013–14,121.54
-Tasmania,Females,45–64,"Rate (per 100,000)",2014–15,143.04
-Tasmania,Females,45–64,"Rate (per 100,000)",2015–16,109.1
-Tasmania,Females,45–64,"Rate (per 100,000)",2016–17,173.82
-Tasmania,Females,45–64,"Rate (per 100,000)",2017–18,150.37
-Tasmania,Females,45–64,"Rate (per 100,000)",2018–19,148.03
-Tasmania,Females,45–64,"Rate (per 100,000)",2019–20,100.39
-Tasmania,Females,45–64,"Rate (per 100,000)",2020–21,94.67
-Tasmania,Females,45–64,"Rate (per 100,000)",2021–22,89.5
-Tasmania,Females,45–64,"Rate (per 100,000)",2022–23,96.8
-Tasmania,Females,45–64,"Rate (per 100,000)",2023–24,95.84
-Tasmania,Females,65+,Number,2013–14,12
-Tasmania,Females,65+,Number,2014–15,25
-Tasmania,Females,65+,Number,2015–16,23
-Tasmania,Females,65+,Number,2016–17,33
-Tasmania,Females,65+,Number,2017–18,20
-Tasmania,Females,65+,Number,2018–19,35
-Tasmania,Females,65+,Number,2019–20,14
-Tasmania,Females,65+,Number,2020–21,17
-Tasmania,Females,65+,Number,2021–22,18
-Tasmania,Females,65+,Number,2022–23,20
-Tasmania,Females,65+,Number,2023–24,16
-Tasmania,Females,65+,"Rate (per 100,000)",2013–14,25.27
-Tasmania,Females,65+,"Rate (per 100,000)",2014–15,50.97
-Tasmania,Females,65+,"Rate (per 100,000)",2015–16,45.39
-Tasmania,Females,65+,"Rate (per 100,000)",2016–17,63.03
-Tasmania,Females,65+,"Rate (per 100,000)",2017–18,36.95
-Tasmania,Females,65+,"Rate (per 100,000)",2018–19,62.49
-Tasmania,Females,65+,"Rate (per 100,000)",2019–20,24.12
-Tasmania,Females,65+,"Rate (per 100,000)",2020–21,28.34
-Tasmania,Females,65+,"Rate (per 100,000)",2021–22,29.11
-Tasmania,Females,65+,"Rate (per 100,000)",2022–23,31.49
-Tasmania,Females,65+,"Rate (per 100,000)",2023–24,24.88
-Australian Capital Territory,Males,0–24,Number,2013–14,36
-Australian Capital Territory,Males,0–24,Number,2014–15,51
-Australian Capital Territory,Males,0–24,Number,2015–16,54
-Australian Capital Territory,Males,0–24,Number,2016–17,58
-Australian Capital Territory,Males,0–24,Number,2017–18,55
-Australian Capital Territory,Males,0–24,Number,2018–19,73
-Australian Capital Territory,Males,0–24,Number,2019–20,67
-Australian Capital Territory,Males,0–24,Number,2020–21,47
-Australian Capital Territory,Males,0–24,Number,2021–22,55
-Australian Capital Territory,Males,0–24,Number,2022–23,69
-Australian Capital Territory,Males,0–24,Number,2023–24,77
-Australian Capital Territory,Males,0–24,"Rate (per 100,000)",2013–14,54.51
-Australian Capital Territory,Males,0–24,"Rate (per 100,000)",2014–15,76.38
-Australian Capital Territory,Males,0–24,"Rate (per 100,000)",2015–16,79.61
-Australian Capital Territory,Males,0–24,"Rate (per 100,000)",2016–17,83.41
-Australian Capital Territory,Males,0–24,"Rate (per 100,000)",2017–18,77.05
-Australian Capital Territory,Males,0–24,"Rate (per 100,000)",2018–19,100.53
-Australian Capital Territory,Males,0–24,"Rate (per 100,000)",2019–20,91.64
-Australian Capital Territory,Males,0–24,"Rate (per 100,000)",2020–21,64.06
-Australian Capital Territory,Males,0–24,"Rate (per 100,000)",2021–22,74.76
-Australian Capital Territory,Males,0–24,"Rate (per 100,000)",2022–23,92.89
-Australian Capital Territory,Males,0–24,"Rate (per 100,000)",2023–24,102.69
-Australian Capital Territory,Males,25–44,Number,2013–14,57
-Australian Capital Territory,Males,25–44,Number,2014–15,42
-Australian Capital Territory,Males,25–44,Number,2015–16,56
-Australian Capital Territory,Males,25–44,Number,2016–17,74
-Australian Capital Territory,Males,25–44,Number,2017–18,62
-Australian Capital Territory,Males,25–44,Number,2018–19,72
-Australian Capital Territory,Males,25–44,Number,2019–20,75
-Australian Capital Territory,Males,25–44,Number,2020–21,78
-Australian Capital Territory,Males,25–44,Number,2021–22,59
-Australian Capital Territory,Males,25–44,Number,2022–23,67
-Australian Capital Territory,Males,25–44,Number,2023–24,84
-Australian Capital Territory,Males,25–44,"Rate (per 100,000)",2013–14,92.64
-Australian Capital Territory,Males,25–44,"Rate (per 100,000)",2014–15,67.36
-Australian Capital Territory,Males,25–44,"Rate (per 100,000)",2015–16,88.66
-Australian Capital Territory,Males,25–44,"Rate (per 100,000)",2016–17,115.07
-Australian Capital Territory,Males,25–44,"Rate (per 100,000)",2017–18,93.72
-Australian Capital Territory,Males,25–44,"Rate (per 100,000)",2018–19,105.67
-Australian Capital Territory,Males,25–44,"Rate (per 100,000)",2019–20,106.88
-Australian Capital Territory,Males,25–44,"Rate (per 100,000)",2020–21,107.93
-Australian Capital Territory,Males,25–44,"Rate (per 100,000)",2021–22,79.75
-Australian Capital Territory,Males,25–44,"Rate (per 100,000)",2022–23,88.56
-Australian Capital Territory,Males,25–44,"Rate (per 100,000)",2023–24,109.55
-Australian Capital Territory,Males,45–64,Number,2013–14,NA
-Australian Capital Territory,Males,45–64,Number,2014–15,NA
-Australian Capital Territory,Males,45–64,Number,2015–16,NA
-Australian Capital Territory,Males,45–64,Number,2016–17,NA
-Australian Capital Territory,Males,45–64,Number,2017–18,NA
-Australian Capital Territory,Males,45–64,Number,2018–19,NA
-Australian Capital Territory,Males,45–64,Number,2019–20,NA
-Australian Capital Territory,Males,45–64,Number,2020–21,NA
-Australian Capital Territory,Males,45–64,Number,2021–22,NA
-Australian Capital Territory,Males,45–64,Number,2022–23,NA
-Australian Capital Territory,Males,45–64,Number,2023–24,NA
-Australian Capital Territory,Males,45–64,"Rate (per 100,000)",2013–14,NA
-Australian Capital Territory,Males,45–64,"Rate (per 100,000)",2014–15,NA
-Australian Capital Territory,Males,45–64,"Rate (per 100,000)",2015–16,NA
-Australian Capital Territory,Males,45–64,"Rate (per 100,000)",2016–17,NA
-Australian Capital Territory,Males,45–64,"Rate (per 100,000)",2017–18,NA
-Australian Capital Territory,Males,45–64,"Rate (per 100,000)",2018–19,NA
-Australian Capital Territory,Males,45–64,"Rate (per 100,000)",2019–20,NA
-Australian Capital Territory,Males,45–64,"Rate (per 100,000)",2020–21,NA
-Australian Capital Territory,Males,45–64,"Rate (per 100,000)",2021–22,NA
-Australian Capital Territory,Males,45–64,"Rate (per 100,000)",2022–23,NA
-Australian Capital Territory,Males,45–64,"Rate (per 100,000)",2023–24,NA
-Australian Capital Territory,Males,65+,Number,2013–14,NA
-Australian Capital Territory,Males,65+,Number,2014–15,NA
-Australian Capital Territory,Males,65+,Number,2015–16,NA
-Australian Capital Territory,Males,65+,Number,2016–17,NA
-Australian Capital Territory,Males,65+,Number,2017–18,NA
-Australian Capital Territory,Males,65+,Number,2018–19,NA
-Australian Capital Territory,Males,65+,Number,2019–20,NA
-Australian Capital Territory,Males,65+,Number,2020–21,NA
-Australian Capital Territory,Males,65+,Number,2021–22,NA
-Australian Capital Territory,Males,65+,Number,2022–23,NA
-Australian Capital Territory,Males,65+,Number,2023–24,NA
-Australian Capital Territory,Males,65+,"Rate (per 100,000)",2013–14,NA
-Australian Capital Territory,Males,65+,"Rate (per 100,000)",2014–15,NA
-Australian Capital Territory,Males,65+,"Rate (per 100,000)",2015–16,NA
-Australian Capital Territory,Males,65+,"Rate (per 100,000)",2016–17,NA
-Australian Capital Territory,Males,65+,"Rate (per 100,000)",2017–18,NA
-Australian Capital Territory,Males,65+,"Rate (per 100,000)",2018–19,NA
-Australian Capital Territory,Males,65+,"Rate (per 100,000)",2019–20,NA
-Australian Capital Territory,Males,65+,"Rate (per 100,000)",2020–21,NA
-Australian Capital Territory,Males,65+,"Rate (per 100,000)",2021–22,NA
-Australian Capital Territory,Males,65+,"Rate (per 100,000)",2022–23,NA
-Australian Capital Territory,Males,65+,"Rate (per 100,000)",2023–24,NA
-Australian Capital Territory,Females,0–24,Number,2013–14,114
-Australian Capital Territory,Females,0–24,Number,2014–15,150
-Australian Capital Territory,Females,0–24,Number,2015–16,184
-Australian Capital Territory,Females,0–24,Number,2016–17,198
-Australian Capital Territory,Females,0–24,Number,2017–18,232
-Australian Capital Territory,Females,0–24,Number,2018–19,184
-Australian Capital Territory,Females,0–24,Number,2019–20,238
-Australian Capital Territory,Females,0–24,Number,2020–21,257
-Australian Capital Territory,Females,0–24,Number,2021–22,195
-Australian Capital Territory,Females,0–24,Number,2022–23,189
-Australian Capital Territory,Females,0–24,Number,2023–24,199
-Australian Capital Territory,Females,0–24,"Rate (per 100,000)",2013–14,181.4
-Australian Capital Territory,Females,0–24,"Rate (per 100,000)",2014–15,235.94
-Australian Capital Territory,Females,0–24,"Rate (per 100,000)",2015–16,285.13
-Australian Capital Territory,Females,0–24,"Rate (per 100,000)",2016–17,299.07
-Australian Capital Territory,Females,0–24,"Rate (per 100,000)",2017–18,339.94
-Australian Capital Territory,Females,0–24,"Rate (per 100,000)",2018–19,264.74
-Australian Capital Territory,Females,0–24,"Rate (per 100,000)",2019–20,339.81
-Australian Capital Territory,Females,0–24,"Rate (per 100,000)",2020–21,364.18
-Australian Capital Territory,Females,0–24,"Rate (per 100,000)",2021–22,275.21
-Australian Capital Territory,Females,0–24,"Rate (per 100,000)",2022–23,265.55
-Australian Capital Territory,Females,0–24,"Rate (per 100,000)",2023–24,277.93
-Australian Capital Territory,Females,25–44,Number,2013–14,110
-Australian Capital Territory,Females,25–44,Number,2014–15,115
-Australian Capital Territory,Females,25–44,Number,2015–16,125
-Australian Capital Territory,Females,25–44,Number,2016–17,146
-Australian Capital Territory,Females,25–44,Number,2017–18,134
-Australian Capital Territory,Females,25–44,Number,2018–19,136
-Australian Capital Territory,Females,25–44,Number,2019–20,156
-Australian Capital Territory,Females,25–44,Number,2020–21,165
-Australian Capital Territory,Females,25–44,Number,2021–22,136
-Australian Capital Territory,Females,25–44,Number,2022–23,132
-Australian Capital Territory,Females,25–44,Number,2023–24,113
-Australian Capital Territory,Females,25–44,"Rate (per 100,000)",2013–14,178.73
-Australian Capital Territory,Females,25–44,"Rate (per 100,000)",2014–15,183.9
-Australian Capital Territory,Females,25–44,"Rate (per 100,000)",2015–16,196.56
-Australian Capital Territory,Females,25–44,"Rate (per 100,000)",2016–17,224.65
-Australian Capital Territory,Females,25–44,"Rate (per 100,000)",2017–18,200.06
-Australian Capital Territory,Females,25–44,"Rate (per 100,000)",2018–19,196.51
-Australian Capital Territory,Females,25–44,"Rate (per 100,000)",2019–20,218.74
-Australian Capital Territory,Females,25–44,"Rate (per 100,000)",2020–21,225.64
-Australian Capital Territory,Females,25–44,"Rate (per 100,000)",2021–22,182.28
-Australian Capital Territory,Females,25–44,"Rate (per 100,000)",2022–23,172.36
-Australian Capital Territory,Females,25–44,"Rate (per 100,000)",2023–24,145.03
-Australian Capital Territory,Females,45–64,Number,2013–14,NA
-Australian Capital Territory,Females,45–64,Number,2014–15,NA
-Australian Capital Territory,Females,45–64,Number,2015–16,NA
-Australian Capital Territory,Females,45–64,Number,2016–17,NA
-Australian Capital Territory,Females,45–64,Number,2017–18,NA
-Australian Capital Territory,Females,45–64,Number,2018–19,NA
-Australian Capital Territory,Females,45–64,Number,2019–20,NA
-Australian Capital Territory,Females,45–64,Number,2020–21,NA
-Australian Capital Territory,Females,45–64,Number,2021–22,NA
-Australian Capital Territory,Females,45–64,Number,2022–23,NA
-Australian Capital Territory,Females,45–64,Number,2023–24,NA
-Australian Capital Territory,Females,45–64,"Rate (per 100,000)",2013–14,NA
-Australian Capital Territory,Females,45–64,"Rate (per 100,000)",2014–15,NA
-Australian Capital Territory,Females,45–64,"Rate (per 100,000)",2015–16,NA
-Australian Capital Territory,Females,45–64,"Rate (per 100,000)",2016–17,NA
-Australian Capital Territory,Females,45–64,"Rate (per 100,000)",2017–18,NA
-Australian Capital Territory,Females,45–64,"Rate (per 100,000)",2018–19,NA
-Australian Capital Territory,Females,45–64,"Rate (per 100,000)",2019–20,NA
-Australian Capital Territory,Females,45–64,"Rate (per 100,000)",2020–21,NA
-Australian Capital Territory,Females,45–64,"Rate (per 100,000)",2021–22,NA
-Australian Capital Territory,Females,45–64,"Rate (per 100,000)",2022–23,NA
-Australian Capital Territory,Females,45–64,"Rate (per 100,000)",2023–24,NA
-Australian Capital Territory,Females,65+,Number,2013–14,NA
-Australian Capital Territory,Females,65+,Number,2014–15,NA
-Australian Capital Territory,Females,65+,Number,2015–16,NA
-Australian Capital Territory,Females,65+,Number,2016–17,NA
-Australian Capital Territory,Females,65+,Number,2017–18,NA
-Australian Capital Territory,Females,65+,Number,2018–19,NA
-Australian Capital Territory,Females,65+,Number,2019–20,NA
-Australian Capital Territory,Females,65+,Number,2020–21,NA
-Australian Capital Territory,Females,65+,Number,2021–22,NA
-Australian Capital Territory,Females,65+,Number,2022–23,NA
-Australian Capital Territory,Females,65+,Number,2023–24,NA
-Australian Capital Territory,Females,65+,"Rate (per 100,000)",2013–14,NA
-Australian Capital Territory,Females,65+,"Rate (per 100,000)",2014–15,NA
-Australian Capital Territory,Females,65+,"Rate (per 100,000)",2015–16,NA
-Australian Capital Territory,Females,65+,"Rate (per 100,000)",2016–17,NA
-Australian Capital Territory,Females,65+,"Rate (per 100,000)",2017–18,NA
-Australian Capital Territory,Females,65+,"Rate (per 100,000)",2018–19,NA
-Australian Capital Territory,Females,65+,"Rate (per 100,000)",2019–20,NA
-Australian Capital Territory,Females,65+,"Rate (per 100,000)",2020–21,NA
-Australian Capital Territory,Females,65+,"Rate (per 100,000)",2021–22,NA
-Australian Capital Territory,Females,65+,"Rate (per 100,000)",2022–23,NA
-Australian Capital Territory,Females,65+,"Rate (per 100,000)",2023–24,NA
-Northern Territory,Males,0–24,Number,2013–14,50
-Northern Territory,Males,0–24,Number,2014–15,58
-Northern Territory,Males,0–24,Number,2015–16,58
-Northern Territory,Males,0–24,Number,2016–17,61
-Northern Territory,Males,0–24,Number,2017–18,70
-Northern Territory,Males,0–24,Number,2018–19,80
-Northern Territory,Males,0–24,Number,2019–20,77
-Northern Territory,Males,0–24,Number,2020–21,72
-Northern Territory,Males,0–24,Number,2021–22,84
-Northern Territory,Males,0–24,Number,2022–23,63
-Northern Territory,Males,0–24,Number,2023–24,48
-Northern Territory,Males,0–24,"Rate (per 100,000)",2013–14,107.69
-Northern Territory,Males,0–24,"Rate (per 100,000)",2014–15,126.28
-Northern Territory,Males,0–24,"Rate (per 100,000)",2015–16,127.24
-Northern Territory,Males,0–24,"Rate (per 100,000)",2016–17,134.7
-Northern Territory,Males,0–24,"Rate (per 100,000)",2017–18,154.92
-Northern Territory,Males,0–24,"Rate (per 100,000)",2018–19,178.06
-Northern Territory,Males,0–24,"Rate (per 100,000)",2019–20,172.7
-Northern Territory,Males,0–24,"Rate (per 100,000)",2020–21,162.54
-Northern Territory,Males,0–24,"Rate (per 100,000)",2021–22,190.3
-Northern Territory,Males,0–24,"Rate (per 100,000)",2022–23,143.08
-Northern Territory,Males,0–24,"Rate (per 100,000)",2023–24,109.14
-Northern Territory,Males,25–44,Number,2013–14,80
-Northern Territory,Males,25–44,Number,2014–15,89
-Northern Territory,Males,25–44,Number,2015–16,108
-Northern Territory,Males,25–44,Number,2016–17,99
-Northern Territory,Males,25–44,Number,2017–18,84
-Northern Territory,Males,25–44,Number,2018–19,105
-Northern Territory,Males,25–44,Number,2019–20,120
-Northern Territory,Males,25–44,Number,2020–21,111
-Northern Territory,Males,25–44,Number,2021–22,102
-Northern Territory,Males,25–44,Number,2022–23,101
-Northern Territory,Males,25–44,Number,2023–24,81
-Northern Territory,Males,25–44,"Rate (per 100,000)",2013–14,184.61
-Northern Territory,Males,25–44,"Rate (per 100,000)",2014–15,203.16
-Northern Territory,Males,25–44,"Rate (per 100,000)",2015–16,246.54
-Northern Territory,Males,25–44,"Rate (per 100,000)",2016–17,227.05
-Northern Territory,Males,25–44,"Rate (per 100,000)",2017–18,194.64
-Northern Territory,Males,25–44,"Rate (per 100,000)",2018–19,247.58
-Northern Territory,Males,25–44,"Rate (per 100,000)",2019–20,286.1
-Northern Territory,Males,25–44,"Rate (per 100,000)",2020–21,265.77
-Northern Territory,Males,25–44,"Rate (per 100,000)",2021–22,242.55
-Northern Territory,Males,25–44,"Rate (per 100,000)",2022–23,236.38
-Northern Territory,Males,25–44,"Rate (per 100,000)",2023–24,187.98
-Northern Territory,Males,45–64,Number,2013–14,NA
-Northern Territory,Males,45–64,Number,2014–15,NA
-Northern Territory,Males,45–64,Number,2015–16,NA
-Northern Territory,Males,45–64,Number,2016–17,NA
-Northern Territory,Males,45–64,Number,2017–18,NA
-Northern Territory,Males,45–64,Number,2018–19,NA
-Northern Territory,Males,45–64,Number,2019–20,NA
-Northern Territory,Males,45–64,Number,2020–21,NA
-Northern Territory,Males,45–64,Number,2021–22,NA
-Northern Territory,Males,45–64,Number,2022–23,NA
-Northern Territory,Males,45–64,Number,2023–24,NA
-Northern Territory,Males,45–64,"Rate (per 100,000)",2013–14,NA
-Northern Territory,Males,45–64,"Rate (per 100,000)",2014–15,NA
-Northern Territory,Males,45–64,"Rate (per 100,000)",2015–16,NA
-Northern Territory,Males,45–64,"Rate (per 100,000)",2016–17,NA
-Northern Territory,Males,45–64,"Rate (per 100,000)",2017–18,NA
-Northern Territory,Males,45–64,"Rate (per 100,000)",2018–19,NA
-Northern Territory,Males,45–64,"Rate (per 100,000)",2019–20,NA
-Northern Territory,Males,45–64,"Rate (per 100,000)",2020–21,NA
-Northern Territory,Males,45–64,"Rate (per 100,000)",2021–22,NA
-Northern Territory,Males,45–64,"Rate (per 100,000)",2022–23,NA
-Northern Territory,Males,45–64,"Rate (per 100,000)",2023–24,NA
-Northern Territory,Males,65+,Number,2013–14,NA
-Northern Territory,Males,65+,Number,2014–15,NA
-Northern Territory,Males,65+,Number,2015–16,NA
-Northern Territory,Males,65+,Number,2016–17,NA
-Northern Territory,Males,65+,Number,2017–18,NA
-Northern Territory,Males,65+,Number,2018–19,NA
-Northern Territory,Males,65+,Number,2019–20,NA
-Northern Territory,Males,65+,Number,2020–21,NA
-Northern Territory,Males,65+,Number,2021–22,NA
-Northern Territory,Males,65+,Number,2022–23,NA
-Northern Territory,Males,65+,Number,2023–24,NA
-Northern Territory,Males,65+,"Rate (per 100,000)",2013–14,NA
-Northern Territory,Males,65+,"Rate (per 100,000)",2014–15,NA
-Northern Territory,Males,65+,"Rate (per 100,000)",2015–16,NA
-Northern Territory,Males,65+,"Rate (per 100,000)",2016–17,NA
-Northern Territory,Males,65+,"Rate (per 100,000)",2017–18,NA
-Northern Territory,Males,65+,"Rate (per 100,000)",2018–19,NA
-Northern Territory,Males,65+,"Rate (per 100,000)",2019–20,NA
-Northern Territory,Males,65+,"Rate (per 100,000)",2020–21,NA
-Northern Territory,Males,65+,"Rate (per 100,000)",2021–22,NA
-Northern Territory,Males,65+,"Rate (per 100,000)",2022–23,NA
-Northern Territory,Males,65+,"Rate (per 100,000)",2023–24,NA
-Northern Territory,Females,0–24,Number,2013–14,106
-Northern Territory,Females,0–24,Number,2014–15,113
-Northern Territory,Females,0–24,Number,2015–16,122
-Northern Territory,Females,0–24,Number,2016–17,130
-Northern Territory,Females,0–24,Number,2017–18,139
-Northern Territory,Females,0–24,Number,2018–19,168
-Northern Territory,Females,0–24,Number,2019–20,155
-Northern Territory,Females,0–24,Number,2020–21,144
-Northern Territory,Females,0–24,Number,2021–22,141
-Northern Territory,Females,0–24,Number,2022–23,126
-Northern Territory,Females,0–24,Number,2023–24,81
-Northern Territory,Females,0–24,"Rate (per 100,000)",2013–14,249.36
-Northern Territory,Females,0–24,"Rate (per 100,000)",2014–15,268.13
-Northern Territory,Females,0–24,"Rate (per 100,000)",2015–16,291.67
-Northern Territory,Females,0–24,"Rate (per 100,000)",2016–17,311.31
-Northern Territory,Females,0–24,"Rate (per 100,000)",2017–18,333.79
-Northern Territory,Females,0–24,"Rate (per 100,000)",2018–19,406.45
-Northern Territory,Females,0–24,"Rate (per 100,000)",2019–20,376.73
-Northern Territory,Females,0–24,"Rate (per 100,000)",2020–21,351.5
-Northern Territory,Females,0–24,"Rate (per 100,000)",2021–22,345.39
-Northern Territory,Females,0–24,"Rate (per 100,000)",2022–23,308.42
-Northern Territory,Females,0–24,"Rate (per 100,000)",2023–24,198.24
-Northern Territory,Females,25–44,Number,2013–14,110
-Northern Territory,Females,25–44,Number,2014–15,116
-Northern Territory,Females,25–44,Number,2015–16,178
-Northern Territory,Females,25–44,Number,2016–17,139
-Northern Territory,Females,25–44,Number,2017–18,134
-Northern Territory,Females,25–44,Number,2018–19,172
-Northern Territory,Females,25–44,Number,2019–20,131
-Northern Territory,Females,25–44,Number,2020–21,134
-Northern Territory,Females,25–44,Number,2021–22,140
-Northern Territory,Females,25–44,Number,2022–23,93
-Northern Territory,Females,25–44,Number,2023–24,88
-Northern Territory,Females,25–44,"Rate (per 100,000)",2013–14,278.18
-Northern Territory,Females,25–44,"Rate (per 100,000)",2014–15,289.91
-Northern Territory,Females,25–44,"Rate (per 100,000)",2015–16,438.68
-Northern Territory,Females,25–44,"Rate (per 100,000)",2016–17,337.53
-Northern Territory,Females,25–44,"Rate (per 100,000)",2017–18,321.46
-Northern Territory,Females,25–44,"Rate (per 100,000)",2018–19,410.21
-Northern Territory,Females,25–44,"Rate (per 100,000)",2019–20,310.68
-Northern Territory,Females,25–44,"Rate (per 100,000)",2020–21,315.66
-Northern Territory,Females,25–44,"Rate (per 100,000)",2021–22,325.44
-Northern Territory,Females,25–44,"Rate (per 100,000)",2022–23,211.96
-Northern Territory,Females,25–44,"Rate (per 100,000)",2023–24,198.65
-Northern Territory,Females,45–64,Number,2013–14,NA
-Northern Territory,Females,45–64,Number,2014–15,NA
-Northern Territory,Females,45–64,Number,2015–16,NA
-Northern Territory,Females,45–64,Number,2016–17,NA
-Northern Territory,Females,45–64,Number,2017–18,NA
-Northern Territory,Females,45–64,Number,2018–19,NA
-Northern Territory,Females,45–64,Number,2019–20,NA
-Northern Territory,Females,45–64,Number,2020–21,NA
-Northern Territory,Females,45–64,Number,2021–22,NA
-Northern Territory,Females,45–64,Number,2022–23,NA
-Northern Territory,Females,45–64,Number,2023–24,NA
-Northern Territory,Females,45–64,"Rate (per 100,000)",2013–14,NA
-Northern Territory,Females,45–64,"Rate (per 100,000)",2014–15,NA
-Northern Territory,Females,45–64,"Rate (per 100,000)",2015–16,NA
-Northern Territory,Females,45–64,"Rate (per 100,000)",2016–17,NA
-Northern Territory,Females,45–64,"Rate (per 100,000)",2017–18,NA
-Northern Territory,Females,45–64,"Rate (per 100,000)",2018–19,NA
-Northern Territory,Females,45–64,"Rate (per 100,000)",2019–20,NA
-Northern Territory,Females,45–64,"Rate (per 100,000)",2020–21,NA
-Northern Territory,Females,45–64,"Rate (per 100,000)",2021–22,NA
-Northern Territory,Females,45–64,"Rate (per 100,000)",2022–23,NA
-Northern Territory,Females,45–64,"Rate (per 100,000)",2023–24,NA
-Northern Territory,Females,65+,Number,2013–14,NA
-Northern Territory,Females,65+,Number,2014–15,NA
-Northern Territory,Females,65+,Number,2015–16,NA
-Northern Territory,Females,65+,Number,2016–17,NA
-Northern Territory,Females,65+,Number,2017–18,NA
-Northern Territory,Females,65+,Number,2018–19,NA
-Northern Territory,Females,65+,Number,2019–20,NA
-Northern Territory,Females,65+,Number,2020–21,NA
-Northern Territory,Females,65+,Number,2021–22,NA
-Northern Territory,Females,65+,Number,2022–23,NA
-Northern Territory,Females,65+,Number,2023–24,NA
-Northern Territory,Females,65+,"Rate (per 100,000)",2013–14,NA
-Northern Territory,Females,65+,"Rate (per 100,000)",2014–15,NA
-Northern Territory,Females,65+,"Rate (per 100,000)",2015–16,NA
-Northern Territory,Females,65+,"Rate (per 100,000)",2016–17,NA
-Northern Territory,Females,65+,"Rate (per 100,000)",2017–18,NA
-Northern Territory,Females,65+,"Rate (per 100,000)",2018–19,NA
-Northern Territory,Females,65+,"Rate (per 100,000)",2019–20,NA
-Northern Territory,Females,65+,"Rate (per 100,000)",2020–21,NA
-Northern Territory,Females,65+,"Rate (per 100,000)",2021–22,NA
-Northern Territory,Females,65+,"Rate (per 100,000)",2022–23,NA
-Northern Territory,Females,65+,"Rate (per 100,000)",2023–24,NA
-Total,Males,0–24,Number,2013–14,2327
-Total,Males,0–24,Number,2014–15,2583
-Total,Males,0–24,Number,2015–16,2896
-Total,Males,0–24,Number,2016–17,3151
-Total,Males,0–24,Number,2017–18,2865
-Total,Males,0–24,Number,2018–19,2911
-Total,Males,0–24,Number,2019–20,2992
-Total,Males,0–24,Number,2020–21,3024
-Total,Males,0–24,Number,2021–22,2593
-Total,Males,0–24,Number,2022–23,2250
-Total,Males,0–24,Number,2023–24,2145
-Total,Males,0–24,"Rate (per 100,000)",2013–14,60.28
-Total,Males,0–24,"Rate (per 100,000)",2014–15,66.22
-Total,Males,0–24,"Rate (per 100,000)",2015–16,73.43
-Total,Males,0–24,"Rate (per 100,000)",2016–17,78.92
-Total,Males,0–24,"Rate (per 100,000)",2017–18,70.95
-Total,Males,0–24,"Rate (per 100,000)",2018–19,71.38
-Total,Males,0–24,"Rate (per 100,000)",2019–20,73.09
-Total,Males,0–24,"Rate (per 100,000)",2020–21,74.38
-Total,Males,0–24,"Rate (per 100,000)",2021–22,63.81
-Total,Males,0–24,"Rate (per 100,000)",2022–23,54.41
-Total,Males,0–24,"Rate (per 100,000)",2023–24,51.25
-Total,Males,25–44,Number,2013–14,4191
-Total,Males,25–44,Number,2014–15,4447
-Total,Males,25–44,Number,2015–16,4871
-Total,Males,25–44,Number,2016–17,5162
-Total,Males,25–44,Number,2017–18,4430
-Total,Males,25–44,Number,2018–19,4512
-Total,Males,25–44,Number,2019–20,4438
-Total,Males,25–44,Number,2020–21,4108
-Total,Males,25–44,Number,2021–22,3489
-Total,Males,25–44,Number,2022–23,3454
-Total,Males,25–44,Number,2023–24,3472
-Total,Males,25–44,"Rate (per 100,000)",2013–14,126.31
-Total,Males,25–44,"Rate (per 100,000)",2014–15,132.53
-Total,Males,25–44,"Rate (per 100,000)",2015–16,143.59
-Total,Males,25–44,"Rate (per 100,000)",2016–17,150.31
-Total,Males,25–44,"Rate (per 100,000)",2017–18,127.14
-Total,Males,25–44,"Rate (per 100,000)",2018–19,127.56
-Total,Males,25–44,"Rate (per 100,000)",2019–20,123.71
-Total,Males,25–44,"Rate (per 100,000)",2020–21,113.9
-Total,Males,25–44,"Rate (per 100,000)",2021–22,96.15
-Total,Males,25–44,"Rate (per 100,000)",2022–23,92.64
-Total,Males,25–44,"Rate (per 100,000)",2023–24,91.3
-Total,Males,45–64,Number,2013–14,2208
-Total,Males,45–64,Number,2014–15,2337
-Total,Males,45–64,Number,2015–16,2802
-Total,Males,45–64,Number,2016–17,2973
-Total,Males,45–64,Number,2017–18,2548
-Total,Males,45–64,Number,2018–19,2586
-Total,Males,45–64,Number,2019–20,2454
-Total,Males,45–64,Number,2020–21,2163
-Total,Males,45–64,Number,2021–22,2009
-Total,Males,45–64,Number,2022–23,1967
-Total,Males,45–64,Number,2023–24,2183
-Total,Males,45–64,"Rate (per 100,000)",2013–14,77.85
-Total,Males,45–64,"Rate (per 100,000)",2014–15,81.63
-Total,Males,45–64,"Rate (per 100,000)",2015–16,96.86
-Total,Males,45–64,"Rate (per 100,000)",2016–17,101.38
-Total,Males,45–64,"Rate (per 100,000)",2017–18,85.69
-Total,Males,45–64,"Rate (per 100,000)",2018–19,85.91
-Total,Males,45–64,"Rate (per 100,000)",2019–20,80.5
-Total,Males,45–64,"Rate (per 100,000)",2020–21,70.29
-Total,Males,45–64,"Rate (per 100,000)",2021–22,64.99
-Total,Males,45–64,"Rate (per 100,000)",2022–23,63.36
-Total,Males,45–64,"Rate (per 100,000)",2023–24,70.16
-Total,Males,65+,Number,2013–14,589
-Total,Males,65+,Number,2014–15,631
-Total,Males,65+,Number,2015–16,695
-Total,Males,65+,Number,2016–17,772
-Total,Males,65+,Number,2017–18,653
-Total,Males,65+,Number,2018–19,705
-Total,Males,65+,Number,2019–20,729
-Total,Males,65+,Number,2020–21,763
-Total,Males,65+,Number,2021–22,721
-Total,Males,65+,Number,2022–23,783
-Total,Males,65+,Number,2023–24,814
-Total,Males,65+,"Rate (per 100,000)",2013–14,37.46
-Total,Males,65+,"Rate (per 100,000)",2014–15,38.74
-Total,Males,65+,"Rate (per 100,000)",2015–16,41.21
-Total,Males,65+,"Rate (per 100,000)",2016–17,44.27
-Total,Males,65+,"Rate (per 100,000)",2017–18,36.26
-Total,Males,65+,"Rate (per 100,000)",2018–19,37.94
-Total,Males,65+,"Rate (per 100,000)",2019–20,37.9
-Total,Males,65+,"Rate (per 100,000)",2020–21,38.35
-Total,Males,65+,"Rate (per 100,000)",2021–22,35.24
-Total,Males,65+,"Rate (per 100,000)",2022–23,37.25
-Total,Males,65+,"Rate (per 100,000)",2023–24,38.21
-Total,Females,0–24,Number,2013–14,6810
-Total,Females,0–24,Number,2014–15,7156
-Total,Females,0–24,Number,2015–16,8041
-Total,Females,0–24,Number,2016–17,9047
-Total,Females,0–24,Number,2017–18,8084
-Total,Females,0–24,Number,2018–19,7852
-Total,Females,0–24,Number,2019–20,7880
-Total,Females,0–24,Number,2020–21,9716
-Total,Females,0–24,Number,2021–22,8911
-Total,Females,0–24,Number,2022–23,7524
-Total,Females,0–24,Number,2023–24,6577
-Total,Females,0–24,"Rate (per 100,000)",2013–14,185.53
-Total,Females,0–24,"Rate (per 100,000)",2014–15,192.97
-Total,Females,0–24,"Rate (per 100,000)",2015–16,214.42
-Total,Females,0–24,"Rate (per 100,000)",2016–17,238.47
-Total,Females,0–24,"Rate (per 100,000)",2017–18,211.09
-Total,Females,0–24,"Rate (per 100,000)",2018–19,203.56
-Total,Females,0–24,"Rate (per 100,000)",2019–20,203.95
-Total,Females,0–24,"Rate (per 100,000)",2020–21,253.43
-Total,Females,0–24,"Rate (per 100,000)",2021–22,232.68
-Total,Females,0–24,"Rate (per 100,000)",2022–23,193.21
-Total,Females,0–24,"Rate (per 100,000)",2023–24,167
-Total,Females,25–44,Number,2013–14,5929
-Total,Females,25–44,Number,2014–15,6431
-Total,Females,25–44,Number,2015–16,6966
-Total,Females,25–44,Number,2016–17,6929
-Total,Females,25–44,Number,2017–18,6362
-Total,Females,25–44,Number,2018–19,6140
-Total,Females,25–44,Number,2019–20,5827
-Total,Females,25–44,Number,2020–21,5842
-Total,Females,25–44,Number,2021–22,5162
-Total,Females,25–44,Number,2022–23,4981
-Total,Females,25–44,Number,2023–24,5065
-Total,Females,25–44,"Rate (per 100,000)",2013–14,178.59
-Total,Females,25–44,"Rate (per 100,000)",2014–15,190.97
-Total,Females,25–44,"Rate (per 100,000)",2015–16,204.14
-Total,Females,25–44,"Rate (per 100,000)",2016–17,200.29
-Total,Females,25–44,"Rate (per 100,000)",2017–18,181.11
-Total,Females,25–44,"Rate (per 100,000)",2018–19,172.03
-Total,Females,25–44,"Rate (per 100,000)",2019–20,160.87
-Total,Females,25–44,"Rate (per 100,000)",2020–21,160.39
-Total,Females,25–44,"Rate (per 100,000)",2021–22,140.91
-Total,Females,25–44,"Rate (per 100,000)",2022–23,132.58
-Total,Females,25–44,"Rate (per 100,000)",2023–24,132.37
-Total,Females,45–64,Number,2013–14,3683
-Total,Females,45–64,Number,2014–15,3779
-Total,Females,45–64,Number,2015–16,4217
-Total,Females,45–64,Number,2016–17,4221
-Total,Females,45–64,Number,2017–18,3742
-Total,Females,45–64,Number,2018–19,3864
-Total,Females,45–64,Number,2019–20,3487
-Total,Females,45–64,Number,2020–21,3339
-Total,Females,45–64,Number,2021–22,2989
-Total,Females,45–64,Number,2022–23,2865
-Total,Females,45–64,Number,2023–24,2856
-Total,Females,45–64,"Rate (per 100,000)",2013–14,126.54
-Total,Females,45–64,"Rate (per 100,000)",2014–15,127.97
-Total,Females,45–64,"Rate (per 100,000)",2015–16,140.62
-Total,Females,45–64,"Rate (per 100,000)",2016–17,138.45
-Total,Females,45–64,"Rate (per 100,000)",2017–18,121.06
-Total,Females,45–64,"Rate (per 100,000)",2018–19,123.59
-Total,Females,45–64,"Rate (per 100,000)",2019–20,110.12
-Total,Females,45–64,"Rate (per 100,000)",2020–21,104.65
-Total,Females,45–64,"Rate (per 100,000)",2021–22,93.43
-Total,Females,45–64,"Rate (per 100,000)",2022–23,89.09
-Total,Females,45–64,"Rate (per 100,000)",2023–24,88.54
-Total,Females,65+,Number,2013–14,648
-Total,Females,65+,Number,2014–15,751
-Total,Females,65+,Number,2015–16,780
-Total,Females,65+,Number,2016–17,868
-Total,Females,65+,Number,2017–18,792
-Total,Females,65+,Number,2018–19,848
-Total,Females,65+,Number,2019–20,815
-Total,Females,65+,Number,2020–21,868
-Total,Females,65+,Number,2021–22,897
-Total,Females,65+,Number,2022–23,881
-Total,Females,65+,Number,2023–24,911
-Total,Females,65+,"Rate (per 100,000)",2013–14,35.72
-Total,Females,65+,"Rate (per 100,000)",2014–15,40.18
-Total,Females,65+,"Rate (per 100,000)",2015–16,40.48
-Total,Females,65+,"Rate (per 100,000)",2016–17,43.7
-Total,Females,65+,"Rate (per 100,000)",2017–18,38.68
-Total,Females,65+,"Rate (per 100,000)",2018–19,40.15
-Total,Females,65+,"Rate (per 100,000)",2019–20,37.27
-Total,Females,65+,"Rate (per 100,000)",2020–21,38.38
-Total,Females,65+,"Rate (per 100,000)",2021–22,38.54
-Total,Females,65+,"Rate (per 100,000)",2022–23,36.79
-Total,Females,65+,"Rate (per 100,000)",2023–24,37.5
+New South Wales,Males,0-24,Number,2013-14,766
+New South Wales,Males,0-24,Number,2014-15,829
+New South Wales,Males,0-24,Number,2015-16,893
+New South Wales,Males,0-24,Number,2016-17,953
+New South Wales,Males,0-24,Number,2017-18,740
+New South Wales,Males,0-24,Number,2018-19,698
+New South Wales,Males,0-24,Number,2019-20,715
+New South Wales,Males,0-24,Number,2020-21,620
+New South Wales,Males,0-24,Number,2021-22,500
+New South Wales,Males,0-24,Number,2022-23,419
+New South Wales,Males,0-24,Number,2023-24,403
+New South Wales,Males,0-24,"Rate (per 100,000)",2013-14,62.66
+New South Wales,Males,0-24,"Rate (per 100,000)",2014-15,67.13
+New South Wales,Males,0-24,"Rate (per 100,000)",2015-16,71.5
+New South Wales,Males,0-24,"Rate (per 100,000)",2016-17,75.39
+New South Wales,Males,0-24,"Rate (per 100,000)",2017-18,57.91
+New South Wales,Males,0-24,"Rate (per 100,000)",2018-19,54.14
+New South Wales,Males,0-24,"Rate (per 100,000)",2019-20,55.38
+New South Wales,Males,0-24,"Rate (per 100,000)",2020-21,48.47
+New South Wales,Males,0-24,"Rate (per 100,000)",2021-22,39.11
+New South Wales,Males,0-24,"Rate (per 100,000)",2022-23,32.19
+New South Wales,Males,0-24,"Rate (per 100,000)",2023-24,30.59
+New South Wales,Males,25-44,Number,2013-14,1320
+New South Wales,Males,25-44,Number,2014-15,1417
+New South Wales,Males,25-44,Number,2015-16,1537
+New South Wales,Males,25-44,Number,2016-17,1612
+New South Wales,Males,25-44,Number,2017-18,1164
+New South Wales,Males,25-44,Number,2018-19,1093
+New South Wales,Males,25-44,Number,2019-20,1088
+New South Wales,Males,25-44,Number,2020-21,867
+New South Wales,Males,25-44,Number,2021-22,687
+New South Wales,Males,25-44,Number,2022-23,753
+New South Wales,Males,25-44,Number,2023-24,694
+New South Wales,Males,25-44,"Rate (per 100,000)",2013-14,126.64
+New South Wales,Males,25-44,"Rate (per 100,000)",2014-15,133.86
+New South Wales,Males,25-44,"Rate (per 100,000)",2015-16,142.87
+New South Wales,Males,25-44,"Rate (per 100,000)",2016-17,147.37
+New South Wales,Males,25-44,"Rate (per 100,000)",2017-18,104.69
+New South Wales,Males,25-44,"Rate (per 100,000)",2018-19,96.98
+New South Wales,Males,25-44,"Rate (per 100,000)",2019-20,95.65
+New South Wales,Males,25-44,"Rate (per 100,000)",2020-21,76.26
+New South Wales,Males,25-44,"Rate (per 100,000)",2021-22,60.46
+New South Wales,Males,25-44,"Rate (per 100,000)",2022-23,64.86
+New South Wales,Males,25-44,"Rate (per 100,000)",2023-24,58.71
+New South Wales,Males,45-64,Number,2013-14,760
+New South Wales,Males,45-64,Number,2014-15,809
+New South Wales,Males,45-64,Number,2015-16,853
+New South Wales,Males,45-64,Number,2016-17,964
+New South Wales,Males,45-64,Number,2017-18,720
+New South Wales,Males,45-64,Number,2018-19,643
+New South Wales,Males,45-64,Number,2019-20,604
+New South Wales,Males,45-64,Number,2020-21,548
+New South Wales,Males,45-64,Number,2021-22,481
+New South Wales,Males,45-64,Number,2022-23,490
+New South Wales,Males,45-64,Number,2023-24,495
+New South Wales,Males,45-64,"Rate (per 100,000)",2013-14,83.64
+New South Wales,Males,45-64,"Rate (per 100,000)",2014-15,88.48
+New South Wales,Males,45-64,"Rate (per 100,000)",2015-16,92.56
+New South Wales,Males,45-64,"Rate (per 100,000)",2016-17,103.38
+New South Wales,Males,45-64,"Rate (per 100,000)",2017-18,76.3
+New South Wales,Males,45-64,"Rate (per 100,000)",2018-19,67.51
+New South Wales,Males,45-64,"Rate (per 100,000)",2019-20,62.82
+New South Wales,Males,45-64,"Rate (per 100,000)",2020-21,56.62
+New South Wales,Males,45-64,"Rate (per 100,000)",2021-22,49.66
+New South Wales,Males,45-64,"Rate (per 100,000)",2022-23,50.63
+New South Wales,Males,45-64,"Rate (per 100,000)",2023-24,51.15
+New South Wales,Males,65+,Number,2013-14,203
+New South Wales,Males,65+,Number,2014-15,235
+New South Wales,Males,65+,Number,2015-16,230
+New South Wales,Males,65+,Number,2016-17,294
+New South Wales,Males,65+,Number,2017-18,207
+New South Wales,Males,65+,Number,2018-19,197
+New South Wales,Males,65+,Number,2019-20,191
+New South Wales,Males,65+,Number,2020-21,199
+New South Wales,Males,65+,Number,2021-22,216
+New South Wales,Males,65+,Number,2022-23,223
+New South Wales,Males,65+,Number,2023-24,214
+New South Wales,Males,65+,"Rate (per 100,000)",2013-14,38.6
+New South Wales,Males,65+,"Rate (per 100,000)",2014-15,43.32
+New South Wales,Males,65+,"Rate (per 100,000)",2015-16,41.15
+New South Wales,Males,65+,"Rate (per 100,000)",2016-17,51.14
+New South Wales,Males,65+,"Rate (per 100,000)",2017-18,35.06
+New South Wales,Males,65+,"Rate (per 100,000)",2018-19,32.48
+New South Wales,Males,65+,"Rate (per 100,000)",2019-20,30.55
+New South Wales,Males,65+,"Rate (per 100,000)",2020-21,30.9
+New South Wales,Males,65+,"Rate (per 100,000)",2021-22,32.77
+New South Wales,Males,65+,"Rate (per 100,000)",2022-23,33.08
+New South Wales,Males,65+,"Rate (per 100,000)",2023-24,31.38
+New South Wales,Females,0-24,Number,2013-14,2167
+New South Wales,Females,0-24,Number,2014-15,2181
+New South Wales,Females,0-24,Number,2015-16,2362
+New South Wales,Females,0-24,Number,2016-17,2777
+New South Wales,Females,0-24,Number,2017-18,2046
+New South Wales,Females,0-24,Number,2018-19,1788
+New South Wales,Females,0-24,Number,2019-20,1818
+New South Wales,Females,0-24,Number,2020-21,1990
+New South Wales,Females,0-24,Number,2021-22,1750
+New South Wales,Females,0-24,Number,2022-23,1472
+New South Wales,Females,0-24,Number,2023-24,1095
+New South Wales,Females,0-24,"Rate (per 100,000)",2013-14,186.88
+New South Wales,Females,0-24,"Rate (per 100,000)",2014-15,186.16
+New South Wales,Females,0-24,"Rate (per 100,000)",2015-16,199.33
+New South Wales,Females,0-24,"Rate (per 100,000)",2016-17,231.68
+New South Wales,Females,0-24,"Rate (per 100,000)",2017-18,169.21
+New South Wales,Females,0-24,"Rate (per 100,000)",2018-19,147.09
+New South Wales,Females,0-24,"Rate (per 100,000)",2019-20,149.83
+New South Wales,Females,0-24,"Rate (per 100,000)",2020-21,165.86
+New South Wales,Females,0-24,"Rate (per 100,000)",2021-22,146.28
+New South Wales,Females,0-24,"Rate (per 100,000)",2022-23,121.13
+New South Wales,Females,0-24,"Rate (per 100,000)",2023-24,89.14
+New South Wales,Females,25-44,Number,2013-14,1800
+New South Wales,Females,25-44,Number,2014-15,1866
+New South Wales,Females,25-44,Number,2015-16,1896
+New South Wales,Females,25-44,Number,2016-17,2051
+New South Wales,Females,25-44,Number,2017-18,1573
+New South Wales,Females,25-44,Number,2018-19,1353
+New South Wales,Females,25-44,Number,2019-20,1252
+New South Wales,Females,25-44,Number,2020-21,1147
+New South Wales,Females,25-44,Number,2021-22,1005
+New South Wales,Females,25-44,Number,2022-23,915
+New South Wales,Females,25-44,Number,2023-24,968
+New South Wales,Females,25-44,"Rate (per 100,000)",2013-14,170.93
+New South Wales,Females,25-44,"Rate (per 100,000)",2014-15,174.5
+New South Wales,Females,25-44,"Rate (per 100,000)",2015-16,174.67
+New South Wales,Females,25-44,"Rate (per 100,000)",2016-17,186.14
+New South Wales,Females,25-44,"Rate (per 100,000)",2017-18,140.84
+New South Wales,Females,25-44,"Rate (per 100,000)",2018-19,119.73
+New South Wales,Females,25-44,"Rate (per 100,000)",2019-20,109.75
+New South Wales,Females,25-44,"Rate (per 100,000)",2020-21,100.48
+New South Wales,Females,25-44,"Rate (per 100,000)",2021-22,88
+New South Wales,Females,25-44,"Rate (per 100,000)",2022-23,78.52
+New South Wales,Females,25-44,"Rate (per 100,000)",2023-24,81.71
+New South Wales,Females,45-64,Number,2013-14,1144
+New South Wales,Females,45-64,Number,2014-15,1170
+New South Wales,Females,45-64,Number,2015-16,1201
+New South Wales,Females,45-64,Number,2016-17,1209
+New South Wales,Females,45-64,Number,2017-18,972
+New South Wales,Females,45-64,Number,2018-19,906
+New South Wales,Females,45-64,Number,2019-20,767
+New South Wales,Females,45-64,Number,2020-21,670
+New South Wales,Females,45-64,Number,2021-22,582
+New South Wales,Females,45-64,Number,2022-23,576
+New South Wales,Females,45-64,Number,2023-24,563
+New South Wales,Females,45-64,"Rate (per 100,000)",2013-14,122.51
+New South Wales,Females,45-64,"Rate (per 100,000)",2014-15,123.8
+New South Wales,Females,45-64,"Rate (per 100,000)",2015-16,125.42
+New South Wales,Females,45-64,"Rate (per 100,000)",2016-17,124.49
+New South Wales,Females,45-64,"Rate (per 100,000)",2017-18,99.02
+New South Wales,Females,45-64,"Rate (per 100,000)",2018-19,91.59
+New South Wales,Females,45-64,"Rate (per 100,000)",2019-20,76.87
+New South Wales,Females,45-64,"Rate (per 100,000)",2020-21,66.86
+New South Wales,Females,45-64,"Rate (per 100,000)",2021-22,58.14
+New South Wales,Females,45-64,"Rate (per 100,000)",2022-23,57.5
+New South Wales,Females,45-64,"Rate (per 100,000)",2023-24,56.15
+New South Wales,Females,45-64,Per cent,2013-14,31.06
+New South Wales,Females,45-64,Per cent,2014-15,30.96
+New South Wales,Females,45-64,Per cent,2015-16,28.48
+New South Wales,Females,45-64,Per cent,2016-17,28.64
+New South Wales,Females,45-64,Per cent,2017-18,25.98
+New South Wales,Females,45-64,Per cent,2018-19,23.45
+New South Wales,Females,45-64,Per cent,2019-20,22
+New South Wales,Females,45-64,Per cent,2020-21,20.07
+New South Wales,Females,45-64,Per cent,2021-22,19.47
+New South Wales,Females,45-64,Per cent,2022-23,20.1
+New South Wales,Females,45-64,Per cent,2023-24,19.71
+New South Wales,Females,65+,Number,2013-14,254
+New South Wales,Females,65+,Number,2014-15,232
+New South Wales,Females,65+,Number,2015-16,271
+New South Wales,Females,65+,Number,2016-17,301
+New South Wales,Females,65+,Number,2017-18,251
+New South Wales,Females,65+,Number,2018-19,267
+New South Wales,Females,65+,Number,2019-20,249
+New South Wales,Females,65+,Number,2020-21,226
+New South Wales,Females,65+,Number,2021-22,249
+New South Wales,Females,65+,Number,2022-23,223
+New South Wales,Females,65+,Number,2023-24,216
+New South Wales,Females,65+,"Rate (per 100,000)",2013-14,41.61
+New South Wales,Females,65+,"Rate (per 100,000)",2014-15,37.07
+New South Wales,Females,65+,"Rate (per 100,000)",2015-16,42.26
+New South Wales,Females,65+,"Rate (per 100,000)",2016-17,45.81
+New South Wales,Females,65+,"Rate (per 100,000)",2017-18,37.27
+New South Wales,Females,65+,"Rate (per 100,000)",2018-19,38.65
+New South Wales,Females,65+,"Rate (per 100,000)",2019-20,34.99
+New South Wales,Females,65+,"Rate (per 100,000)",2020-21,30.86
+New South Wales,Females,65+,"Rate (per 100,000)",2021-22,33.2
+New South Wales,Females,65+,"Rate (per 100,000)",2022-23,29.04
+New South Wales,Females,65+,"Rate (per 100,000)",2023-24,27.78
+Victoria,Males,0-24,Number,2013-14,310
+Victoria,Males,0-24,Number,2014-15,362
+Victoria,Males,0-24,Number,2015-16,430
+Victoria,Males,0-24,Number,2016-17,519
+Victoria,Males,0-24,Number,2017-18,491
+Victoria,Males,0-24,Number,2018-19,551
+Victoria,Males,0-24,Number,2019-20,521
+Victoria,Males,0-24,Number,2020-21,602
+Victoria,Males,0-24,Number,2021-22,538
+Victoria,Males,0-24,Number,2022-23,459
+Victoria,Males,0-24,Number,2023-24,447
+Victoria,Males,0-24,"Rate (per 100,000)",2013-14,32.55
+Victoria,Males,0-24,"Rate (per 100,000)",2014-15,37.28
+Victoria,Males,0-24,"Rate (per 100,000)",2015-16,43.3
+Victoria,Males,0-24,"Rate (per 100,000)",2016-17,51.13
+Victoria,Males,0-24,"Rate (per 100,000)",2017-18,47.54
+Victoria,Males,0-24,"Rate (per 100,000)",2018-19,52.6
+Victoria,Males,0-24,"Rate (per 100,000)",2019-20,49.58
+Victoria,Males,0-24,"Rate (per 100,000)",2020-21,58.26
+Victoria,Males,0-24,"Rate (per 100,000)",2021-22,52.56
+Victoria,Males,0-24,"Rate (per 100,000)",2022-23,43.96
+Victoria,Males,0-24,"Rate (per 100,000)",2023-24,42.17
+Victoria,Males,25-44,Number,2013-14,663
+Victoria,Males,25-44,Number,2014-15,739
+Victoria,Males,25-44,Number,2015-16,748
+Victoria,Males,25-44,Number,2016-17,886
+Victoria,Males,25-44,Number,2017-18,770
+Victoria,Males,25-44,Number,2018-19,885
+Victoria,Males,25-44,Number,2019-20,821
+Victoria,Males,25-44,Number,2020-21,760
+Victoria,Males,25-44,Number,2021-22,699
+Victoria,Males,25-44,Number,2022-23,667
+Victoria,Males,25-44,Number,2023-24,785
+Victoria,Males,25-44,"Rate (per 100,000)",2013-14,78.35
+Victoria,Males,25-44,"Rate (per 100,000)",2014-15,85.71
+Victoria,Males,25-44,"Rate (per 100,000)",2015-16,84.88
+Victoria,Males,25-44,"Rate (per 100,000)",2016-17,98.22
+Victoria,Males,25-44,"Rate (per 100,000)",2017-18,83.35
+Victoria,Males,25-44,"Rate (per 100,000)",2018-19,93.5
+Victoria,Males,25-44,"Rate (per 100,000)",2019-20,85
+Victoria,Males,25-44,"Rate (per 100,000)",2020-21,78.74
+Victoria,Males,25-44,"Rate (per 100,000)",2021-22,72.47
+Victoria,Males,25-44,"Rate (per 100,000)",2022-23,67.14
+Victoria,Males,25-44,"Rate (per 100,000)",2023-24,77.38
+Victoria,Males,45-64,Number,2013-14,407
+Victoria,Males,45-64,Number,2014-15,421
+Victoria,Males,45-64,Number,2015-16,539
+Victoria,Males,45-64,Number,2016-17,520
+Victoria,Males,45-64,Number,2017-18,481
+Victoria,Males,45-64,Number,2018-19,578
+Victoria,Males,45-64,Number,2019-20,504
+Victoria,Males,45-64,Number,2020-21,445
+Victoria,Males,45-64,Number,2021-22,399
+Victoria,Males,45-64,Number,2022-23,424
+Victoria,Males,45-64,Number,2023-24,479
+Victoria,Males,45-64,"Rate (per 100,000)",2013-14,58.53
+Victoria,Males,45-64,"Rate (per 100,000)",2014-15,59.58
+Victoria,Males,45-64,"Rate (per 100,000)",2015-16,75.01
+Victoria,Males,45-64,"Rate (per 100,000)",2016-17,71.11
+Victoria,Males,45-64,"Rate (per 100,000)",2017-18,64.79
+Victoria,Males,45-64,"Rate (per 100,000)",2018-19,76.84
+Victoria,Males,45-64,"Rate (per 100,000)",2019-20,66.1
+Victoria,Males,45-64,"Rate (per 100,000)",2020-21,58
+Victoria,Males,45-64,"Rate (per 100,000)",2021-22,51.94
+Victoria,Males,45-64,"Rate (per 100,000)",2022-23,54.88
+Victoria,Males,45-64,"Rate (per 100,000)",2023-24,61.78
+Victoria,Males,65+,Number,2013-14,113
+Victoria,Males,65+,Number,2014-15,118
+Victoria,Males,65+,Number,2015-16,155
+Victoria,Males,65+,Number,2016-17,142
+Victoria,Males,65+,Number,2017-18,115
+Victoria,Males,65+,Number,2018-19,165
+Victoria,Males,65+,Number,2019-20,162
+Victoria,Males,65+,Number,2020-21,160
+Victoria,Males,65+,Number,2021-22,150
+Victoria,Males,65+,Number,2022-23,160
+Victoria,Males,65+,Number,2023-24,187
+Victoria,Males,65+,"Rate (per 100,000)",2013-14,28.83
+Victoria,Males,65+,"Rate (per 100,000)",2014-15,29.04
+Victoria,Males,65+,"Rate (per 100,000)",2015-16,36.8
+Victoria,Males,65+,"Rate (per 100,000)",2016-17,32.61
+Victoria,Males,65+,"Rate (per 100,000)",2017-18,25.65
+Victoria,Males,65+,"Rate (per 100,000)",2018-19,35.78
+Victoria,Males,65+,"Rate (per 100,000)",2019-20,34.04
+Victoria,Males,65+,"Rate (per 100,000)",2020-21,32.66
+Victoria,Males,65+,"Rate (per 100,000)",2021-22,29.92
+Victoria,Males,65+,"Rate (per 100,000)",2022-23,31.13
+Victoria,Males,65+,"Rate (per 100,000)",2023-24,35.92
+Victoria,Females,0-24,Number,2013-14,1167
+Victoria,Females,0-24,Number,2014-15,1280
+Victoria,Females,0-24,Number,2015-16,1422
+Victoria,Females,0-24,Number,2016-17,1706
+Victoria,Females,0-24,Number,2017-18,1590
+Victoria,Females,0-24,Number,2018-19,1639
+Victoria,Females,0-24,Number,2019-20,1505
+Victoria,Females,0-24,Number,2020-21,2066
+Victoria,Females,0-24,Number,2021-22,1904
+Victoria,Females,0-24,Number,2022-23,1628
+Victoria,Females,0-24,Number,2023-24,1542
+Victoria,Females,0-24,"Rate (per 100,000)",2013-14,128.62
+Victoria,Females,0-24,"Rate (per 100,000)",2014-15,138.46
+Victoria,Females,0-24,"Rate (per 100,000)",2015-16,150.5
+Victoria,Females,0-24,"Rate (per 100,000)",2016-17,176.87
+Victoria,Females,0-24,"Rate (per 100,000)",2017-18,162.45
+Victoria,Females,0-24,"Rate (per 100,000)",2018-19,165.69
+Victoria,Females,0-24,"Rate (per 100,000)",2019-20,152.01
+Victoria,Females,0-24,"Rate (per 100,000)",2020-21,212.04
+Victoria,Females,0-24,"Rate (per 100,000)",2021-22,196.74
+Victoria,Females,0-24,"Rate (per 100,000)",2022-23,164.77
+Victoria,Females,0-24,"Rate (per 100,000)",2023-24,153.8
+Victoria,Females,25-44,Number,2013-14,1075
+Victoria,Females,25-44,Number,2014-15,1226
+Victoria,Females,25-44,Number,2015-16,1248
+Victoria,Females,25-44,Number,2016-17,1314
+Victoria,Females,25-44,Number,2017-18,1315
+Victoria,Females,25-44,Number,2018-19,1321
+Victoria,Females,25-44,Number,2019-20,1252
+Victoria,Females,25-44,Number,2020-21,1253
+Victoria,Females,25-44,Number,2021-22,1115
+Victoria,Females,25-44,Number,2022-23,1219
+Victoria,Females,25-44,Number,2023-24,1248
+Victoria,Females,25-44,"Rate (per 100,000)",2013-14,125.75
+Victoria,Females,25-44,"Rate (per 100,000)",2014-15,140.39
+Victoria,Females,25-44,"Rate (per 100,000)",2015-16,139.77
+Victoria,Females,25-44,"Rate (per 100,000)",2016-17,143.91
+Victoria,Females,25-44,"Rate (per 100,000)",2017-18,140.8
+Victoria,Females,25-44,"Rate (per 100,000)",2018-19,138.25
+Victoria,Females,25-44,"Rate (per 100,000)",2019-20,128.64
+Victoria,Females,25-44,"Rate (per 100,000)",2020-21,128.78
+Victoria,Females,25-44,"Rate (per 100,000)",2021-22,114.66
+Victoria,Females,25-44,"Rate (per 100,000)",2022-23,121.96
+Victoria,Females,25-44,"Rate (per 100,000)",2023-24,122.4
+Victoria,Females,45-64,Number,2013-14,658
+Victoria,Females,45-64,Number,2014-15,733
+Victoria,Females,45-64,Number,2015-16,797
+Victoria,Females,45-64,Number,2016-17,849
+Victoria,Females,45-64,Number,2017-18,706
+Victoria,Females,45-64,Number,2018-19,887
+Victoria,Females,45-64,Number,2019-20,784
+Victoria,Females,45-64,Number,2020-21,805
+Victoria,Females,45-64,Number,2021-22,672
+Victoria,Females,45-64,Number,2022-23,731
+Victoria,Females,45-64,Number,2023-24,702
+Victoria,Females,45-64,"Rate (per 100,000)",2013-14,90.9
+Victoria,Females,45-64,"Rate (per 100,000)",2014-15,99.26
+Victoria,Females,45-64,"Rate (per 100,000)",2015-16,105.66
+Victoria,Females,45-64,"Rate (per 100,000)",2016-17,110.28
+Victoria,Females,45-64,"Rate (per 100,000)",2017-18,90.32
+Victoria,Females,45-64,"Rate (per 100,000)",2018-19,112.01
+Victoria,Females,45-64,"Rate (per 100,000)",2019-20,97.55
+Victoria,Females,45-64,"Rate (per 100,000)",2020-21,99.66
+Victoria,Females,45-64,"Rate (per 100,000)",2021-22,83.3
+Victoria,Females,45-64,"Rate (per 100,000)",2022-23,90.1
+Victoria,Females,45-64,"Rate (per 100,000)",2023-24,86.18
+Victoria,Females,65+,Number,2013-14,120
+Victoria,Females,65+,Number,2014-15,197
+Victoria,Females,65+,Number,2015-16,178
+Victoria,Females,65+,Number,2016-17,178
+Victoria,Females,65+,Number,2017-18,179
+Victoria,Females,65+,Number,2018-19,184
+Victoria,Females,65+,Number,2019-20,168
+Victoria,Females,65+,Number,2020-21,178
+Victoria,Females,65+,Number,2021-22,202
+Victoria,Females,65+,Number,2022-23,212
+Victoria,Females,65+,Number,2023-24,223
+Victoria,Females,65+,"Rate (per 100,000)",2013-14,25.98
+Victoria,Females,65+,"Rate (per 100,000)",2014-15,41.37
+Victoria,Females,65+,"Rate (per 100,000)",2015-16,36.21
+Victoria,Females,65+,"Rate (per 100,000)",2016-17,35.13
+Victoria,Females,65+,"Rate (per 100,000)",2017-18,34.35
+Victoria,Females,65+,"Rate (per 100,000)",2018-19,34.32
+Victoria,Females,65+,"Rate (per 100,000)",2019-20,30.32
+Victoria,Females,65+,"Rate (per 100,000)",2020-21,31.19
+Victoria,Females,65+,"Rate (per 100,000)",2021-22,34.55
+Victoria,Females,65+,"Rate (per 100,000)",2022-23,35.33
+Victoria,Females,65+,"Rate (per 100,000)",2023-24,36.66
+Queensland,Males,0-24,Number,2013-14,672
+Queensland,Males,0-24,Number,2014-15,773
+Queensland,Males,0-24,Number,2015-16,805
+Queensland,Males,0-24,Number,2016-17,899
+Queensland,Males,0-24,Number,2017-18,861
+Queensland,Males,0-24,Number,2018-19,856
+Queensland,Males,0-24,Number,2019-20,946
+Queensland,Males,0-24,Number,2020-21,1080
+Queensland,Males,0-24,Number,2021-22,883
+Queensland,Males,0-24,Number,2022-23,697
+Queensland,Males,0-24,Number,2023-24,669
+Queensland,Males,0-24,"Rate (per 100,000)",2013-14,83.52
+Queensland,Males,0-24,"Rate (per 100,000)",2014-15,95.31
+Queensland,Males,0-24,"Rate (per 100,000)",2015-16,98.65
+Queensland,Males,0-24,"Rate (per 100,000)",2016-17,109.18
+Queensland,Males,0-24,"Rate (per 100,000)",2017-18,103.57
+Queensland,Males,0-24,"Rate (per 100,000)",2018-19,102.1
+Queensland,Males,0-24,"Rate (per 100,000)",2019-20,112.21
+Queensland,Males,0-24,"Rate (per 100,000)",2020-21,128.13
+Queensland,Males,0-24,"Rate (per 100,000)",2021-22,104.11
+Queensland,Males,0-24,"Rate (per 100,000)",2022-23,80.67
+Queensland,Males,0-24,"Rate (per 100,000)",2023-24,76.59
+Queensland,Males,25-44,Number,2013-14,1210
+Queensland,Males,25-44,Number,2014-15,1294
+Queensland,Males,25-44,Number,2015-16,1283
+Queensland,Males,25-44,Number,2016-17,1367
+Queensland,Males,25-44,Number,2017-18,1249
+Queensland,Males,25-44,Number,2018-19,1308
+Queensland,Males,25-44,Number,2019-20,1328
+Queensland,Males,25-44,Number,2020-21,1327
+Queensland,Males,25-44,Number,2021-22,1173
+Queensland,Males,25-44,Number,2022-23,996
+Queensland,Males,25-44,Number,2023-24,918
+Queensland,Males,25-44,"Rate (per 100,000)",2013-14,184.81
+Queensland,Males,25-44,"Rate (per 100,000)",2014-15,196.91
+Queensland,Males,25-44,"Rate (per 100,000)",2015-16,194.68
+Queensland,Males,25-44,"Rate (per 100,000)",2016-17,206.14
+Queensland,Males,25-44,"Rate (per 100,000)",2017-18,186.38
+Queensland,Males,25-44,"Rate (per 100,000)",2018-19,192.91
+Queensland,Males,25-44,"Rate (per 100,000)",2019-20,193.31
+Queensland,Males,25-44,"Rate (per 100,000)",2020-21,191.03
+Queensland,Males,25-44,"Rate (per 100,000)",2021-22,166.35
+Queensland,Males,25-44,"Rate (per 100,000)",2022-23,136.86
+Queensland,Males,25-44,"Rate (per 100,000)",2023-24,123.57
+Queensland,Males,45-64,Number,2013-14,573
+Queensland,Males,45-64,Number,2014-15,618
+Queensland,Males,45-64,Number,2015-16,742
+Queensland,Males,45-64,Number,2016-17,757
+Queensland,Males,45-64,Number,2017-18,705
+Queensland,Males,45-64,Number,2018-19,736
+Queensland,Males,45-64,Number,2019-20,737
+Queensland,Males,45-64,Number,2020-21,643
+Queensland,Males,45-64,Number,2021-22,614
+Queensland,Males,45-64,Number,2022-23,507
+Queensland,Males,45-64,Number,2023-24,598
+Queensland,Males,45-64,"Rate (per 100,000)",2013-14,100.67
+Queensland,Males,45-64,"Rate (per 100,000)",2014-15,107.51
+Queensland,Males,45-64,"Rate (per 100,000)",2015-16,127.58
+Queensland,Males,45-64,"Rate (per 100,000)",2016-17,128.13
+Queensland,Males,45-64,"Rate (per 100,000)",2017-18,117.26
+Queensland,Males,45-64,"Rate (per 100,000)",2018-19,120.33
+Queensland,Males,45-64,"Rate (per 100,000)",2019-20,118.47
+Queensland,Males,45-64,"Rate (per 100,000)",2020-21,101.82
+Queensland,Males,45-64,"Rate (per 100,000)",2021-22,96
+Queensland,Males,45-64,"Rate (per 100,000)",2022-23,78.44
+Queensland,Males,45-64,"Rate (per 100,000)",2023-24,92.1
+Queensland,Males,65+,Number,2013-14,155
+Queensland,Males,65+,Number,2014-15,158
+Queensland,Males,65+,Number,2015-16,176
+Queensland,Males,65+,Number,2016-17,183
+Queensland,Males,65+,Number,2017-18,182
+Queensland,Males,65+,Number,2018-19,181
+Queensland,Males,65+,Number,2019-20,203
+Queensland,Males,65+,Number,2020-21,219
+Queensland,Males,65+,Number,2021-22,203
+Queensland,Males,65+,Number,2022-23,226
+Queensland,Males,65+,Number,2023-24,202
+Queensland,Males,65+,"Rate (per 100,000)",2013-14,50.66
+Queensland,Males,65+,"Rate (per 100,000)",2014-15,49.54
+Queensland,Males,65+,"Rate (per 100,000)",2015-16,52.98
+Queensland,Males,65+,"Rate (per 100,000)",2016-17,52.93
+Queensland,Males,65+,"Rate (per 100,000)",2017-18,50.65
+Queensland,Males,65+,"Rate (per 100,000)",2018-19,48.51
+Queensland,Males,65+,"Rate (per 100,000)",2019-20,52.35
+Queensland,Males,65+,"Rate (per 100,000)",2020-21,54.34
+Queensland,Males,65+,"Rate (per 100,000)",2021-22,48.58
+Queensland,Males,65+,"Rate (per 100,000)",2022-23,52.34
+Queensland,Males,65+,"Rate (per 100,000)",2023-24,46.07
+Queensland,Females,0-24,Number,2013-14,1901
+Queensland,Females,0-24,Number,2014-15,2050
+Queensland,Females,0-24,Number,2015-16,2149
+Queensland,Females,0-24,Number,2016-17,2477
+Queensland,Females,0-24,Number,2017-18,2239
+Queensland,Females,0-24,Number,2018-19,2351
+Queensland,Females,0-24,Number,2019-20,2467
+Queensland,Females,0-24,Number,2020-21,3104
+Queensland,Females,0-24,Number,2021-22,2746
+Queensland,Females,0-24,Number,2022-23,2325
+Queensland,Females,0-24,Number,2023-24,2051
+Queensland,Females,0-24,"Rate (per 100,000)",2013-14,247.38
+Queensland,Females,0-24,"Rate (per 100,000)",2014-15,264.61
+Queensland,Females,0-24,"Rate (per 100,000)",2015-16,275.24
+Queensland,Females,0-24,"Rate (per 100,000)",2016-17,314.59
+Queensland,Females,0-24,"Rate (per 100,000)",2017-18,282.11
+Queensland,Females,0-24,"Rate (per 100,000)",2018-19,294.02
+Queensland,Females,0-24,"Rate (per 100,000)",2019-20,307.35
+Queensland,Females,0-24,"Rate (per 100,000)",2020-21,387.76
+Queensland,Females,0-24,"Rate (per 100,000)",2021-22,341.33
+Queensland,Females,0-24,"Rate (per 100,000)",2022-23,283.56
+Queensland,Females,0-24,"Rate (per 100,000)",2023-24,247.43
+Queensland,Females,25-44,Number,2013-14,1710
+Queensland,Females,25-44,Number,2014-15,1837
+Queensland,Females,25-44,Number,2015-16,1968
+Queensland,Females,25-44,Number,2016-17,1850
+Queensland,Females,25-44,Number,2017-18,1814
+Queensland,Females,25-44,Number,2018-19,1747
+Queensland,Females,25-44,Number,2019-20,1723
+Queensland,Females,25-44,Number,2020-21,1847
+Queensland,Females,25-44,Number,2021-22,1620
+Queensland,Females,25-44,Number,2022-23,1486
+Queensland,Females,25-44,Number,2023-24,1438
+Queensland,Females,25-44,"Rate (per 100,000)",2013-14,259.04
+Queensland,Females,25-44,"Rate (per 100,000)",2014-15,275.88
+Queensland,Females,25-44,"Rate (per 100,000)",2015-16,293.18
+Queensland,Females,25-44,"Rate (per 100,000)",2016-17,272.73
+Queensland,Females,25-44,"Rate (per 100,000)",2017-18,263.79
+Queensland,Females,25-44,"Rate (per 100,000)",2018-19,250.26
+Queensland,Females,25-44,"Rate (per 100,000)",2019-20,243.16
+Queensland,Females,25-44,"Rate (per 100,000)",2020-21,257.97
+Queensland,Females,25-44,"Rate (per 100,000)",2021-22,223.21
+Queensland,Females,25-44,"Rate (per 100,000)",2022-23,198.73
+Queensland,Females,25-44,"Rate (per 100,000)",2023-24,188.67
+Queensland,Females,45-64,Number,2013-14,1047
+Queensland,Females,45-64,Number,2014-15,1048
+Queensland,Females,45-64,Number,2015-16,1205
+Queensland,Females,45-64,Number,2016-17,1184
+Queensland,Females,45-64,Number,2017-18,1084
+Queensland,Females,45-64,Number,2018-19,1058
+Queensland,Females,45-64,Number,2019-20,1018
+Queensland,Females,45-64,Number,2020-21,999
+Queensland,Females,45-64,Number,2021-22,919
+Queensland,Females,45-64,Number,2022-23,852
+Queensland,Females,45-64,Number,2023-24,810
+Queensland,Females,45-64,"Rate (per 100,000)",2013-14,179.64
+Queensland,Females,45-64,"Rate (per 100,000)",2014-15,176.84
+Queensland,Females,45-64,"Rate (per 100,000)",2015-16,199.7
+Queensland,Females,45-64,"Rate (per 100,000)",2016-17,192.35
+Queensland,Females,45-64,"Rate (per 100,000)",2017-18,172.86
+Queensland,Females,45-64,"Rate (per 100,000)",2018-19,165.97
+Queensland,Females,45-64,"Rate (per 100,000)",2019-20,157.11
+Queensland,Females,45-64,"Rate (per 100,000)",2020-21,152.09
+Queensland,Females,45-64,"Rate (per 100,000)",2021-22,138.22
+Queensland,Females,45-64,"Rate (per 100,000)",2022-23,126.55
+Queensland,Females,45-64,"Rate (per 100,000)",2023-24,119.66
+Queensland,Females,65+,Number,2013-14,147
+Queensland,Females,65+,Number,2014-15,187
+Queensland,Females,65+,Number,2015-16,155
+Queensland,Females,65+,Number,2016-17,193
+Queensland,Females,65+,Number,2017-18,204
+Queensland,Females,65+,Number,2018-19,197
+Queensland,Females,65+,Number,2019-20,214
+Queensland,Females,65+,Number,2020-21,257
+Queensland,Females,65+,Number,2021-22,248
+Queensland,Females,65+,Number,2022-23,244
+Queensland,Females,65+,Number,2023-24,257
+Queensland,Females,65+,"Rate (per 100,000)",2013-14,43.19
+Queensland,Females,65+,"Rate (per 100,000)",2014-15,52.91
+Queensland,Females,65+,"Rate (per 100,000)",2015-16,42.21
+Queensland,Females,65+,"Rate (per 100,000)",2016-17,50.61
+Queensland,Females,65+,"Rate (per 100,000)",2017-18,51.52
+Queensland,Females,65+,"Rate (per 100,000)",2018-19,47.88
+Queensland,Females,65+,"Rate (per 100,000)",2019-20,49.99
+Queensland,Females,65+,"Rate (per 100,000)",2020-21,57.71
+Queensland,Females,65+,"Rate (per 100,000)",2021-22,53.61
+Queensland,Females,65+,"Rate (per 100,000)",2022-23,50.86
+Queensland,Females,65+,"Rate (per 100,000)",2023-24,52.64
+Western Australia,Males,0-24,Number,2013-14,212
+Western Australia,Males,0-24,Number,2014-15,228
+Western Australia,Males,0-24,Number,2015-16,278
+Western Australia,Males,0-24,Number,2016-17,291
+Western Australia,Males,0-24,Number,2017-18,271
+Western Australia,Males,0-24,Number,2018-19,273
+Western Australia,Males,0-24,Number,2019-20,288
+Western Australia,Males,0-24,Number,2020-21,260
+Western Australia,Males,0-24,Number,2021-22,245
+Western Australia,Males,0-24,Number,2022-23,257
+Western Australia,Males,0-24,Number,2023-24,215
+Western Australia,Males,0-24,"Rate (per 100,000)",2013-14,50.46
+Western Australia,Males,0-24,"Rate (per 100,000)",2014-15,54.1
+Western Australia,Males,0-24,"Rate (per 100,000)",2015-16,65.81
+Western Australia,Males,0-24,"Rate (per 100,000)",2016-17,68.62
+Western Australia,Males,0-24,"Rate (per 100,000)",2017-18,63.46
+Western Australia,Males,0-24,"Rate (per 100,000)",2018-19,63.3
+Western Australia,Males,0-24,"Rate (per 100,000)",2019-20,66.03
+Western Australia,Males,0-24,"Rate (per 100,000)",2020-21,59.16
+Western Australia,Males,0-24,"Rate (per 100,000)",2021-22,55.31
+Western Australia,Males,0-24,"Rate (per 100,000)",2022-23,56.9
+Western Australia,Males,0-24,"Rate (per 100,000)",2023-24,46.94
+Western Australia,Males,0-24,Per cent,2013-14,9.11
+Western Australia,Males,0-24,Per cent,2014-15,8.83
+Western Australia,Males,0-24,Per cent,2015-16,9.6
+Western Australia,Males,0-24,Per cent,2016-17,9.24
+Western Australia,Males,0-24,Per cent,2017-18,9.46
+Western Australia,Males,0-24,Per cent,2018-19,9.38
+Western Australia,Males,0-24,Per cent,2019-20,9.63
+Western Australia,Males,0-24,Per cent,2020-21,8.6
+Western Australia,Males,0-24,Per cent,2021-22,9.45
+Western Australia,Males,0-24,Per cent,2022-23,11.42
+Western Australia,Males,0-24,Per cent,2023-24,10.02
+Western Australia,Males,25-44,Number,2013-14,380
+Western Australia,Males,25-44,Number,2014-15,375
+Western Australia,Males,25-44,Number,2015-16,532
+Western Australia,Males,25-44,Number,2016-17,492
+Western Australia,Males,25-44,Number,2017-18,480
+Western Australia,Males,25-44,Number,2018-19,427
+Western Australia,Males,25-44,Number,2019-20,453
+Western Australia,Males,25-44,Number,2020-21,395
+Western Australia,Males,25-44,Number,2021-22,343
+Western Australia,Males,25-44,Number,2022-23,403
+Western Australia,Males,25-44,Number,2023-24,396
+Western Australia,Males,25-44,"Rate (per 100,000)",2013-14,98.41
+Western Australia,Males,25-44,"Rate (per 100,000)",2014-15,96.75
+Western Australia,Males,25-44,"Rate (per 100,000)",2015-16,137.79
+Western Australia,Males,25-44,"Rate (per 100,000)",2016-17,128.24
+Western Australia,Males,25-44,"Rate (per 100,000)",2017-18,125.52
+Western Australia,Males,25-44,"Rate (per 100,000)",2018-19,111.52
+Western Australia,Males,25-44,"Rate (per 100,000)",2019-20,117.25
+Western Australia,Males,25-44,"Rate (per 100,000)",2020-21,101.2
+Western Australia,Males,25-44,"Rate (per 100,000)",2021-22,86.76
+Western Australia,Males,25-44,"Rate (per 100,000)",2022-23,98.24
+Western Australia,Males,25-44,"Rate (per 100,000)",2023-24,93.92
+Western Australia,Males,45-64,Number,2013-14,176
+Western Australia,Males,45-64,Number,2014-15,160
+Western Australia,Males,45-64,Number,2015-16,251
+Western Australia,Males,45-64,Number,2016-17,277
+Western Australia,Males,45-64,Number,2017-18,216
+Western Australia,Males,45-64,Number,2018-19,215
+Western Australia,Males,45-64,Number,2019-20,229
+Western Australia,Males,45-64,Number,2020-21,203
+Western Australia,Males,45-64,Number,2021-22,172
+Western Australia,Males,45-64,Number,2022-23,209
+Western Australia,Males,45-64,Number,2023-24,249
+Western Australia,Males,45-64,"Rate (per 100,000)",2013-14,57.59
+Western Australia,Males,45-64,"Rate (per 100,000)",2014-15,51.91
+Western Australia,Males,45-64,"Rate (per 100,000)",2015-16,80.87
+Western Australia,Males,45-64,"Rate (per 100,000)",2016-17,88.17
+Western Australia,Males,45-64,"Rate (per 100,000)",2017-18,67.58
+Western Australia,Males,45-64,"Rate (per 100,000)",2018-19,66.17
+Western Australia,Males,45-64,"Rate (per 100,000)",2019-20,69.18
+Western Australia,Males,45-64,"Rate (per 100,000)",2020-21,60.23
+Western Australia,Males,45-64,"Rate (per 100,000)",2021-22,50.41
+Western Australia,Males,45-64,"Rate (per 100,000)",2022-23,60.63
+Western Australia,Males,45-64,"Rate (per 100,000)",2023-24,71.81
+Western Australia,Males,65+,Number,2013-14,49
+Western Australia,Males,65+,Number,2014-15,44
+Western Australia,Males,65+,Number,2015-16,55
+Western Australia,Males,65+,Number,2016-17,67
+Western Australia,Males,65+,Number,2017-18,65
+Western Australia,Males,65+,Number,2018-19,80
+Western Australia,Males,65+,Number,2019-20,68
+Western Australia,Males,65+,Number,2020-21,85
+Western Australia,Males,65+,Number,2021-22,64
+Western Australia,Males,65+,Number,2022-23,71
+Western Australia,Males,65+,Number,2023-24,83
+Western Australia,Males,65+,"Rate (per 100,000)",2013-14,32.95
+Western Australia,Males,65+,"Rate (per 100,000)",2014-15,28.48
+Western Australia,Males,65+,"Rate (per 100,000)",2015-16,34.29
+Western Australia,Males,65+,"Rate (per 100,000)",2016-17,40.11
+Western Australia,Males,65+,"Rate (per 100,000)",2017-18,37.3
+Western Australia,Males,65+,"Rate (per 100,000)",2018-19,43.99
+Western Australia,Males,65+,"Rate (per 100,000)",2019-20,35.68
+Western Australia,Males,65+,"Rate (per 100,000)",2020-21,42.53
+Western Australia,Males,65+,"Rate (per 100,000)",2021-22,30.79
+Western Australia,Males,65+,"Rate (per 100,000)",2022-23,33
+Western Australia,Males,65+,"Rate (per 100,000)",2023-24,37.92
+Western Australia,Females,0-24,Number,2013-14,584
+Western Australia,Females,0-24,Number,2014-15,551
+Western Australia,Females,0-24,Number,2015-16,764
+Western Australia,Females,0-24,Number,2016-17,772
+Western Australia,Females,0-24,Number,2017-18,803
+Western Australia,Females,0-24,Number,2018-19,801
+Western Australia,Females,0-24,Number,2019-20,771
+Western Australia,Females,0-24,Number,2020-21,963
+Western Australia,Females,0-24,Number,2021-22,950
+Western Australia,Females,0-24,Number,2022-23,732
+Western Australia,Females,0-24,Number,2023-24,611
+Western Australia,Females,0-24,"Rate (per 100,000)",2013-14,145.84
+Western Australia,Females,0-24,"Rate (per 100,000)",2014-15,137.15
+Western Australia,Females,0-24,"Rate (per 100,000)",2015-16,190.05
+Western Australia,Females,0-24,"Rate (per 100,000)",2016-17,191.55
+Western Australia,Females,0-24,"Rate (per 100,000)",2017-18,198.29
+Western Australia,Females,0-24,"Rate (per 100,000)",2018-19,196.48
+Western Australia,Females,0-24,"Rate (per 100,000)",2019-20,187.39
+Western Australia,Females,0-24,"Rate (per 100,000)",2020-21,232.58
+Western Australia,Females,0-24,"Rate (per 100,000)",2021-22,227.95
+Western Australia,Females,0-24,"Rate (per 100,000)",2022-23,172.48
+Western Australia,Females,0-24,"Rate (per 100,000)",2023-24,142.11
+Western Australia,Females,25-44,Number,2013-14,517
+Western Australia,Females,25-44,Number,2014-15,554
+Western Australia,Females,25-44,Number,2015-16,700
+Western Australia,Females,25-44,Number,2016-17,709
+Western Australia,Females,25-44,Number,2017-18,674
+Western Australia,Females,25-44,Number,2018-19,650
+Western Australia,Females,25-44,Number,2019-20,641
+Western Australia,Females,25-44,Number,2020-21,610
+Western Australia,Females,25-44,Number,2021-22,523
+Western Australia,Females,25-44,Number,2022-23,549
+Western Australia,Females,25-44,Number,2023-24,524
+Western Australia,Females,25-44,"Rate (per 100,000)",2013-14,140.55
+Western Australia,Females,25-44,"Rate (per 100,000)",2014-15,148.65
+Western Australia,Females,25-44,"Rate (per 100,000)",2015-16,186.94
+Western Australia,Females,25-44,"Rate (per 100,000)",2016-17,189.17
+Western Australia,Females,25-44,"Rate (per 100,000)",2017-18,179.03
+Western Australia,Females,25-44,"Rate (per 100,000)",2018-19,171.12
+Western Australia,Females,25-44,"Rate (per 100,000)",2019-20,166.62
+Western Australia,Females,25-44,"Rate (per 100,000)",2020-21,156.72
+Western Australia,Females,25-44,"Rate (per 100,000)",2021-22,132.85
+Western Australia,Females,25-44,"Rate (per 100,000)",2022-23,135.28
+Western Australia,Females,25-44,"Rate (per 100,000)",2023-24,126.19
+Western Australia,Females,45-64,Number,2013-14,306
+Western Australia,Females,45-64,Number,2014-15,297
+Western Australia,Females,45-64,Number,2015-16,409
+Western Australia,Females,45-64,Number,2016-17,373
+Western Australia,Females,45-64,Number,2017-18,388
+Western Australia,Females,45-64,Number,2018-19,390
+Western Australia,Females,45-64,Number,2019-20,369
+Western Australia,Females,45-64,Number,2020-21,325
+Western Australia,Females,45-64,Number,2021-22,311
+Western Australia,Females,45-64,Number,2022-23,235
+Western Australia,Females,45-64,Number,2023-24,251
+Western Australia,Females,45-64,"Rate (per 100,000)",2013-14,100.36
+Western Australia,Females,45-64,"Rate (per 100,000)",2014-15,96.22
+Western Australia,Females,45-64,"Rate (per 100,000)",2015-16,130.9
+Western Australia,Females,45-64,"Rate (per 100,000)",2016-17,117.52
+Western Australia,Females,45-64,"Rate (per 100,000)",2017-18,120.31
+Western Australia,Females,45-64,"Rate (per 100,000)",2018-19,119.17
+Western Australia,Females,45-64,"Rate (per 100,000)",2019-20,110.77
+Western Australia,Females,45-64,"Rate (per 100,000)",2020-21,96.12
+Western Australia,Females,45-64,"Rate (per 100,000)",2021-22,91.17
+Western Australia,Females,45-64,"Rate (per 100,000)",2022-23,68.23
+Western Australia,Females,45-64,"Rate (per 100,000)",2023-24,72.47
+Western Australia,Females,65+,Number,2013-14,48
+Western Australia,Females,65+,Number,2014-15,41
+Western Australia,Females,65+,Number,2015-16,70
+Western Australia,Females,65+,Number,2016-17,93
+Western Australia,Females,65+,Number,2017-18,68
+Western Australia,Females,65+,Number,2018-19,76
+Western Australia,Females,65+,Number,2019-20,70
+Western Australia,Females,65+,Number,2020-21,77
+Western Australia,Females,65+,Number,2021-22,83
+Western Australia,Females,65+,Number,2022-23,84
+Western Australia,Females,65+,Number,2023-24,89
+Western Australia,Females,65+,"Rate (per 100,000)",2013-14,28.49
+Western Australia,Females,65+,"Rate (per 100,000)",2014-15,23.53
+Western Australia,Females,65+,"Rate (per 100,000)",2015-16,38.87
+Western Australia,Females,65+,"Rate (per 100,000)",2016-17,49.81
+Western Australia,Females,65+,"Rate (per 100,000)",2017-18,34.96
+Western Australia,Females,65+,"Rate (per 100,000)",2018-19,37.44
+Western Australia,Females,65+,"Rate (per 100,000)",2019-20,32.89
+Western Australia,Females,65+,"Rate (per 100,000)",2020-21,34.53
+Western Australia,Females,65+,"Rate (per 100,000)",2021-22,35.82
+Western Australia,Females,65+,"Rate (per 100,000)",2022-23,34.99
+Western Australia,Females,65+,"Rate (per 100,000)",2023-24,36.41
+South Australia,Males,0-24,Number,2013-14,214
+South Australia,Males,0-24,Number,2014-15,209
+South Australia,Males,0-24,Number,2015-16,278
+South Australia,Males,0-24,Number,2016-17,267
+South Australia,Males,0-24,Number,2017-18,244
+South Australia,Males,0-24,Number,2018-19,256
+South Australia,Males,0-24,Number,2019-20,271
+South Australia,Males,0-24,Number,2020-21,246
+South Australia,Males,0-24,Number,2021-22,214
+South Australia,Males,0-24,Number,2022-23,206
+South Australia,Males,0-24,Number,2023-24,175
+South Australia,Males,0-24,"Rate (per 100,000)",2013-14,80.49
+South Australia,Males,0-24,"Rate (per 100,000)",2014-15,78.26
+South Australia,Males,0-24,"Rate (per 100,000)",2015-16,103.73
+South Australia,Males,0-24,"Rate (per 100,000)",2016-17,99.28
+South Australia,Males,0-24,"Rate (per 100,000)",2017-18,90.43
+South Australia,Males,0-24,"Rate (per 100,000)",2018-19,94.44
+South Australia,Males,0-24,"Rate (per 100,000)",2019-20,99.69
+South Australia,Males,0-24,"Rate (per 100,000)",2020-21,90.9
+South Australia,Males,0-24,"Rate (per 100,000)",2021-22,79.17
+South Australia,Males,0-24,"Rate (per 100,000)",2022-23,75.34
+South Australia,Males,0-24,"Rate (per 100,000)",2023-24,63.49
+South Australia,Males,25-44,Number,2013-14,353
+South Australia,Males,25-44,Number,2014-15,360
+South Australia,Males,25-44,Number,2015-16,427
+South Australia,Males,25-44,Number,2016-17,439
+South Australia,Males,25-44,Number,2017-18,416
+South Australia,Males,25-44,Number,2018-19,423
+South Australia,Males,25-44,Number,2019-20,382
+South Australia,Males,25-44,Number,2020-21,398
+South Australia,Males,25-44,Number,2021-22,292
+South Australia,Males,25-44,Number,2022-23,324
+South Australia,Males,25-44,Number,2023-24,327
+South Australia,Males,25-44,"Rate (per 100,000)",2013-14,158.85
+South Australia,Males,25-44,"Rate (per 100,000)",2014-15,161.66
+South Australia,Males,25-44,"Rate (per 100,000)",2015-16,191.88
+South Australia,Males,25-44,"Rate (per 100,000)",2016-17,197.38
+South Australia,Males,25-44,"Rate (per 100,000)",2017-18,185.93
+South Australia,Males,25-44,"Rate (per 100,000)",2018-19,186.81
+South Australia,Males,25-44,"Rate (per 100,000)",2019-20,166.09
+South Australia,Males,25-44,"Rate (per 100,000)",2020-21,170.34
+South Australia,Males,25-44,"Rate (per 100,000)",2021-22,123.18
+South Australia,Males,25-44,"Rate (per 100,000)",2022-23,133.52
+South Australia,Males,25-44,"Rate (per 100,000)",2023-24,132.61
+South Australia,Males,45-64,Number,2013-14,170
+South Australia,Males,45-64,Number,2014-15,188
+South Australia,Males,45-64,Number,2015-16,238
+South Australia,Males,45-64,Number,2016-17,252
+South Australia,Males,45-64,Number,2017-18,248
+South Australia,Males,45-64,Number,2018-19,229
+South Australia,Males,45-64,Number,2019-20,237
+South Australia,Males,45-64,Number,2020-21,195
+South Australia,Males,45-64,Number,2021-22,204
+South Australia,Males,45-64,Number,2022-23,196
+South Australia,Males,45-64,Number,2023-24,200
+South Australia,Males,45-64,"Rate (per 100,000)",2013-14,79.22
+South Australia,Males,45-64,"Rate (per 100,000)",2014-15,87.22
+South Australia,Males,45-64,"Rate (per 100,000)",2015-16,109.95
+South Australia,Males,45-64,"Rate (per 100,000)",2016-17,115.62
+South Australia,Males,45-64,"Rate (per 100,000)",2017-18,112.93
+South Australia,Males,45-64,"Rate (per 100,000)",2018-19,103.7
+South Australia,Males,45-64,"Rate (per 100,000)",2019-20,106.66
+South Australia,Males,45-64,"Rate (per 100,000)",2020-21,87.3
+South Australia,Males,45-64,"Rate (per 100,000)",2021-22,91.25
+South Australia,Males,45-64,"Rate (per 100,000)",2022-23,87.87
+South Australia,Males,45-64,"Rate (per 100,000)",2023-24,89.81
+South Australia,Males,65+,Number,2013-14,40
+South Australia,Males,65+,Number,2014-15,47
+South Australia,Males,65+,Number,2015-16,51
+South Australia,Males,65+,Number,2016-17,52
+South Australia,Males,65+,Number,2017-18,53
+South Australia,Males,65+,Number,2018-19,51
+South Australia,Males,65+,Number,2019-20,58
+South Australia,Males,65+,Number,2020-21,68
+South Australia,Males,65+,Number,2021-22,58
+South Australia,Males,65+,Number,2022-23,78
+South Australia,Males,65+,Number,2023-24,77
+South Australia,Males,65+,"Rate (per 100,000)",2013-14,31.04
+South Australia,Males,65+,"Rate (per 100,000)",2014-15,35.32
+South Australia,Males,65+,"Rate (per 100,000)",2015-16,37.18
+South Australia,Males,65+,"Rate (per 100,000)",2016-17,36.8
+South Australia,Males,65+,"Rate (per 100,000)",2017-18,36.42
+South Australia,Males,65+,"Rate (per 100,000)",2018-19,34.01
+South Australia,Males,65+,"Rate (per 100,000)",2019-20,37.43
+South Australia,Males,65+,"Rate (per 100,000)",2020-21,42.47
+South Australia,Males,65+,"Rate (per 100,000)",2021-22,35.22
+South Australia,Males,65+,"Rate (per 100,000)",2022-23,46.17
+South Australia,Males,65+,"Rate (per 100,000)",2023-24,45.01
+South Australia,Females,0-24,Number,2013-14,577
+South Australia,Females,0-24,Number,2014-15,609
+South Australia,Females,0-24,Number,2015-16,763
+South Australia,Females,0-24,Number,2016-17,747
+South Australia,Females,0-24,Number,2017-18,696
+South Australia,Females,0-24,Number,2018-19,602
+South Australia,Females,0-24,Number,2019-20,646
+South Australia,Females,0-24,Number,2020-21,842
+South Australia,Females,0-24,Number,2021-22,883
+South Australia,Females,0-24,Number,2022-23,743
+South Australia,Females,0-24,Number,2023-24,695
+South Australia,Females,0-24,"Rate (per 100,000)",2013-14,228.45
+South Australia,Females,0-24,"Rate (per 100,000)",2014-15,239.91
+South Australia,Females,0-24,"Rate (per 100,000)",2015-16,299.14
+South Australia,Females,0-24,"Rate (per 100,000)",2016-17,291.9
+South Australia,Females,0-24,"Rate (per 100,000)",2017-18,271.64
+South Australia,Females,0-24,"Rate (per 100,000)",2018-19,234.39
+South Australia,Females,0-24,"Rate (per 100,000)",2019-20,251.2
+South Australia,Females,0-24,"Rate (per 100,000)",2020-21,328.85
+South Australia,Females,0-24,"Rate (per 100,000)",2021-22,345.43
+South Australia,Females,0-24,"Rate (per 100,000)",2022-23,288.15
+South Australia,Females,0-24,"Rate (per 100,000)",2023-24,267.81
+South Australia,Females,25-44,Number,2013-14,454
+South Australia,Females,25-44,Number,2014-15,518
+South Australia,Females,25-44,Number,2015-16,606
+South Australia,Females,25-44,Number,2016-17,538
+South Australia,Females,25-44,Number,2017-18,464
+South Australia,Females,25-44,Number,2018-19,514
+South Australia,Females,25-44,Number,2019-20,483
+South Australia,Females,25-44,Number,2020-21,518
+South Australia,Females,25-44,Number,2021-22,462
+South Australia,Females,25-44,Number,2022-23,445
+South Australia,Females,25-44,Number,2023-24,468
+South Australia,Females,25-44,"Rate (per 100,000)",2013-14,206.36
+South Australia,Females,25-44,"Rate (per 100,000)",2014-15,234.09
+South Australia,Females,25-44,"Rate (per 100,000)",2015-16,273.26
+South Australia,Females,25-44,"Rate (per 100,000)",2016-17,241.89
+South Australia,Females,25-44,"Rate (per 100,000)",2017-18,206.79
+South Australia,Females,25-44,"Rate (per 100,000)",2018-19,225.97
+South Australia,Females,25-44,"Rate (per 100,000)",2019-20,208.67
+South Australia,Females,25-44,"Rate (per 100,000)",2020-21,220.71
+South Australia,Females,25-44,"Rate (per 100,000)",2021-22,194.42
+South Australia,Females,25-44,"Rate (per 100,000)",2022-23,183
+South Australia,Females,25-44,"Rate (per 100,000)",2023-24,189.57
+South Australia,Females,45-64,Number,2013-14,348
+South Australia,Females,45-64,Number,2014-15,313
+South Australia,Females,45-64,Number,2015-16,369
+South Australia,Females,45-64,Number,2016-17,340
+South Australia,Females,45-64,Number,2017-18,333
+South Australia,Females,45-64,Number,2018-19,358
+South Australia,Females,45-64,Number,2019-20,341
+South Australia,Females,45-64,Number,2020-21,355
+South Australia,Females,45-64,Number,2021-22,299
+South Australia,Females,45-64,Number,2022-23,262
+South Australia,Females,45-64,Number,2023-24,276
+South Australia,Females,45-64,"Rate (per 100,000)",2013-14,157.52
+South Australia,Females,45-64,"Rate (per 100,000)",2014-15,140.67
+South Australia,Females,45-64,"Rate (per 100,000)",2015-16,164.75
+South Australia,Females,45-64,"Rate (per 100,000)",2016-17,150.65
+South Australia,Females,45-64,"Rate (per 100,000)",2017-18,146.47
+South Australia,Females,45-64,"Rate (per 100,000)",2018-19,156.67
+South Australia,Females,45-64,"Rate (per 100,000)",2019-20,148.26
+South Australia,Females,45-64,"Rate (per 100,000)",2020-21,153.74
+South Australia,Females,45-64,"Rate (per 100,000)",2021-22,129.58
+South Australia,Females,45-64,"Rate (per 100,000)",2022-23,113.58
+South Australia,Females,45-64,"Rate (per 100,000)",2023-24,119.66
+South Australia,Females,65+,Number,2013-14,54
+South Australia,Females,65+,Number,2014-15,62
+South Australia,Females,65+,Number,2015-16,65
+South Australia,Females,65+,Number,2016-17,57
+South Australia,Females,65+,Number,2017-18,58
+South Australia,Females,65+,Number,2018-19,78
+South Australia,Females,65+,Number,2019-20,88
+South Australia,Females,65+,Number,2020-21,92
+South Australia,Females,65+,Number,2021-22,81
+South Australia,Females,65+,Number,2022-23,83
+South Australia,Females,65+,Number,2023-24,91
+South Australia,Females,65+,"Rate (per 100,000)",2013-14,35.03
+South Australia,Females,65+,"Rate (per 100,000)",2014-15,39.28
+South Australia,Females,65+,"Rate (per 100,000)",2015-16,40.18
+South Australia,Females,65+,"Rate (per 100,000)",2016-17,34.31
+South Australia,Females,65+,"Rate (per 100,000)",2017-18,33.97
+South Australia,Females,65+,"Rate (per 100,000)",2018-19,44.39
+South Australia,Females,65+,"Rate (per 100,000)",2019-20,48.55
+South Australia,Females,65+,"Rate (per 100,000)",2020-21,49.18
+South Australia,Females,65+,"Rate (per 100,000)",2021-22,42.12
+South Australia,Females,65+,"Rate (per 100,000)",2022-23,42.13
+South Australia,Females,65+,"Rate (per 100,000)",2023-24,45.67
+Tasmania,Males,0-24,Number,2013-14,39
+Tasmania,Males,0-24,Number,2014-15,33
+Tasmania,Males,0-24,Number,2015-16,54
+Tasmania,Males,0-24,Number,2016-17,68
+Tasmania,Males,0-24,Number,2017-18,89
+Tasmania,Males,0-24,Number,2018-19,89
+Tasmania,Males,0-24,Number,2019-20,48
+Tasmania,Males,0-24,Number,2020-21,48
+Tasmania,Males,0-24,Number,2021-22,45
+Tasmania,Males,0-24,Number,2022-23,49
+Tasmania,Males,0-24,Number,2023-24,54
+Tasmania,Males,0-24,"Rate (per 100,000)",2013-14,47.48
+Tasmania,Males,0-24,"Rate (per 100,000)",2014-15,40.44
+Tasmania,Males,0-24,"Rate (per 100,000)",2015-16,66.44
+Tasmania,Males,0-24,"Rate (per 100,000)",2016-17,83.4
+Tasmania,Males,0-24,"Rate (per 100,000)",2017-18,108.41
+Tasmania,Males,0-24,"Rate (per 100,000)",2018-19,107.98
+Tasmania,Males,0-24,"Rate (per 100,000)",2019-20,58.36
+Tasmania,Males,0-24,"Rate (per 100,000)",2020-21,58.56
+Tasmania,Males,0-24,"Rate (per 100,000)",2021-22,55.06
+Tasmania,Males,0-24,"Rate (per 100,000)",2022-23,60.24
+Tasmania,Males,0-24,"Rate (per 100,000)",2023-24,66.55
+Tasmania,Males,25-44,Number,2013-14,70
+Tasmania,Males,25-44,Number,2014-15,62
+Tasmania,Males,25-44,Number,2015-16,68
+Tasmania,Males,25-44,Number,2016-17,81
+Tasmania,Males,25-44,Number,2017-18,84
+Tasmania,Males,25-44,Number,2018-19,103
+Tasmania,Males,25-44,Number,2019-20,57
+Tasmania,Males,25-44,Number,2020-21,72
+Tasmania,Males,25-44,Number,2021-22,48
+Tasmania,Males,25-44,Number,2022-23,52
+Tasmania,Males,25-44,Number,2023-24,47
+Tasmania,Males,25-44,"Rate (per 100,000)",2013-14,114.91
+Tasmania,Males,25-44,"Rate (per 100,000)",2014-15,102.74
+Tasmania,Males,25-44,"Rate (per 100,000)",2015-16,113.54
+Tasmania,Males,25-44,"Rate (per 100,000)",2016-17,133.94
+Tasmania,Males,25-44,"Rate (per 100,000)",2017-18,134.29
+Tasmania,Males,25-44,"Rate (per 100,000)",2018-19,158.09
+Tasmania,Males,25-44,"Rate (per 100,000)",2019-20,83.86
+Tasmania,Males,25-44,"Rate (per 100,000)",2020-21,101.06
+Tasmania,Males,25-44,"Rate (per 100,000)",2021-22,65.27
+Tasmania,Males,25-44,"Rate (per 100,000)",2022-23,69.94
+Tasmania,Males,25-44,"Rate (per 100,000)",2023-24,62.98
+Tasmania,Males,45-64,Number,2013-14,44
+Tasmania,Males,45-64,Number,2014-15,50
+Tasmania,Males,45-64,Number,2015-16,75
+Tasmania,Males,45-64,Number,2016-17,73
+Tasmania,Males,45-64,Number,2017-18,72
+Tasmania,Males,45-64,Number,2018-19,71
+Tasmania,Males,45-64,Number,2019-20,45
+Tasmania,Males,45-64,Number,2020-21,35
+Tasmania,Males,45-64,Number,2021-22,38
+Tasmania,Males,45-64,Number,2022-23,47
+Tasmania,Males,45-64,Number,2023-24,34
+Tasmania,Males,45-64,"Rate (per 100,000)",2013-14,63.33
+Tasmania,Males,45-64,"Rate (per 100,000)",2014-15,71.95
+Tasmania,Males,45-64,"Rate (per 100,000)",2015-16,107.97
+Tasmania,Males,45-64,"Rate (per 100,000)",2016-17,104.73
+Tasmania,Males,45-64,"Rate (per 100,000)",2017-18,102.63
+Tasmania,Males,45-64,"Rate (per 100,000)",2018-19,100.49
+Tasmania,Males,45-64,"Rate (per 100,000)",2019-20,63.28
+Tasmania,Males,45-64,"Rate (per 100,000)",2020-21,49.06
+Tasmania,Males,45-64,"Rate (per 100,000)",2021-22,53.38
+Tasmania,Males,45-64,"Rate (per 100,000)",2022-23,66.58
+Tasmania,Males,45-64,"Rate (per 100,000)",2023-24,48.44
+Tasmania,Males,65+,Number,2013-14,13
+Tasmania,Males,65+,Number,2014-15,16
+Tasmania,Males,65+,Number,2015-16,12
+Tasmania,Males,65+,Number,2016-17,19
+Tasmania,Males,65+,Number,2017-18,14
+Tasmania,Males,65+,Number,2018-19,15
+Tasmania,Males,65+,Number,2019-20,24
+Tasmania,Males,65+,Number,2020-21,17
+Tasmania,Males,65+,Number,2021-22,14
+Tasmania,Males,65+,Number,2022-23,17
+Tasmania,Males,65+,Number,2023-24,17
+Tasmania,Males,65+,"Rate (per 100,000)",2013-14,30.72
+Tasmania,Males,65+,"Rate (per 100,000)",2014-15,36.58
+Tasmania,Males,65+,"Rate (per 100,000)",2015-16,26.58
+Tasmania,Males,65+,"Rate (per 100,000)",2016-17,40.6
+Tasmania,Males,65+,"Rate (per 100,000)",2017-18,28.78
+Tasmania,Males,65+,"Rate (per 100,000)",2018-19,29.75
+Tasmania,Males,65+,"Rate (per 100,000)",2019-20,45.93
+Tasmania,Males,65+,"Rate (per 100,000)",2020-21,31.4
+Tasmania,Males,65+,"Rate (per 100,000)",2021-22,25.08
+Tasmania,Males,65+,"Rate (per 100,000)",2022-23,29.66
+Tasmania,Males,65+,"Rate (per 100,000)",2023-24,29.28
+Tasmania,Females,0-24,Number,2013-14,143
+Tasmania,Females,0-24,Number,2014-15,150
+Tasmania,Females,0-24,Number,2015-16,205
+Tasmania,Females,0-24,Number,2016-17,203
+Tasmania,Females,0-24,Number,2017-18,250
+Tasmania,Females,0-24,Number,2018-19,238
+Tasmania,Females,0-24,Number,2019-20,179
+Tasmania,Females,0-24,Number,2020-21,261
+Tasmania,Females,0-24,Number,2021-22,278
+Tasmania,Females,0-24,Number,2022-23,225
+Tasmania,Females,0-24,Number,2023-24,183
+Tasmania,Females,0-24,"Rate (per 100,000)",2013-14,187.05
+Tasmania,Females,0-24,"Rate (per 100,000)",2014-15,197.4
+Tasmania,Females,0-24,"Rate (per 100,000)",2015-16,271.12
+Tasmania,Females,0-24,"Rate (per 100,000)",2016-17,267.79
+Tasmania,Females,0-24,"Rate (per 100,000)",2017-18,327.03
+Tasmania,Females,0-24,"Rate (per 100,000)",2018-19,309.11
+Tasmania,Females,0-24,"Rate (per 100,000)",2019-20,232.01
+Tasmania,Females,0-24,"Rate (per 100,000)",2020-21,339.61
+Tasmania,Females,0-24,"Rate (per 100,000)",2021-22,363.64
+Tasmania,Females,0-24,"Rate (per 100,000)",2022-23,295.81
+Tasmania,Females,0-24,"Rate (per 100,000)",2023-24,241.21
+Tasmania,Females,0-24,Per cent,2013-14,2.1
+Tasmania,Females,0-24,Per cent,2014-15,2.1
+Tasmania,Females,0-24,Per cent,2015-16,2.55
+Tasmania,Females,0-24,Per cent,2016-17,2.24
+Tasmania,Females,0-24,Per cent,2017-18,3.09
+Tasmania,Females,0-24,Per cent,2018-19,3.03
+Tasmania,Females,0-24,Per cent,2019-20,2.27
+Tasmania,Females,0-24,Per cent,2020-21,2.69
+Tasmania,Females,0-24,Per cent,2021-22,3.12
+Tasmania,Females,0-24,Per cent,2022-23,2.99
+Tasmania,Females,0-24,Per cent,2023-24,2.78
+Tasmania,Females,25-44,Number,2013-14,102
+Tasmania,Females,25-44,Number,2014-15,122
+Tasmania,Females,25-44,Number,2015-16,151
+Tasmania,Females,25-44,Number,2016-17,135
+Tasmania,Females,25-44,Number,2017-18,167
+Tasmania,Females,25-44,Number,2018-19,180
+Tasmania,Females,25-44,Number,2019-20,83
+Tasmania,Females,25-44,Number,2020-21,93
+Tasmania,Females,25-44,Number,2021-22,76
+Tasmania,Females,25-44,Number,2022-23,87
+Tasmania,Females,25-44,Number,2023-24,91
+Tasmania,Females,25-44,"Rate (per 100,000)",2013-14,163.1
+Tasmania,Females,25-44,"Rate (per 100,000)",2014-15,196.34
+Tasmania,Females,25-44,"Rate (per 100,000)",2015-16,244.23
+Tasmania,Females,25-44,"Rate (per 100,000)",2016-17,216.33
+Tasmania,Females,25-44,"Rate (per 100,000)",2017-18,260.17
+Tasmania,Females,25-44,"Rate (per 100,000)",2018-19,270.27
+Tasmania,Females,25-44,"Rate (per 100,000)",2019-20,119.9
+Tasmania,Females,25-44,"Rate (per 100,000)",2020-21,129.39
+Tasmania,Females,25-44,"Rate (per 100,000)",2021-22,103.07
+Tasmania,Females,25-44,"Rate (per 100,000)",2022-23,116.71
+Tasmania,Females,25-44,"Rate (per 100,000)",2023-24,121.57
+Tasmania,Females,45-64,Number,2013-14,87
+Tasmania,Females,45-64,Number,2014-15,103
+Tasmania,Females,45-64,Number,2015-16,79
+Tasmania,Females,45-64,Number,2016-17,127
+Tasmania,Females,45-64,Number,2017-18,111
+Tasmania,Females,45-64,Number,2018-19,110
+Tasmania,Females,45-64,Number,2019-20,75
+Tasmania,Females,45-64,Number,2020-21,71
+Tasmania,Females,45-64,Number,2021-22,67
+Tasmania,Females,45-64,Number,2022-23,72
+Tasmania,Females,45-64,Number,2023-24,71
+Tasmania,Females,45-64,"Rate (per 100,000)",2013-14,121.54
+Tasmania,Females,45-64,"Rate (per 100,000)",2014-15,143.04
+Tasmania,Females,45-64,"Rate (per 100,000)",2015-16,109.1
+Tasmania,Females,45-64,"Rate (per 100,000)",2016-17,173.82
+Tasmania,Females,45-64,"Rate (per 100,000)",2017-18,150.37
+Tasmania,Females,45-64,"Rate (per 100,000)",2018-19,148.03
+Tasmania,Females,45-64,"Rate (per 100,000)",2019-20,100.39
+Tasmania,Females,45-64,"Rate (per 100,000)",2020-21,94.67
+Tasmania,Females,45-64,"Rate (per 100,000)",2021-22,89.5
+Tasmania,Females,45-64,"Rate (per 100,000)",2022-23,96.8
+Tasmania,Females,45-64,"Rate (per 100,000)",2023-24,95.84
+Tasmania,Females,65+,Number,2013-14,12
+Tasmania,Females,65+,Number,2014-15,25
+Tasmania,Females,65+,Number,2015-16,23
+Tasmania,Females,65+,Number,2016-17,33
+Tasmania,Females,65+,Number,2017-18,20
+Tasmania,Females,65+,Number,2018-19,35
+Tasmania,Females,65+,Number,2019-20,14
+Tasmania,Females,65+,Number,2020-21,17
+Tasmania,Females,65+,Number,2021-22,18
+Tasmania,Females,65+,Number,2022-23,20
+Tasmania,Females,65+,Number,2023-24,16
+Tasmania,Females,65+,"Rate (per 100,000)",2013-14,25.27
+Tasmania,Females,65+,"Rate (per 100,000)",2014-15,50.97
+Tasmania,Females,65+,"Rate (per 100,000)",2015-16,45.39
+Tasmania,Females,65+,"Rate (per 100,000)",2016-17,63.03
+Tasmania,Females,65+,"Rate (per 100,000)",2017-18,36.95
+Tasmania,Females,65+,"Rate (per 100,000)",2018-19,62.49
+Tasmania,Females,65+,"Rate (per 100,000)",2019-20,24.12
+Tasmania,Females,65+,"Rate (per 100,000)",2020-21,28.34
+Tasmania,Females,65+,"Rate (per 100,000)",2021-22,29.11
+Tasmania,Females,65+,"Rate (per 100,000)",2022-23,31.49
+Tasmania,Females,65+,"Rate (per 100,000)",2023-24,24.88
+Australian Capital Territory,Males,0-24,Number,2013-14,36
+Australian Capital Territory,Males,0-24,Number,2014-15,51
+Australian Capital Territory,Males,0-24,Number,2015-16,54
+Australian Capital Territory,Males,0-24,Number,2016-17,58
+Australian Capital Territory,Males,0-24,Number,2017-18,55
+Australian Capital Territory,Males,0-24,Number,2018-19,73
+Australian Capital Territory,Males,0-24,Number,2019-20,67
+Australian Capital Territory,Males,0-24,Number,2020-21,47
+Australian Capital Territory,Males,0-24,Number,2021-22,55
+Australian Capital Territory,Males,0-24,Number,2022-23,69
+Australian Capital Territory,Males,0-24,Number,2023-24,77
+Australian Capital Territory,Males,0-24,"Rate (per 100,000)",2013-14,54.51
+Australian Capital Territory,Males,0-24,"Rate (per 100,000)",2014-15,76.38
+Australian Capital Territory,Males,0-24,"Rate (per 100,000)",2015-16,79.61
+Australian Capital Territory,Males,0-24,"Rate (per 100,000)",2016-17,83.41
+Australian Capital Territory,Males,0-24,"Rate (per 100,000)",2017-18,77.05
+Australian Capital Territory,Males,0-24,"Rate (per 100,000)",2018-19,100.53
+Australian Capital Territory,Males,0-24,"Rate (per 100,000)",2019-20,91.64
+Australian Capital Territory,Males,0-24,"Rate (per 100,000)",2020-21,64.06
+Australian Capital Territory,Males,0-24,"Rate (per 100,000)",2021-22,74.76
+Australian Capital Territory,Males,0-24,"Rate (per 100,000)",2022-23,92.89
+Australian Capital Territory,Males,0-24,"Rate (per 100,000)",2023-24,102.69
+Australian Capital Territory,Males,25-44,Number,2013-14,57
+Australian Capital Territory,Males,25-44,Number,2014-15,42
+Australian Capital Territory,Males,25-44,Number,2015-16,56
+Australian Capital Territory,Males,25-44,Number,2016-17,74
+Australian Capital Territory,Males,25-44,Number,2017-18,62
+Australian Capital Territory,Males,25-44,Number,2018-19,72
+Australian Capital Territory,Males,25-44,Number,2019-20,75
+Australian Capital Territory,Males,25-44,Number,2020-21,78
+Australian Capital Territory,Males,25-44,Number,2021-22,59
+Australian Capital Territory,Males,25-44,Number,2022-23,67
+Australian Capital Territory,Males,25-44,Number,2023-24,84
+Australian Capital Territory,Males,25-44,"Rate (per 100,000)",2013-14,92.64
+Australian Capital Territory,Males,25-44,"Rate (per 100,000)",2014-15,67.36
+Australian Capital Territory,Males,25-44,"Rate (per 100,000)",2015-16,88.66
+Australian Capital Territory,Males,25-44,"Rate (per 100,000)",2016-17,115.07
+Australian Capital Territory,Males,25-44,"Rate (per 100,000)",2017-18,93.72
+Australian Capital Territory,Males,25-44,"Rate (per 100,000)",2018-19,105.67
+Australian Capital Territory,Males,25-44,"Rate (per 100,000)",2019-20,106.88
+Australian Capital Territory,Males,25-44,"Rate (per 100,000)",2020-21,107.93
+Australian Capital Territory,Males,25-44,"Rate (per 100,000)",2021-22,79.75
+Australian Capital Territory,Males,25-44,"Rate (per 100,000)",2022-23,88.56
+Australian Capital Territory,Males,25-44,"Rate (per 100,000)",2023-24,109.55
+Australian Capital Territory,Males,45-64,Number,2013-14,NA
+Australian Capital Territory,Males,45-64,Number,2014-15,NA
+Australian Capital Territory,Males,45-64,Number,2015-16,NA
+Australian Capital Territory,Males,45-64,Number,2016-17,NA
+Australian Capital Territory,Males,45-64,Number,2017-18,NA
+Australian Capital Territory,Males,45-64,Number,2018-19,NA
+Australian Capital Territory,Males,45-64,Number,2019-20,NA
+Australian Capital Territory,Males,45-64,Number,2020-21,NA
+Australian Capital Territory,Males,45-64,Number,2021-22,NA
+Australian Capital Territory,Males,45-64,Number,2022-23,NA
+Australian Capital Territory,Males,45-64,Number,2023-24,NA
+Australian Capital Territory,Males,45-64,"Rate (per 100,000)",2013-14,NA
+Australian Capital Territory,Males,45-64,"Rate (per 100,000)",2014-15,NA
+Australian Capital Territory,Males,45-64,"Rate (per 100,000)",2015-16,NA
+Australian Capital Territory,Males,45-64,"Rate (per 100,000)",2016-17,NA
+Australian Capital Territory,Males,45-64,"Rate (per 100,000)",2017-18,NA
+Australian Capital Territory,Males,45-64,"Rate (per 100,000)",2018-19,NA
+Australian Capital Territory,Males,45-64,"Rate (per 100,000)",2019-20,NA
+Australian Capital Territory,Males,45-64,"Rate (per 100,000)",2020-21,NA
+Australian Capital Territory,Males,45-64,"Rate (per 100,000)",2021-22,NA
+Australian Capital Territory,Males,45-64,"Rate (per 100,000)",2022-23,NA
+Australian Capital Territory,Males,45-64,"Rate (per 100,000)",2023-24,NA
+Australian Capital Territory,Males,65+,Number,2013-14,NA
+Australian Capital Territory,Males,65+,Number,2014-15,NA
+Australian Capital Territory,Males,65+,Number,2015-16,NA
+Australian Capital Territory,Males,65+,Number,2016-17,NA
+Australian Capital Territory,Males,65+,Number,2017-18,NA
+Australian Capital Territory,Males,65+,Number,2018-19,NA
+Australian Capital Territory,Males,65+,Number,2019-20,NA
+Australian Capital Territory,Males,65+,Number,2020-21,NA
+Australian Capital Territory,Males,65+,Number,2021-22,NA
+Australian Capital Territory,Males,65+,Number,2022-23,NA
+Australian Capital Territory,Males,65+,Number,2023-24,NA
+Australian Capital Territory,Males,65+,"Rate (per 100,000)",2013-14,NA
+Australian Capital Territory,Males,65+,"Rate (per 100,000)",2014-15,NA
+Australian Capital Territory,Males,65+,"Rate (per 100,000)",2015-16,NA
+Australian Capital Territory,Males,65+,"Rate (per 100,000)",2016-17,NA
+Australian Capital Territory,Males,65+,"Rate (per 100,000)",2017-18,NA
+Australian Capital Territory,Males,65+,"Rate (per 100,000)",2018-19,NA
+Australian Capital Territory,Males,65+,"Rate (per 100,000)",2019-20,NA
+Australian Capital Territory,Males,65+,"Rate (per 100,000)",2020-21,NA
+Australian Capital Territory,Males,65+,"Rate (per 100,000)",2021-22,NA
+Australian Capital Territory,Males,65+,"Rate (per 100,000)",2022-23,NA
+Australian Capital Territory,Males,65+,"Rate (per 100,000)",2023-24,NA
+Australian Capital Territory,Females,0-24,Number,2013-14,114
+Australian Capital Territory,Females,0-24,Number,2014-15,150
+Australian Capital Territory,Females,0-24,Number,2015-16,184
+Australian Capital Territory,Females,0-24,Number,2016-17,198
+Australian Capital Territory,Females,0-24,Number,2017-18,232
+Australian Capital Territory,Females,0-24,Number,2018-19,184
+Australian Capital Territory,Females,0-24,Number,2019-20,238
+Australian Capital Territory,Females,0-24,Number,2020-21,257
+Australian Capital Territory,Females,0-24,Number,2021-22,195
+Australian Capital Territory,Females,0-24,Number,2022-23,189
+Australian Capital Territory,Females,0-24,Number,2023-24,199
+Australian Capital Territory,Females,0-24,"Rate (per 100,000)",2013-14,181.4
+Australian Capital Territory,Females,0-24,"Rate (per 100,000)",2014-15,235.94
+Australian Capital Territory,Females,0-24,"Rate (per 100,000)",2015-16,285.13
+Australian Capital Territory,Females,0-24,"Rate (per 100,000)",2016-17,299.07
+Australian Capital Territory,Females,0-24,"Rate (per 100,000)",2017-18,339.94
+Australian Capital Territory,Females,0-24,"Rate (per 100,000)",2018-19,264.74
+Australian Capital Territory,Females,0-24,"Rate (per 100,000)",2019-20,339.81
+Australian Capital Territory,Females,0-24,"Rate (per 100,000)",2020-21,364.18
+Australian Capital Territory,Females,0-24,"Rate (per 100,000)",2021-22,275.21
+Australian Capital Territory,Females,0-24,"Rate (per 100,000)",2022-23,265.55
+Australian Capital Territory,Females,0-24,"Rate (per 100,000)",2023-24,277.93
+Australian Capital Territory,Females,25-44,Number,2013-14,110
+Australian Capital Territory,Females,25-44,Number,2014-15,115
+Australian Capital Territory,Females,25-44,Number,2015-16,125
+Australian Capital Territory,Females,25-44,Number,2016-17,146
+Australian Capital Territory,Females,25-44,Number,2017-18,134
+Australian Capital Territory,Females,25-44,Number,2018-19,136
+Australian Capital Territory,Females,25-44,Number,2019-20,156
+Australian Capital Territory,Females,25-44,Number,2020-21,165
+Australian Capital Territory,Females,25-44,Number,2021-22,136
+Australian Capital Territory,Females,25-44,Number,2022-23,132
+Australian Capital Territory,Females,25-44,Number,2023-24,113
+Australian Capital Territory,Females,25-44,"Rate (per 100,000)",2013-14,178.73
+Australian Capital Territory,Females,25-44,"Rate (per 100,000)",2014-15,183.9
+Australian Capital Territory,Females,25-44,"Rate (per 100,000)",2015-16,196.56
+Australian Capital Territory,Females,25-44,"Rate (per 100,000)",2016-17,224.65
+Australian Capital Territory,Females,25-44,"Rate (per 100,000)",2017-18,200.06
+Australian Capital Territory,Females,25-44,"Rate (per 100,000)",2018-19,196.51
+Australian Capital Territory,Females,25-44,"Rate (per 100,000)",2019-20,218.74
+Australian Capital Territory,Females,25-44,"Rate (per 100,000)",2020-21,225.64
+Australian Capital Territory,Females,25-44,"Rate (per 100,000)",2021-22,182.28
+Australian Capital Territory,Females,25-44,"Rate (per 100,000)",2022-23,172.36
+Australian Capital Territory,Females,25-44,"Rate (per 100,000)",2023-24,145.03
+Australian Capital Territory,Females,45-64,Number,2013-14,NA
+Australian Capital Territory,Females,45-64,Number,2014-15,NA
+Australian Capital Territory,Females,45-64,Number,2015-16,NA
+Australian Capital Territory,Females,45-64,Number,2016-17,NA
+Australian Capital Territory,Females,45-64,Number,2017-18,NA
+Australian Capital Territory,Females,45-64,Number,2018-19,NA
+Australian Capital Territory,Females,45-64,Number,2019-20,NA
+Australian Capital Territory,Females,45-64,Number,2020-21,NA
+Australian Capital Territory,Females,45-64,Number,2021-22,NA
+Australian Capital Territory,Females,45-64,Number,2022-23,NA
+Australian Capital Territory,Females,45-64,Number,2023-24,NA
+Australian Capital Territory,Females,45-64,"Rate (per 100,000)",2013-14,NA
+Australian Capital Territory,Females,45-64,"Rate (per 100,000)",2014-15,NA
+Australian Capital Territory,Females,45-64,"Rate (per 100,000)",2015-16,NA
+Australian Capital Territory,Females,45-64,"Rate (per 100,000)",2016-17,NA
+Australian Capital Territory,Females,45-64,"Rate (per 100,000)",2017-18,NA
+Australian Capital Territory,Females,45-64,"Rate (per 100,000)",2018-19,NA
+Australian Capital Territory,Females,45-64,"Rate (per 100,000)",2019-20,NA
+Australian Capital Territory,Females,45-64,"Rate (per 100,000)",2020-21,NA
+Australian Capital Territory,Females,45-64,"Rate (per 100,000)",2021-22,NA
+Australian Capital Territory,Females,45-64,"Rate (per 100,000)",2022-23,NA
+Australian Capital Territory,Females,45-64,"Rate (per 100,000)",2023-24,NA
+Australian Capital Territory,Females,65+,Number,2013-14,NA
+Australian Capital Territory,Females,65+,Number,2014-15,NA
+Australian Capital Territory,Females,65+,Number,2015-16,NA
+Australian Capital Territory,Females,65+,Number,2016-17,NA
+Australian Capital Territory,Females,65+,Number,2017-18,NA
+Australian Capital Territory,Females,65+,Number,2018-19,NA
+Australian Capital Territory,Females,65+,Number,2019-20,NA
+Australian Capital Territory,Females,65+,Number,2020-21,NA
+Australian Capital Territory,Females,65+,Number,2021-22,NA
+Australian Capital Territory,Females,65+,Number,2022-23,NA
+Australian Capital Territory,Females,65+,Number,2023-24,NA
+Australian Capital Territory,Females,65+,"Rate (per 100,000)",2013-14,NA
+Australian Capital Territory,Females,65+,"Rate (per 100,000)",2014-15,NA
+Australian Capital Territory,Females,65+,"Rate (per 100,000)",2015-16,NA
+Australian Capital Territory,Females,65+,"Rate (per 100,000)",2016-17,NA
+Australian Capital Territory,Females,65+,"Rate (per 100,000)",2017-18,NA
+Australian Capital Territory,Females,65+,"Rate (per 100,000)",2018-19,NA
+Australian Capital Territory,Females,65+,"Rate (per 100,000)",2019-20,NA
+Australian Capital Territory,Females,65+,"Rate (per 100,000)",2020-21,NA
+Australian Capital Territory,Females,65+,"Rate (per 100,000)",2021-22,NA
+Australian Capital Territory,Females,65+,"Rate (per 100,000)",2022-23,NA
+Australian Capital Territory,Females,65+,"Rate (per 100,000)",2023-24,NA
+Northern Territory,Males,0-24,Number,2013-14,50
+Northern Territory,Males,0-24,Number,2014-15,58
+Northern Territory,Males,0-24,Number,2015-16,58
+Northern Territory,Males,0-24,Number,2016-17,61
+Northern Territory,Males,0-24,Number,2017-18,70
+Northern Territory,Males,0-24,Number,2018-19,80
+Northern Territory,Males,0-24,Number,2019-20,77
+Northern Territory,Males,0-24,Number,2020-21,72
+Northern Territory,Males,0-24,Number,2021-22,84
+Northern Territory,Males,0-24,Number,2022-23,63
+Northern Territory,Males,0-24,Number,2023-24,48
+Northern Territory,Males,0-24,"Rate (per 100,000)",2013-14,107.69
+Northern Territory,Males,0-24,"Rate (per 100,000)",2014-15,126.28
+Northern Territory,Males,0-24,"Rate (per 100,000)",2015-16,127.24
+Northern Territory,Males,0-24,"Rate (per 100,000)",2016-17,134.7
+Northern Territory,Males,0-24,"Rate (per 100,000)",2017-18,154.92
+Northern Territory,Males,0-24,"Rate (per 100,000)",2018-19,178.06
+Northern Territory,Males,0-24,"Rate (per 100,000)",2019-20,172.7
+Northern Territory,Males,0-24,"Rate (per 100,000)",2020-21,162.54
+Northern Territory,Males,0-24,"Rate (per 100,000)",2021-22,190.3
+Northern Territory,Males,0-24,"Rate (per 100,000)",2022-23,143.08
+Northern Territory,Males,0-24,"Rate (per 100,000)",2023-24,109.14
+Northern Territory,Males,25-44,Number,2013-14,80
+Northern Territory,Males,25-44,Number,2014-15,89
+Northern Territory,Males,25-44,Number,2015-16,108
+Northern Territory,Males,25-44,Number,2016-17,99
+Northern Territory,Males,25-44,Number,2017-18,84
+Northern Territory,Males,25-44,Number,2018-19,105
+Northern Territory,Males,25-44,Number,2019-20,120
+Northern Territory,Males,25-44,Number,2020-21,111
+Northern Territory,Males,25-44,Number,2021-22,102
+Northern Territory,Males,25-44,Number,2022-23,101
+Northern Territory,Males,25-44,Number,2023-24,81
+Northern Territory,Males,25-44,"Rate (per 100,000)",2013-14,184.61
+Northern Territory,Males,25-44,"Rate (per 100,000)",2014-15,203.16
+Northern Territory,Males,25-44,"Rate (per 100,000)",2015-16,246.54
+Northern Territory,Males,25-44,"Rate (per 100,000)",2016-17,227.05
+Northern Territory,Males,25-44,"Rate (per 100,000)",2017-18,194.64
+Northern Territory,Males,25-44,"Rate (per 100,000)",2018-19,247.58
+Northern Territory,Males,25-44,"Rate (per 100,000)",2019-20,286.1
+Northern Territory,Males,25-44,"Rate (per 100,000)",2020-21,265.77
+Northern Territory,Males,25-44,"Rate (per 100,000)",2021-22,242.55
+Northern Territory,Males,25-44,"Rate (per 100,000)",2022-23,236.38
+Northern Territory,Males,25-44,"Rate (per 100,000)",2023-24,187.98
+Northern Territory,Males,45-64,Number,2013-14,NA
+Northern Territory,Males,45-64,Number,2014-15,NA
+Northern Territory,Males,45-64,Number,2015-16,NA
+Northern Territory,Males,45-64,Number,2016-17,NA
+Northern Territory,Males,45-64,Number,2017-18,NA
+Northern Territory,Males,45-64,Number,2018-19,NA
+Northern Territory,Males,45-64,Number,2019-20,NA
+Northern Territory,Males,45-64,Number,2020-21,NA
+Northern Territory,Males,45-64,Number,2021-22,NA
+Northern Territory,Males,45-64,Number,2022-23,NA
+Northern Territory,Males,45-64,Number,2023-24,NA
+Northern Territory,Males,45-64,"Rate (per 100,000)",2013-14,NA
+Northern Territory,Males,45-64,"Rate (per 100,000)",2014-15,NA
+Northern Territory,Males,45-64,"Rate (per 100,000)",2015-16,NA
+Northern Territory,Males,45-64,"Rate (per 100,000)",2016-17,NA
+Northern Territory,Males,45-64,"Rate (per 100,000)",2017-18,NA
+Northern Territory,Males,45-64,"Rate (per 100,000)",2018-19,NA
+Northern Territory,Males,45-64,"Rate (per 100,000)",2019-20,NA
+Northern Territory,Males,45-64,"Rate (per 100,000)",2020-21,NA
+Northern Territory,Males,45-64,"Rate (per 100,000)",2021-22,NA
+Northern Territory,Males,45-64,"Rate (per 100,000)",2022-23,NA
+Northern Territory,Males,45-64,"Rate (per 100,000)",2023-24,NA
+Northern Territory,Males,65+,Number,2013-14,NA
+Northern Territory,Males,65+,Number,2014-15,NA
+Northern Territory,Males,65+,Number,2015-16,NA
+Northern Territory,Males,65+,Number,2016-17,NA
+Northern Territory,Males,65+,Number,2017-18,NA
+Northern Territory,Males,65+,Number,2018-19,NA
+Northern Territory,Males,65+,Number,2019-20,NA
+Northern Territory,Males,65+,Number,2020-21,NA
+Northern Territory,Males,65+,Number,2021-22,NA
+Northern Territory,Males,65+,Number,2022-23,NA
+Northern Territory,Males,65+,Number,2023-24,NA
+Northern Territory,Males,65+,"Rate (per 100,000)",2013-14,NA
+Northern Territory,Males,65+,"Rate (per 100,000)",2014-15,NA
+Northern Territory,Males,65+,"Rate (per 100,000)",2015-16,NA
+Northern Territory,Males,65+,"Rate (per 100,000)",2016-17,NA
+Northern Territory,Males,65+,"Rate (per 100,000)",2017-18,NA
+Northern Territory,Males,65+,"Rate (per 100,000)",2018-19,NA
+Northern Territory,Males,65+,"Rate (per 100,000)",2019-20,NA
+Northern Territory,Males,65+,"Rate (per 100,000)",2020-21,NA
+Northern Territory,Males,65+,"Rate (per 100,000)",2021-22,NA
+Northern Territory,Males,65+,"Rate (per 100,000)",2022-23,NA
+Northern Territory,Males,65+,"Rate (per 100,000)",2023-24,NA
+Northern Territory,Females,0-24,Number,2013-14,106
+Northern Territory,Females,0-24,Number,2014-15,113
+Northern Territory,Females,0-24,Number,2015-16,122
+Northern Territory,Females,0-24,Number,2016-17,130
+Northern Territory,Females,0-24,Number,2017-18,139
+Northern Territory,Females,0-24,Number,2018-19,168
+Northern Territory,Females,0-24,Number,2019-20,155
+Northern Territory,Females,0-24,Number,2020-21,144
+Northern Territory,Females,0-24,Number,2021-22,141
+Northern Territory,Females,0-24,Number,2022-23,126
+Northern Territory,Females,0-24,Number,2023-24,81
+Northern Territory,Females,0-24,"Rate (per 100,000)",2013-14,249.36
+Northern Territory,Females,0-24,"Rate (per 100,000)",2014-15,268.13
+Northern Territory,Females,0-24,"Rate (per 100,000)",2015-16,291.67
+Northern Territory,Females,0-24,"Rate (per 100,000)",2016-17,311.31
+Northern Territory,Females,0-24,"Rate (per 100,000)",2017-18,333.79
+Northern Territory,Females,0-24,"Rate (per 100,000)",2018-19,406.45
+Northern Territory,Females,0-24,"Rate (per 100,000)",2019-20,376.73
+Northern Territory,Females,0-24,"Rate (per 100,000)",2020-21,351.5
+Northern Territory,Females,0-24,"Rate (per 100,000)",2021-22,345.39
+Northern Territory,Females,0-24,"Rate (per 100,000)",2022-23,308.42
+Northern Territory,Females,0-24,"Rate (per 100,000)",2023-24,198.24
+Northern Territory,Females,25-44,Number,2013-14,110
+Northern Territory,Females,25-44,Number,2014-15,116
+Northern Territory,Females,25-44,Number,2015-16,178
+Northern Territory,Females,25-44,Number,2016-17,139
+Northern Territory,Females,25-44,Number,2017-18,134
+Northern Territory,Females,25-44,Number,2018-19,172
+Northern Territory,Females,25-44,Number,2019-20,131
+Northern Territory,Females,25-44,Number,2020-21,134
+Northern Territory,Females,25-44,Number,2021-22,140
+Northern Territory,Females,25-44,Number,2022-23,93
+Northern Territory,Females,25-44,Number,2023-24,88
+Northern Territory,Females,25-44,"Rate (per 100,000)",2013-14,278.18
+Northern Territory,Females,25-44,"Rate (per 100,000)",2014-15,289.91
+Northern Territory,Females,25-44,"Rate (per 100,000)",2015-16,438.68
+Northern Territory,Females,25-44,"Rate (per 100,000)",2016-17,337.53
+Northern Territory,Females,25-44,"Rate (per 100,000)",2017-18,321.46
+Northern Territory,Females,25-44,"Rate (per 100,000)",2018-19,410.21
+Northern Territory,Females,25-44,"Rate (per 100,000)",2019-20,310.68
+Northern Territory,Females,25-44,"Rate (per 100,000)",2020-21,315.66
+Northern Territory,Females,25-44,"Rate (per 100,000)",2021-22,325.44
+Northern Territory,Females,25-44,"Rate (per 100,000)",2022-23,211.96
+Northern Territory,Females,25-44,"Rate (per 100,000)",2023-24,198.65
+Northern Territory,Females,45-64,Number,2013-14,NA
+Northern Territory,Females,45-64,Number,2014-15,NA
+Northern Territory,Females,45-64,Number,2015-16,NA
+Northern Territory,Females,45-64,Number,2016-17,NA
+Northern Territory,Females,45-64,Number,2017-18,NA
+Northern Territory,Females,45-64,Number,2018-19,NA
+Northern Territory,Females,45-64,Number,2019-20,NA
+Northern Territory,Females,45-64,Number,2020-21,NA
+Northern Territory,Females,45-64,Number,2021-22,NA
+Northern Territory,Females,45-64,Number,2022-23,NA
+Northern Territory,Females,45-64,Number,2023-24,NA
+Northern Territory,Females,45-64,"Rate (per 100,000)",2013-14,NA
+Northern Territory,Females,45-64,"Rate (per 100,000)",2014-15,NA
+Northern Territory,Females,45-64,"Rate (per 100,000)",2015-16,NA
+Northern Territory,Females,45-64,"Rate (per 100,000)",2016-17,NA
+Northern Territory,Females,45-64,"Rate (per 100,000)",2017-18,NA
+Northern Territory,Females,45-64,"Rate (per 100,000)",2018-19,NA
+Northern Territory,Females,45-64,"Rate (per 100,000)",2019-20,NA
+Northern Territory,Females,45-64,"Rate (per 100,000)",2020-21,NA
+Northern Territory,Females,45-64,"Rate (per 100,000)",2021-22,NA
+Northern Territory,Females,45-64,"Rate (per 100,000)",2022-23,NA
+Northern Territory,Females,45-64,"Rate (per 100,000)",2023-24,NA
+Northern Territory,Females,65+,Number,2013-14,NA
+Northern Territory,Females,65+,Number,2014-15,NA
+Northern Territory,Females,65+,Number,2015-16,NA
+Northern Territory,Females,65+,Number,2016-17,NA
+Northern Territory,Females,65+,Number,2017-18,NA
+Northern Territory,Females,65+,Number,2018-19,NA
+Northern Territory,Females,65+,Number,2019-20,NA
+Northern Territory,Females,65+,Number,2020-21,NA
+Northern Territory,Females,65+,Number,2021-22,NA
+Northern Territory,Females,65+,Number,2022-23,NA
+Northern Territory,Females,65+,Number,2023-24,NA
+Northern Territory,Females,65+,"Rate (per 100,000)",2013-14,NA
+Northern Territory,Females,65+,"Rate (per 100,000)",2014-15,NA
+Northern Territory,Females,65+,"Rate (per 100,000)",2015-16,NA
+Northern Territory,Females,65+,"Rate (per 100,000)",2016-17,NA
+Northern Territory,Females,65+,"Rate (per 100,000)",2017-18,NA
+Northern Territory,Females,65+,"Rate (per 100,000)",2018-19,NA
+Northern Territory,Females,65+,"Rate (per 100,000)",2019-20,NA
+Northern Territory,Females,65+,"Rate (per 100,000)",2020-21,NA
+Northern Territory,Females,65+,"Rate (per 100,000)",2021-22,NA
+Northern Territory,Females,65+,"Rate (per 100,000)",2022-23,NA
+Northern Territory,Females,65+,"Rate (per 100,000)",2023-24,NA
+Total,Males,0-24,Number,2013-14,2327
+Total,Males,0-24,Number,2014-15,2583
+Total,Males,0-24,Number,2015-16,2896
+Total,Males,0-24,Number,2016-17,3151
+Total,Males,0-24,Number,2017-18,2865
+Total,Males,0-24,Number,2018-19,2911
+Total,Males,0-24,Number,2019-20,2992
+Total,Males,0-24,Number,2020-21,3024
+Total,Males,0-24,Number,2021-22,2593
+Total,Males,0-24,Number,2022-23,2250
+Total,Males,0-24,Number,2023-24,2145
+Total,Males,0-24,"Rate (per 100,000)",2013-14,60.28
+Total,Males,0-24,"Rate (per 100,000)",2014-15,66.22
+Total,Males,0-24,"Rate (per 100,000)",2015-16,73.43
+Total,Males,0-24,"Rate (per 100,000)",2016-17,78.92
+Total,Males,0-24,"Rate (per 100,000)",2017-18,70.95
+Total,Males,0-24,"Rate (per 100,000)",2018-19,71.38
+Total,Males,0-24,"Rate (per 100,000)",2019-20,73.09
+Total,Males,0-24,"Rate (per 100,000)",2020-21,74.38
+Total,Males,0-24,"Rate (per 100,000)",2021-22,63.81
+Total,Males,0-24,"Rate (per 100,000)",2022-23,54.41
+Total,Males,0-24,"Rate (per 100,000)",2023-24,51.25
+Total,Males,25-44,Number,2013-14,4191
+Total,Males,25-44,Number,2014-15,4447
+Total,Males,25-44,Number,2015-16,4871
+Total,Males,25-44,Number,2016-17,5162
+Total,Males,25-44,Number,2017-18,4430
+Total,Males,25-44,Number,2018-19,4512
+Total,Males,25-44,Number,2019-20,4438
+Total,Males,25-44,Number,2020-21,4108
+Total,Males,25-44,Number,2021-22,3489
+Total,Males,25-44,Number,2022-23,3454
+Total,Males,25-44,Number,2023-24,3472
+Total,Males,25-44,"Rate (per 100,000)",2013-14,126.31
+Total,Males,25-44,"Rate (per 100,000)",2014-15,132.53
+Total,Males,25-44,"Rate (per 100,000)",2015-16,143.59
+Total,Males,25-44,"Rate (per 100,000)",2016-17,150.31
+Total,Males,25-44,"Rate (per 100,000)",2017-18,127.14
+Total,Males,25-44,"Rate (per 100,000)",2018-19,127.56
+Total,Males,25-44,"Rate (per 100,000)",2019-20,123.71
+Total,Males,25-44,"Rate (per 100,000)",2020-21,113.9
+Total,Males,25-44,"Rate (per 100,000)",2021-22,96.15
+Total,Males,25-44,"Rate (per 100,000)",2022-23,92.64
+Total,Males,25-44,"Rate (per 100,000)",2023-24,91.3
+Total,Males,45-64,Number,2013-14,2208
+Total,Males,45-64,Number,2014-15,2337
+Total,Males,45-64,Number,2015-16,2802
+Total,Males,45-64,Number,2016-17,2973
+Total,Males,45-64,Number,2017-18,2548
+Total,Males,45-64,Number,2018-19,2586
+Total,Males,45-64,Number,2019-20,2454
+Total,Males,45-64,Number,2020-21,2163
+Total,Males,45-64,Number,2021-22,2009
+Total,Males,45-64,Number,2022-23,1967
+Total,Males,45-64,Number,2023-24,2183
+Total,Males,45-64,"Rate (per 100,000)",2013-14,77.85
+Total,Males,45-64,"Rate (per 100,000)",2014-15,81.63
+Total,Males,45-64,"Rate (per 100,000)",2015-16,96.86
+Total,Males,45-64,"Rate (per 100,000)",2016-17,101.38
+Total,Males,45-64,"Rate (per 100,000)",2017-18,85.69
+Total,Males,45-64,"Rate (per 100,000)",2018-19,85.91
+Total,Males,45-64,"Rate (per 100,000)",2019-20,80.5
+Total,Males,45-64,"Rate (per 100,000)",2020-21,70.29
+Total,Males,45-64,"Rate (per 100,000)",2021-22,64.99
+Total,Males,45-64,"Rate (per 100,000)",2022-23,63.36
+Total,Males,45-64,"Rate (per 100,000)",2023-24,70.16
+Total,Males,65+,Number,2013-14,589
+Total,Males,65+,Number,2014-15,631
+Total,Males,65+,Number,2015-16,695
+Total,Males,65+,Number,2016-17,772
+Total,Males,65+,Number,2017-18,653
+Total,Males,65+,Number,2018-19,705
+Total,Males,65+,Number,2019-20,729
+Total,Males,65+,Number,2020-21,763
+Total,Males,65+,Number,2021-22,721
+Total,Males,65+,Number,2022-23,783
+Total,Males,65+,Number,2023-24,814
+Total,Males,65+,"Rate (per 100,000)",2013-14,37.46
+Total,Males,65+,"Rate (per 100,000)",2014-15,38.74
+Total,Males,65+,"Rate (per 100,000)",2015-16,41.21
+Total,Males,65+,"Rate (per 100,000)",2016-17,44.27
+Total,Males,65+,"Rate (per 100,000)",2017-18,36.26
+Total,Males,65+,"Rate (per 100,000)",2018-19,37.94
+Total,Males,65+,"Rate (per 100,000)",2019-20,37.9
+Total,Males,65+,"Rate (per 100,000)",2020-21,38.35
+Total,Males,65+,"Rate (per 100,000)",2021-22,35.24
+Total,Males,65+,"Rate (per 100,000)",2022-23,37.25
+Total,Males,65+,"Rate (per 100,000)",2023-24,38.21
+Total,Females,0-24,Number,2013-14,6810
+Total,Females,0-24,Number,2014-15,7156
+Total,Females,0-24,Number,2015-16,8041
+Total,Females,0-24,Number,2016-17,9047
+Total,Females,0-24,Number,2017-18,8084
+Total,Females,0-24,Number,2018-19,7852
+Total,Females,0-24,Number,2019-20,7880
+Total,Females,0-24,Number,2020-21,9716
+Total,Females,0-24,Number,2021-22,8911
+Total,Females,0-24,Number,2022-23,7524
+Total,Females,0-24,Number,2023-24,6577
+Total,Females,0-24,"Rate (per 100,000)",2013-14,185.53
+Total,Females,0-24,"Rate (per 100,000)",2014-15,192.97
+Total,Females,0-24,"Rate (per 100,000)",2015-16,214.42
+Total,Females,0-24,"Rate (per 100,000)",2016-17,238.47
+Total,Females,0-24,"Rate (per 100,000)",2017-18,211.09
+Total,Females,0-24,"Rate (per 100,000)",2018-19,203.56
+Total,Females,0-24,"Rate (per 100,000)",2019-20,203.95
+Total,Females,0-24,"Rate (per 100,000)",2020-21,253.43
+Total,Females,0-24,"Rate (per 100,000)",2021-22,232.68
+Total,Females,0-24,"Rate (per 100,000)",2022-23,193.21
+Total,Females,0-24,"Rate (per 100,000)",2023-24,167
+Total,Females,25-44,Number,2013-14,5929
+Total,Females,25-44,Number,2014-15,6431
+Total,Females,25-44,Number,2015-16,6966
+Total,Females,25-44,Number,2016-17,6929
+Total,Females,25-44,Number,2017-18,6362
+Total,Females,25-44,Number,2018-19,6140
+Total,Females,25-44,Number,2019-20,5827
+Total,Females,25-44,Number,2020-21,5842
+Total,Females,25-44,Number,2021-22,5162
+Total,Females,25-44,Number,2022-23,4981
+Total,Females,25-44,Number,2023-24,5065
+Total,Females,25-44,"Rate (per 100,000)",2013-14,178.59
+Total,Females,25-44,"Rate (per 100,000)",2014-15,190.97
+Total,Females,25-44,"Rate (per 100,000)",2015-16,204.14
+Total,Females,25-44,"Rate (per 100,000)",2016-17,200.29
+Total,Females,25-44,"Rate (per 100,000)",2017-18,181.11
+Total,Females,25-44,"Rate (per 100,000)",2018-19,172.03
+Total,Females,25-44,"Rate (per 100,000)",2019-20,160.87
+Total,Females,25-44,"Rate (per 100,000)",2020-21,160.39
+Total,Females,25-44,"Rate (per 100,000)",2021-22,140.91
+Total,Females,25-44,"Rate (per 100,000)",2022-23,132.58
+Total,Females,25-44,"Rate (per 100,000)",2023-24,132.37
+Total,Females,45-64,Number,2013-14,3683
+Total,Females,45-64,Number,2014-15,3779
+Total,Females,45-64,Number,2015-16,4217
+Total,Females,45-64,Number,2016-17,4221
+Total,Females,45-64,Number,2017-18,3742
+Total,Females,45-64,Number,2018-19,3864
+Total,Females,45-64,Number,2019-20,3487
+Total,Females,45-64,Number,2020-21,3339
+Total,Females,45-64,Number,2021-22,2989
+Total,Females,45-64,Number,2022-23,2865
+Total,Females,45-64,Number,2023-24,2856
+Total,Females,45-64,"Rate (per 100,000)",2013-14,126.54
+Total,Females,45-64,"Rate (per 100,000)",2014-15,127.97
+Total,Females,45-64,"Rate (per 100,000)",2015-16,140.62
+Total,Females,45-64,"Rate (per 100,000)",2016-17,138.45
+Total,Females,45-64,"Rate (per 100,000)",2017-18,121.06
+Total,Females,45-64,"Rate (per 100,000)",2018-19,123.59
+Total,Females,45-64,"Rate (per 100,000)",2019-20,110.12
+Total,Females,45-64,"Rate (per 100,000)",2020-21,104.65
+Total,Females,45-64,"Rate (per 100,000)",2021-22,93.43
+Total,Females,45-64,"Rate (per 100,000)",2022-23,89.09
+Total,Females,45-64,"Rate (per 100,000)",2023-24,88.54
+Total,Females,65+,Number,2013-14,648
+Total,Females,65+,Number,2014-15,751
+Total,Females,65+,Number,2015-16,780
+Total,Females,65+,Number,2016-17,868
+Total,Females,65+,Number,2017-18,792
+Total,Females,65+,Number,2018-19,848
+Total,Females,65+,Number,2019-20,815
+Total,Females,65+,Number,2020-21,868
+Total,Females,65+,Number,2021-22,897
+Total,Females,65+,Number,2022-23,881
+Total,Females,65+,Number,2023-24,911
+Total,Females,65+,"Rate (per 100,000)",2013-14,35.72
+Total,Females,65+,"Rate (per 100,000)",2014-15,40.18
+Total,Females,65+,"Rate (per 100,000)",2015-16,40.48
+Total,Females,65+,"Rate (per 100,000)",2016-17,43.7
+Total,Females,65+,"Rate (per 100,000)",2017-18,38.68
+Total,Females,65+,"Rate (per 100,000)",2018-19,40.15
+Total,Females,65+,"Rate (per 100,000)",2019-20,37.27
+Total,Females,65+,"Rate (per 100,000)",2020-21,38.38
+Total,Females,65+,"Rate (per 100,000)",2021-22,38.54
+Total,Females,65+,"Rate (per 100,000)",2022-23,36.79
+Total,Females,65+,"Rate (per 100,000)",2023-24,37.5
