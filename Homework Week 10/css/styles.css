@@ -45,3 +45,9 @@ h1 {
 #choropleth-map-cp-index {
     margin-left: 30px;
 }
+
+.selfharm_hospitalisation {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

@@ -1,33 +1,69 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v6.json",
-  "description": "A population pyramid for the US in 2000, created using stack. See https://vega.github.io/vega-lite/examples/concat_population_pyramid.html for a variant of this created using concat.",
-  "data": { "url": "data/population.json"},
-  "transform": [
-    {"filter": "datum.year == 2000"},
-    {"calculate": "datum.sex == 2 ? 'Female' : 'Male'", "as": "gender"},
-    {"calculate": "datum.sex == 2 ? -datum.people : datum.people", "as": "signed_people"}
+  "data": {
+    "url": "https://raw.githubusercontent.com/DustinKeene/FIT3179/refs/heads/main/Homework%20Week%2010/data/selfharm_rate.csv"
+  },
+  "width": 250,
+  "height": 250,
+  "padding": {"top": 25},
+  "params": [
+    {
+      "name": "Year_selection",
+      "value": "2013-14",
+      "bind": {
+        "input": "select",
+        "options": [
+          "2013-14",
+          "2014-15",
+          "2015-16",
+          "2016-17",
+          "2017-18",
+          "2018-19",
+          "2019-20",
+          "2020-21",
+          "2021-22",
+          "2022-23",
+          "2023-24"
+        ],
+        "name": "Year:"
+      }
+    }
   ],
-  "width": 600,
-  "height": 600,
+  "transform": [
+    {"filter": "datum.Measure == 'Rate (per 100,000)'"},
+    {"filter": "datum.State != 'Total'"},
+    {"filter": "datum.Year == Year_selection"},
+    {
+      "calculate": "datum.Sex == 'Males' ? -datum.Hospitalisation_rate : datum.Hospitalisation_rate",
+      "as": "signed_rate"
+    }
+  ],
   "mark": "bar",
   "encoding": {
+    "facet": {"field": "State", "type": "nominal", "columns": 4, "title": null},
     "y": {
-      "field": "age",
-      "axis": null, "sort": "descending"
+      "field": "Age_group",
+      "type": "ordinal",
+      "sort": [ "65+","45-64", "25-44", "0-24"]
     },
     "x": {
-      "aggregate": "sum", "field": "signed_people",
-      "title": "population",
-      "axis": {"format": "s"}
+      "aggregate": "sum",
+      "field": "signed_rate",
+      "title": "Hospitalisation Rate (per 100,000)",
+      "axis": {"format": ".1f", "labelExpr": "abs(datum.value)"},
+      "scale": {"domain": [-300, 300]}
     },
     "color": {
-      "field": "gender",
+      "field": "Sex",
+      "type": "nominal",
       "scale": {"range": ["#675193", "#ca8861"]},
       "legend": {"orient": "top", "title": null}
-    }
+    },
+     "tooltip": [
+          {"field": "State", "type": "nominal", "title": "State"},
+          {"field": "Sex", "type": "nominal", "title": "Sex"},
+          {"field": "Hospitalisation_rate", "type": "quantitative", "title": "Self-Harm Rate (Normalised)", "format": ".1f"}
+        ]
   },
-  "config": { 
-    "view": {"stroke": null},
-    "axis": {"grid": false}
-  }
+  "config": {"view": {"stroke": null}, "axis": {"grid": false}}
 }
