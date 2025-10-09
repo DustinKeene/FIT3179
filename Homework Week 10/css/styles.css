@@ -14,8 +14,7 @@ body {
     width: 850px;
     background-color: white;
     margin: auto;
-    padding: 50px;
-    padding-top: 35px;
+    padding: 35px 0 0 50px;
 }
 
 .vis-container {
@@ -41,4 +40,8 @@ h1 {
 
 .small-font {
     font-size: 14px;
+}
+
+#choropleth-map-cp-index {
+    margin-left: 30px;
 }

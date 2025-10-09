@@ -1,14 +1,14 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v6.json",
-  "title": "Intentional Self-Harm Hospitalisations Pyramid",
+  "description": "A population pyramid for the US in 2000, created using stack. See https://vega.github.io/vega-lite/examples/concat_population_pyramid.html for a variant of this created using concat.",
   "data": { "url": "data/population.json"},
   "transform": [
     {"filter": "datum.year == 2000"},
     {"calculate": "datum.sex == 2 ? 'Female' : 'Male'", "as": "gender"},
     {"calculate": "datum.sex == 2 ? -datum.people : datum.people", "as": "signed_people"}
   ],
-  "width": 300,
-  "height": 200,
+  "width": 600,
+  "height": 600,
   "mark": "bar",
   "encoding": {
     "y": {
@@ -26,7 +26,7 @@
       "legend": {"orient": "top", "title": null}
     }
   },
-  "config": {
+  "config": { 
     "view": {"stroke": null},
     "axis": {"grid": false}
   }

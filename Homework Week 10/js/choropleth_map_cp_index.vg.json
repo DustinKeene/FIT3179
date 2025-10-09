@@ -1,12 +1,12 @@
 {
-   "$schema": "https://vega.github.io/schema/vega-lite/v6.json",
+  "$schema": "https://vega.github.io/schema/vega-lite/v6.json",
   "title": {
-    "text": "Age-standardised suicide rates by Australian States (2023)",
+    "text": "Age-standardised suicide rates by Australian States (2013-2023)",
     "fontSize": 18
   },
   "width": 650,
-  "height": 650 ,
-  "padding": {"top": 25, "left": 30, "right": 30},
+  "height": 650,
+  "padding": {"top": 25, "left": 50, "right": 30},
   "projection": {"type": "mercator"},
   "config": {
     "title": {
@@ -14,9 +14,14 @@
       "offset": 30
     }
   },
+  "data": {
+    "url": "https://raw.githubusercontent.com/DustinKeene/FIT3179/refs/heads/main/Homework%20Week%2010/data/standardised_australian_suicide_rate.csv",
+    "format": {"type": "csv"}
+  },
   "params": [
   {
   "name": "Year_selection",
+  "value": 2013,
   "bind": {
   "input": "select",
   "options": [
@@ -49,17 +54,11 @@
   }
   }
   ],
-  "data": {
-    "url": "https://raw.githubusercontent.com/DustinKeene/FIT3179/refs/heads/main/Homework%20Week%209/js/ne_50m.json",
-    "format": {"type": "topojson", "feature": "ne_50m_admin_1_states_provinces"}
-  },
-
-  
   "layer": [
     {
       "transform": [
         {
-          "calculate": "'Data is not available for ' + datum.properties.name",
+          "calculate": "'Data is not available for ' + datum.State",
           "as": "Note"
         }
       ],
@@ -71,10 +70,11 @@
       },
       "encoding": {
         "tooltip": [
-          {"field": "note", "type": "nominal", "title": "Note"}
+          {"field": "Note", "type": "nominal", "title": "Note"}
         ]
       }
     },
+
     {
       "data": {
         "url": "https://raw.githubusercontent.com/DustinKeene/FIT3179/refs/heads/main/Homework%20Week%209/js/ne_50m.json",
@@ -87,20 +87,22 @@
         "strokeWidth": 0.5
       }
     },
+    
     {
       "transform": [
         {
-          "lookup": "properties.name",
+          "lookup": "State",
           "from": {
             "data": {
-              "url": "https://raw.githubusercontent.com/DustinKeene/FIT3179/refs/heads/main/Homework%20Week%2010/data/standardised_australian_suicide_rate.csv"
+              "url": "https://raw.githubusercontent.com/DustinKeene/FIT3179/refs/heads/main/Homework%20Week%209/js/ne_50m.json",
+              "format": {"type": "topojson", "feature": "ne_50m_admin_1_states_provinces"}
             },
-            "key": "State",
-            "fields": ["Age_standardised_suicide_rate", "Year", "State"]
-          }
+            "key": "properties.name"
+          },
+          "as": "geo"
         },
         {
-          "filter": "Year_selection == null || datum.Year == Year_selection"
+          "filter": "datum.Year == Year_selection"
         }
       ],
 
@@ -110,6 +112,7 @@
         "strokeWidth": 0.5
       },
       "encoding": {
+        "shape": {"type": "geojson", "field": "geo"},
         "color": {
           "field": "Age_standardised_suicide_rate",
           "type": "quantitative",
@@ -129,9 +132,9 @@
           }
         },
         "tooltip": [
-          {"field": "properties.name", "type": "nominal", "title": "State"},
-          {"field": "Age_standardised_suicide_rate", "type": "quantitative", "title": "Suicide Rate (Normalised)", "format": ".1f"},
-          {"field": "Year", "type": "ordinal", "title": "Year"}
+          {"field": "State", "type": "nominal", "title": "State"},
+          {"field": "Year", "type": "ordinal", "title": "Year"},
+          {"field": "Age_standardised_suicide_rate", "type": "quantitative", "title": "Suicide Rate (Normalised)", "format": ".1f"}
         ]
       }
     }
