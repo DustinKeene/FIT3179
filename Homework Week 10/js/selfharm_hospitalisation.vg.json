@@ -61,11 +61,11 @@
             "legend": {"orient": "top", "title": null,"offset": 0}
           },
           "tooltip": [
-            {"field": "State", "title": "State"},
-            {"field": "Sex", "title": "Sex"},
-            {"field": "Age_group", "title": "Age Group"},
-            {"field": "Year", "title": "Year"},
-            {"field": "Hospitalisation_rate", "title": "Self-Harm Rate (Normalised)", "format": ".1f"}
+            {"field": "State", "title": "State", "type": "nominal"},
+            {"field": "Sex", "title": "Sex", "type": "nominal"},
+            {"field": "Age_group", "title": "Age Group", "type": "ordinal"},
+            {"field": "Year", "title": "Year", "type": "ordinal"},
+            {"field": "Hospitalisation_rate", "title": "Self-Harm Rate (per 100,000)", "type": "quantitative", "format": ".1f"}
           ]
         }
       },
