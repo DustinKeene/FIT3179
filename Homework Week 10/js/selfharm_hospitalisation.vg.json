@@ -30,7 +30,7 @@
   "facet": {
     "field": "State",
     "type": "nominal",
-    "title": "Self-harm Hospitalisation Rate on Age Groups and Gender by Australian States",
+    "title": "Self-harm Hospitalisation Rate on Age Groups and Gender by Australian States (2013-2024)",
     "header": {"labelFontSize": 14, "titleFontSize":18, "titleFontWeight":"bold"}
   },
   "columns": 4,
