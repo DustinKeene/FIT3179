@@ -7,7 +7,7 @@ h1 {
 }
 
 body {
-     width: 1500px;
+     width: 1500xpx;
     background-color: white;
     margin: auto;
     padding: 35px 0 0 50px;
@@ -33,6 +33,17 @@ h1 {
     padding-right: 50px;
 }
 
+.description-right {
+    padding-left: 50px;
+}
+
+.choropleth_class {
+     display: flex;
+    align-items: baseline;
+    justify-content: left;       
+    margin: 25px 0 50px 0;
+}   
+
 .pure-g {
     margin-bottom: 40px;
 }
@@ -43,9 +54,9 @@ h1 {
 
 #choropleth_map {
     display: flex;
-    align-items: center;
-    justify-content: center;       
-    margin: 25px 0 50px 0;
+    align-items: baseline;
+    justify-content: left;       
+    margin: 10px 0 50px 0;
 }
 
 #selfharm_hospitalisation {
@@ -53,5 +64,5 @@ h1 {
     align-items: center;
     justify-content: center;
     padding-top: 10px;
-    margin-bottom: 50px;
+    margin: 25px 60px 50px 60px;
 }   
