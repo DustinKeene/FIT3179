@@ -1,0 +1,113 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v6.json",
+  "data": {
+    "url": "https://raw.githubusercontent.com/DustinKeene/FIT3179/refs/heads/main/Homework%20Week%2010/data/selfharm_rate.csv"
+  },
+  "padding": {"top": 25},
+  "params": [
+    {
+      "name": "Year_selection",
+      "value": "2013-14",
+      "bind": {
+        "input": "select",
+        "options": [
+          "2013-14", "2014-15", "2015-16", "2016-17", "2017-18",
+          "2018-19", "2019-20", "2020-21", "2021-22", "2022-23", "2023-24"
+        ],
+        "name": "Year: "
+      }
+    }
+  ],
+  "transform": [
+    {"filter": "datum.Measure == 'Rate (per 100,000)'"},
+    {"filter": "datum.State != 'Total'"},
+    {"filter": "datum.Year == Year_selection"},
+    {
+      "calculate": "datum.Sex == 'Male' ? -datum.Hospitalisation_rate : datum.Hospitalisation_rate",
+      "as": "signed_rate"
+    }
+  ],
+  "facet": {
+    "field": "State",
+    "type": "nominal",
+    "title": "Self-harm Hospitalisation Rate on Age Groups and Gender by Australian States (2013-2024)",
+    "header": {"labelFontSize": 14, "titleFontSize":18, "titleFontWeight":"bold"}
+  },
+  "columns": 4,
+  "spec": {
+    "width": 350  ,
+    "height": 250,
+    "layer": [
+      {
+        "mark": "bar",
+        "encoding": {
+          "y": {
+            "field": "Age_group",
+            "type": "ordinal",
+            "sort": ["65+","45-64","25-44","0-24"],
+            "axis": {"offset": 50}
+          },
+          "x": {
+            "aggregate": "sum",
+            "field": "signed_rate",
+            "title": "Hospitalisation Rate (per 100,000)",
+            "axis": {"format": ".1f", "labelExpr": "abs(datum.value)", "offset": 40},
+            "scale": {"domain": [-400, 400]}
+          },
+          "color": {
+            "field": "Sex",
+            "type": "nominal",
+            "scale": {"range": ["#AD1028", "#FFC72C"]},
+            "legend": {"orient": "top", "title": null,"offset": 0}
+          },
+          "tooltip": [
+            {"field": "State", "title": "State"},
+            {"field": "Sex", "title": "Sex"},
+            {"field": "Age_group", "title": "Age Group"},
+            {"field": "Year", "title": "Year"},
+            {"field": "Hospitalisation_rate", "title": "Self-Harm Rate (per 100,000)", "format": ".1f"}
+          ]
+        }
+      },
+      {
+        "mark": {
+          "type": "text",
+          "align": "center",
+          "baseline": "middle",
+          "fontSize": 11,
+          "dx": -1,
+          "fontWeight": "bold",
+          "color": "black"
+        },
+        "encoding": {
+          "y": {
+            "field": "Age_group",
+            "type": "ordinal",
+            "sort": ["65+","45-64","25-44","0-24"]
+          },
+          "x": {
+            "aggregate": "sum",
+            "field": "signed_rate"  
+          },
+          "text": {
+            "field": "Hospitalisation_rate",
+            "type": "quantitative",
+            "format": ".1f"
+          },
+          "opacity": {
+            "condition": {
+              "test": "abs(datum.Hospitalisation_rate) >= 200",
+              "value": 1
+            },
+            "value": 0
+          }
+        }
+      }
+    ]
+  },
+  "config": {
+    "view": {"stroke": null},
+    "axis": {"grid": false}
+
+  }
+}
