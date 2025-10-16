@@ -1,0 +1,76 @@
+  {
+    "$schema": "https://vega.github.io/schema/vega-lite/v6.json",
+    "description": "Suicide rates for Indigenous vs Non-Indigenous persons over time with hover dots and tooltips",
+    "width": 600,
+    "height": 400,
+    "data": {
+      "url": "https://raw.githubusercontent.com/DustinKeene/FIT3179/refs/heads/main/Assignment_2/data/indigenous_standardised_suicide_rate.csv"
+    },
+    "transform": [
+      {"filter": "datum.sex === 'Persons'"}
+    ],
+    "encoding": {
+      "x": {
+        "field": "year", 
+        "type": "ordinal", 
+        "title": "Year",
+        "axis": {"offset": 10, "labelAngle":0}
+      },
+      "y": {
+        "field": "age_standardised_suicide_rate", 
+        "type": "quantitative", 
+        "title": "Suicide Rate (per 100,000)",
+        "axis": {"grid": false}
+      },
+      "color": {
+        "field": "indigenous_status", 
+        "type": "nominal",
+        "title": "Population Group"
+      },
+      
+      "tooltip": [
+        {"field": "indigenous_status", "type": "nominal", "title": "Population Group"},
+        {"field": "year", "type": "ordinal", "title": "Year"},
+        {"field": "age_standardised_suicide_rate", "type": "quantitative", "title": "Suicide Rate (per 100,000)", "format": ".1f"}
+      ]
+    },
+    "layer": [
+      {
+        "mark": "line"
+      },
+      {
+        "params": [{
+          "name": "hover",
+          "select": {
+            "type": "point",
+            "on": "pointerover",
+            "clear": "pointerout"
+          }
+        }],
+        "mark": {
+          "type": "circle",
+          "tooltip": true
+        },
+        "encoding": {
+          "opacity": {
+            "condition": {
+              "test": {"param": "hover", "empty": true},
+              "value": 1
+            },
+            "value": 50
+          },
+          "size": {
+            "condition": {
+              "test": {"param": "hover", "empty": false},
+              "value": 150
+            },
+            "value": 50
+          }
+        }
+      }
+    ],
+    "config": {
+      "view": {"stroke": null},
+      "background": "transparent"
+    }
+  }

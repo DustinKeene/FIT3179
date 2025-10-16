@@ -1,8 +1,8 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v6.json",
   "description": "Age-standardized suicide rate by socioeconomic type for 2010 and 2023",
-  "height": 600,
-  "width": 500,
+  "height": 400,
+  "width": 600,
   "data": {
     "url": "https://raw.githubusercontent.com/DustinKeene/FIT3179/refs/heads/main/Assignment_2/data/socioeconomic_standardised_suicide_rate.csv"
   },
@@ -25,7 +25,7 @@
       "type": "nominal",
       "title": "Socioeconomic Type",
       "axis": {
-        "offset": 20,
+        "offset": 30,
         "ticks": false,
         "minExtent": 50, 
         "domain": false

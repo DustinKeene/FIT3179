@@ -36,13 +36,14 @@
   "columns": 4,
   "spec": {
     "width": 350  ,
-    "height": 250,
+    "height": 200,
     "layer": [
       {
         "mark": "bar",
         "encoding": {
           "y": {
             "field": "Age_group",
+            "title": "Age Group",
             "type": "ordinal",
             "sort": ["65+","45-64","25-44","0-24"],
             "axis": {"offset": 50}

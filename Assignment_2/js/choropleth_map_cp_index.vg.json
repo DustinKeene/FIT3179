@@ -4,8 +4,8 @@
     "text": "Age-standardised suicide rates by Australian States (2013-2023)",
     "fontSize": 18
   },
-  "width": 500,
-  "height": 500,
+  "width": 700,
+  "height": 700,
   "padding": {"top": 25, "left": 50},
   "projection": {"type": "mercator"},
   "config": {
