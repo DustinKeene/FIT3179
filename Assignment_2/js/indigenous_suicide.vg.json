@@ -1,76 +1,81 @@
-  {
-    "$schema": "https://vega.github.io/schema/vega-lite/v6.json",
-    "description": "Suicide rates for Indigenous vs Non-Indigenous persons over time with hover dots and tooltips",
-    "width": 600,
-    "height": 400,
-    "data": {
-      "url": "https://raw.githubusercontent.com/DustinKeene/FIT3179/refs/heads/main/Assignment_2/data/indigenous_standardised_suicide_rate.csv"
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v6.json",
+  "description": "Suicide rates for Indigenous vs Non-Indigenous persons over time with hover dots, tooltips, and inline labels.",
+  "width": 500,
+  "height": 390,
+  "data": {
+    "url": "https://raw.githubusercontent.com/DustinKeene/FIT3179/refs/heads/main/Assignment_2/data/indigenous_standardised_suicide_rate.csv"
+  },
+  "transform": [
+    {"filter": "datum.sex === 'Persons'"}
+  ],
+  "encoding": {
+    "x": {
+      "field": "year",
+      "type": "ordinal",
+      "title": "Year",
+      "axis": {"offset": 5, "labelAngle": 0}
     },
-    "transform": [
-      {"filter": "datum.sex === 'Persons'"}
-    ],
-    "encoding": {
-      "x": {
-        "field": "year", 
-        "type": "ordinal", 
-        "title": "Year",
-        "axis": {"offset": 10, "labelAngle":0}
-      },
-      "y": {
-        "field": "age_standardised_suicide_rate", 
-        "type": "quantitative", 
-        "title": "Suicide Rate (per 100,000)",
-        "axis": {"grid": false}
-      },
-      "color": {
-        "field": "indigenous_status", 
-        "type": "nominal",
-        "title": "Population Group"
-      },
-      
-      "tooltip": [
-        {"field": "indigenous_status", "type": "nominal", "title": "Population Group"},
-        {"field": "year", "type": "ordinal", "title": "Year"},
-        {"field": "age_standardised_suicide_rate", "type": "quantitative", "title": "Suicide Rate (per 100,000)", "format": ".1f"}
-      ]
+    "y": {
+      "field": "age_standardised_suicide_rate",
+      "type": "quantitative",
+      "title": "Suicide Rate (per 100,000)",
+      "axis": {"grid": false}
     },
-    "layer": [
-      {
-        "mark": "line"
-      },
-      {
-        "params": [{
+    "color": {
+      "field": "indigenous_status",
+      "type": "nominal",
+      "title": "Indigenous Status",
+      "legend": {"orient": "bottom-right","offset":20}
+    },
+    "tooltip": [
+      {"field": "indigenous_status", "type": "nominal", "title": "Population Group"},
+      {"field": "year", "type": "ordinal", "title": "Year"},
+      {"field": "age_standardised_suicide_rate", "type": "quantitative", "title": "Suicide Rate (per 100,000)", "format": ".1f"}
+    ]
+  },
+  "layer": [
+    {
+      "mark": {"type": "line"}
+    },
+    {
+      "params": [
+        {
           "name": "hover",
-          "select": {
-            "type": "point",
-            "on": "pointerover",
-            "clear": "pointerout"
-          }
-        }],
-        "mark": {
-          "type": "circle",
-          "tooltip": true
-        },
-        "encoding": {
-          "opacity": {
-            "condition": {
-              "test": {"param": "hover", "empty": true},
-              "value": 1
-            },
-            "value": 50
-          },
-          "size": {
-            "condition": {
-              "test": {"param": "hover", "empty": false},
-              "value": 150
-            },
-            "value": 50
-          }
+          "select": {"type": "point", "on": "mouseover", "clear": "mouseout", "nearest": true}
+        }
+      ],
+      "mark": {"type": "point", "filled": true, "opacity": 1},
+      "encoding": {
+        "size": {
+          "condition": {"param": "hover", "value": 250, "empty": false},
+          "value": 100
         }
       }
-    ],
-    "config": {
-      "view": {"stroke": null},
-      "background": "transparent"
+    },
+    {
+      "mark": {
+        "type": "text",
+        "align": "left",
+        "baseline": "middle",
+        "dx": 8,
+        "fontSize": 16,
+        "fontWeight": "bold"
+      },
+      "transform": [
+        {"filter": "datum.year == 2023"}
+      ],
+      "encoding": {
+        "text": {
+          "field": "age_standardised_suicide_rate",
+          "type": "quantitative",
+          "format": ".1f"
+        }
+      }
     }
+  ],
+  "config": {
+    "view": {"stroke": null},
+    "background": "transparent"
   }
+}

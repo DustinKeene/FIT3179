@@ -1,59 +1,40 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v6.json",
   "title": {
-    "text": "Age-standardised suicide rates by Australian States (2013-2023)",
-    "fontSize": 18
+    "text": "Age-standardised Suicide rates by Australian States (2013-2023)",
+    "font": "Segoe UI, system-ui, sans-serif",
+    "fontSize": 18,
+    "offset": 50
   },
   "width": 700,
-  "height": 700,
-  "padding": {"top": 25, "left": 50},
+  "height": 575,
+  "padding": {"top": 20},
   "projection": {"type": "mercator"},
   "config": {
     "title": {
       "align": "center",
-      "offset": 30
-    }
+      "offset": 10
+    },
+    "background": "transparent"
   },
   "data": {
     "url": "https://raw.githubusercontent.com/DustinKeene/FIT3179/refs/heads/main/Homework%20Week%2010/data/standardised_australian_suicide_rate.csv",
     "format": {"type": "csv"}
   },
   "params": [
-  {
-  "name": "Year_selection",
-  "value": 2013,
-  "bind": {
-  "input": "select",
-  "options": [
-  2013,
-  2014,
-  2015,
-  2016,
-  2017,
-  2018,
-  2019,
-  2020,
-  2021,
-  2022,
-  2023
-  ],
-  "labels":[
-  "2013",
-  "2014",
-  "2015",
-  "2016",
-  "2017",
-  "2018",
-  "2019",
-  "2020",
-  "2021",
-  "2022",
-  "2023"
-  ],
-  "name": "Year of Registration: "
-  }
-  }
-  ],
+{
+"name": "Year_selection",
+"value": 2013,
+"bind": {
+"input": "range",
+"min": 2013,
+"max": 2023,
+"step": 1,
+"element": "#slider-container",
+"name": "Year: "
+}
+}
+],
   "layer": [
     {
       "transform": [
@@ -84,7 +65,7 @@
         "type": "geoshape",
         "fill": null, 
         "stroke": "lightgray", 
-        "strokeWidth": 0.5
+        "strokeWidth": 0.1
       }
     },
     
@@ -124,7 +105,7 @@
           "legend": {
             "title": "Age-standardised Suicide Rate (per 100,000)",
             "titleLimit": 500,
-            "offset": 80  ,
+            "padding":5,
             "labelLimit": 100,
             "titleAlign": "left",
             "orient": "bottom-left",
@@ -139,4 +120,5 @@
       }
     }
   ]
+  
 }

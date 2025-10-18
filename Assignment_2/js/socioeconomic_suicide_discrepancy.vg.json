@@ -2,7 +2,7 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v6.json",
   "description": "Age-standardized suicide rate by socioeconomic type for 2010 and 2023",
   "height": 400,
-  "width": 600,
+  "width": 500,
   "data": {
     "url": "https://raw.githubusercontent.com/DustinKeene/FIT3179/refs/heads/main/Assignment_2/data/socioeconomic_standardised_suicide_rate.csv"
   },
@@ -19,16 +19,17 @@
       "field": "age_standardised_suicide_rate",
       "type": "quantitative",
       "title": "Age-Standardised Suicide Rate"
+      
     },
     "y": {
       "field": "socioeconomic_type",
       "type": "nominal",
       "title": "Socioeconomic Type",
       "axis": {
-        "offset": 30,
+        "offset":30,
         "ticks": false,
-        "minExtent": 50, 
-        "domain": false
+        "minExtent": 50,
+        "domain": false  
       }
     }
   },
@@ -44,6 +45,16 @@
       }
     },
     {
+      "params": [
+        {
+          "name": "hover",
+          "select": {
+            "type": "point",
+            "on": "mouseover",
+            "clear": "mouseout"
+          }
+        }
+      ],
       "mark": {
         "type": "point",
         "filled": true
@@ -56,10 +67,17 @@
             "domain": [2010, 2023],
             "range": ["#e6959c", "#911a24"]
           },
-          "title": "Year  "
+          "legend":{
+           "title": "Year  ",
+           "orient": "bottom-right",
+           "offset":30
+          }
         },
-        "size": {"value": 200},
         "opacity": {"value": 1},
+        "size": {
+          "condition": {"param": "hover", "value": 250},
+          "value": 100
+        },
         "tooltip": [
           {"field": "socioeconomic_type", "type": "nominal", "title": "Socioeconomic Type"},
           {"field": "age_standardised_suicide_rate", "type": "quantitative", "title": "Suicide Rate"},
