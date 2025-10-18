@@ -162,8 +162,8 @@
         "type": "text",
         "align": "left",
         "baseline": "middle",
-        "dx": 8,
-        "fontSize": 9,
+        "dx": 15,
+        "fontSize": 10,
         "fontWeight": "bold"
       },
       "encoding": {
