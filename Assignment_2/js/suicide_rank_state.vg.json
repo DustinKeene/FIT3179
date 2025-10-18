@@ -1,0 +1,182 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v6.json",
+  "title": {
+    "text":"Suicide Rate Rank of Australian States by Year (2013-2023)",
+    "align": "center"
+  },
+   "padding": {"top": 20},
+  "width": 300,
+  "height": 350,
+  "data": {
+    "url": "https://raw.githubusercontent.com/DustinKeene/FIT3179/refs/heads/main/Assignment_2/data/standardised_australian_suicide_rate.csv"
+  },
+  "params": [
+    {
+      "name": "year",
+      "value": 2023,
+      "bind": {
+        "input": "range",
+        "min": 2013,
+        "max": 2023,
+        "step": 1,
+        "element": "#slider-container",
+        "name": "Year: "
+      }
+    }
+  ],
+  "transform": [
+    {
+      "calculate": "toNumber(datum.Age_standardised_suicide_rate)",
+      "as": "rate_num"
+    },
+    {
+      "calculate": "toNumber(datum.Year)",
+      "as": "year_num"
+    },
+     {
+      "calculate": "slice(datum.Year, 2, 4)",
+      "as": "year_abbr"
+    },
+    {
+      "sort": [
+        {"field": "year_num", "order": "ascending"},
+        {"field": "rate_num", "order": "descending"}
+      ],
+      "window": [
+        {"op": "rank", "as": "rank"}
+      ],
+      "groupby": ["year_num"]
+    }
+  ],
+  "encoding": {
+    "x": {
+      "field": "year_abbr",
+      "type": "ordinal",
+      "axis": {
+        "labelAngle": 0,
+        "labelFontSize": 8,
+        "titleFontSize": 12,
+        "labelColor": "gray"
+      },
+      "title": "Year"
+    },
+    "y": {
+      "field": "rank",
+      "type": "quantitative",
+      "sort": "descending",
+      "scale": {"domain": [0.5, 8.5]},
+      "axis": {
+        "labelAngle": 0,
+        "labelFontSize": 12,
+        "tickMinStep": 1,
+        "titleFontSize": 12,
+        "labelColor": "gray"
+        
+      },
+      "title": "Rank"
+    },
+    "color": {
+      "field": "State",
+      "type": "nominal",
+      "scale": {
+  "domain": ["New South Wales", "Victoria", "Queensland", "Western Australia", "South Australia", "Tasmania", "Australian Capital Territory", "Northern Territory"],
+  "range": ["#1f77b4", "#ff7f0e", "#2ca02c", "#9467bd", "#e377c2", "#FF69B4", "#8c564b", "#d62728"]
+},
+"legend":null
+    }
+  },
+  "layer": [
+    {
+      "mark": {
+        "type": "line",
+        "interpolate": "monotone"
+      },
+      "encoding": {
+        "detail": {
+          "field": "State",
+          "type": "nominal"
+        }
+      }
+    },
+    {
+      "mark": {
+        "type": "point",
+        "filled": true,
+        "size": 80
+      },
+      "encoding": {
+        "opacity": {
+          "condition": {
+            "test": "datum.Year == year",
+            "value": 1
+          },
+          "value": 0.3
+        },
+        "tooltip": [
+          {"field": "State", "type": "nominal", "title": "State"},
+          {"field": "Age_standardised_suicide_rate", "type": "quantitative", "title": "Suicide Rate", "format": ".1f"},
+          {"field": "rank", "type": "quantitative", "title": "Rank"},
+          {"field": "Year", "type": "ordinal", "title": "Year"}
+        ]
+      }
+    },
+    {
+      "mark": {
+        "type": "text",
+        "align": "center",
+        "baseline": "middle",
+        "fontSize": 10,
+        "fontWeight": "bold",
+        "dy": -15
+      },
+      "encoding": {
+        "text": {
+          "field": "Age_standardised_suicide_rate",
+          "type": "quantitative",
+          "format": ".1f"
+        },
+        "color": {
+          "value": "black"
+        },
+        "opacity": {
+          "condition": {
+            "test": "datum.Year == year",
+            "value": 1
+          },
+          "value": 0
+        }
+      }
+    },
+    {
+      "transform": [
+        {
+          "window": [{"op": "rank", "as": "last_rank"}],
+          "groupby": ["State"],
+          "sort": [{"field": "Year", "order": "descending"}]
+        },
+        {
+          "filter": "datum.last_rank == 1"
+        }
+      ],
+      "mark": {
+        "type": "text",
+        "align": "left",
+        "baseline": "middle",
+        "dx": 8,
+        "fontSize": 9,
+        "fontWeight": "bold"
+      },
+      "encoding": {
+        "text": {
+          "field": "State",
+          "type": "nominal"
+        }
+      }
+    }
+  ],
+  "config": {
+    "background": "transparent",
+    "view": {"stroke": null},
+    "axis": {"grid": false}
+  }
+}

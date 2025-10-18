@@ -6,7 +6,7 @@
     "fontSize": 18,
     "offset": 50
   },
-  "width": 700,
+  "width": 600,
   "height": 575,
   "padding": {"top": 20},
   "projection": {"type": "mercator"},
@@ -18,7 +18,7 @@
     "background": "transparent"
   },
   "data": {
-    "url": "https://raw.githubusercontent.com/DustinKeene/FIT3179/refs/heads/main/Homework%20Week%2010/data/standardised_australian_suicide_rate.csv",
+    "url": "https://raw.githubusercontent.com/DustinKeene/FIT3179/refs/heads/main/Assignment_2/data/standardised_australian_suicide_rate.csv",
     "format": {"type": "csv"}
   },
   "params": [

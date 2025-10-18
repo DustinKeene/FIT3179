@@ -3,6 +3,7 @@
   "description": "Age-standardized suicide rate by socioeconomic type for 2010 and 2023",
   "height": 400,
   "width": 500,
+  
   "data": {
     "url": "https://raw.githubusercontent.com/DustinKeene/FIT3179/refs/heads/main/Assignment_2/data/socioeconomic_standardised_suicide_rate.csv"
   },
@@ -59,6 +60,7 @@
         "type": "point",
         "filled": true
       },
+      
       "encoding": {
         "color": {
           "field": "year",
@@ -78,11 +80,33 @@
           "condition": {"param": "hover", "value": 250},
           "value": 100
         },
+
+        
         "tooltip": [
           {"field": "socioeconomic_type", "type": "nominal", "title": "Socioeconomic Type"},
           {"field": "age_standardised_suicide_rate", "type": "quantitative", "title": "Suicide Rate"},
           {"field": "year", "type": "ordinal", "title": "Year"}
         ]
+      }
+    },
+    {
+      "mark": {
+        "type": "text",
+        "align": "center",
+        "baseline": "top",
+        "dy": 15,
+        "fontSize": 12,
+        "fontWeight": "bold"
+      },
+      "transform": [
+        {"filter": "(datum.year == 2023 && datum.socioeconomic_type == 'Quintile 1 (Poorest)') || (datum.year == 2023 && datum.socioeconomic_type == 'Quintile 5 (Richest)')"}
+      ],
+      "encoding": {
+        "text": {
+          "field": "age_standardised_suicide_rate",
+          "type": "quantitative",
+          "format": ".1f"
+        }
       }
     }
   ],

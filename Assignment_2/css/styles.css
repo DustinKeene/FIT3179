@@ -28,6 +28,7 @@ h1 {
     box-shadow: 0 3px 6px rgba(0, 0, 0, 0.08);
     overflow: hidden; 
     padding: 20px;
+    margin-right: 20px;
     background-color:  #f8fdff;
 }
 
@@ -70,6 +71,14 @@ h1 {
     padding: 10px 30px 25px 25px;
     background-color: #f8fdff; 
 }   
+#suicide_rank_state {
+    border-radius: 20px;    
+    box-shadow: 0 5px 6px rgba(0, 0, 0, 0.08);
+    overflow: hidden; 
+    padding: 10px 30px 30px 30px;
+    background-color: #f8fdff; 
+}
+
 #slider-container {
     width: 700px;
     margin-top: -20px;
