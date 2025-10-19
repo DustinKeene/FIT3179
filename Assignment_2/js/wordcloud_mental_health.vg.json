@@ -1,6 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega/v6.json",
-  "width": 500,
+  "width": 700,
   "height": 400,
   "data": [
     {
@@ -24,7 +24,7 @@
         },
         {
           "type": "wordcloud",
-          "size": [500, 400],
+          "size": [800, 600],
           "text": {"field": "text"},
           "rotate": {"expr": "[-45, 0, 45][~~(random() * 3)]"},
           "font": "Helvetica Neue, Arial",

@@ -56,6 +56,10 @@ h1 {
     justify-content: flex-end;
     padding-right: 20px;    
 }
+.footnote_wordcloud{
+    justify-content: flex-start;
+    padding-left: 250px;
+}
  .dashboard_caption{
     margin-bottom: 50px;
  }
@@ -68,9 +72,6 @@ h1 {
     background-color: #f8fdff;
  }
 
- .suicide_map_rank_description{
-  
- }
 .suicide_map_rank_description_container {
     border-radius: 20px;
     box-shadow: 0 3px 6px rgba(0, 0, 0, 0.08);
@@ -107,7 +108,7 @@ h1 {
     border-radius: 20px;
     box-shadow: 0 5px 6px rgba(0, 0, 0, 0.08);
     overflow: hidden; 
-   padding: 20px 30px 20px 30px;    
+    padding: 20px 30px 20px 30px;    
     background-color: #f8fdff; 
 }
 
@@ -120,29 +121,55 @@ h1 {
 }
 
 .disparities_container {
-    margin: 40px 0 5px 0;
-    
-  
+    margin: 40px 0 80px 40px;
 
 }
 
-.disparities_title{
+.disparities_chart_container {
+    padding: 20px 80px 10px 60px;
+}
+/* .disparities_title{
     margin: 40px 0 0 0;
-}
+} */
 
 .disparity_description{
-    margin : 10px 0 50px 0;
+     margin: 10px 40px 10px 20px;
+
 }
 
+.first_column_disparity_description {
+    border-radius: 20px;
+    box-shadow: 0 5px 6px rgba(0, 0, 0, 0.08);
+    overflow: hidden; 
+    margin-left: 30px;
+    padding: 20px 30px 20px 30px;    
+    background-color: #f8fdff; 
+}
+
+.second_column_disparity_description{
+    border-radius: 20px;
+    box-shadow: 0 5px 6px rgba(0, 0, 0, 0.08);
+    overflow: hidden; 
+    margin-right: 30px;
+    padding: 20px 30px 20px 30px;
+    background-color: #f8fdff; 
+}
+
+
 .indigenous_disparity_chart {
- background-color:  #f8fdff;
+    border-radius: 20px;
+    box-shadow: 0 5px 6px rgba(0, 0, 0, 0.08);
+    overflow: hidden; 
+    padding: 20px 30px 20px 30px;
+    background-color: #f8fdff; 
 }
 
 .socioeconomic_disparity_chart {
-  background-color:  #f8fdff;
-}
-.wordcloud_section_container{
-    margin: 40px 0 60px 0;
+ border-radius: 20px;
+    box-shadow: 0 5px 6px rgba(0, 0, 0, 0.08);
+    overflow: hidden; 
+    padding: 20px 30px 20px 30px;
+    background-color: #f8fdff; 
 }
 
 .wordcloud_container{
@@ -153,23 +180,33 @@ h1 {
     background-color: #f8fdff; */
 }
 
-
-
-#choropleth_map {
-    /* border-radius: 20px;
-    box-shadow: 0 5px 6px rgba(0, 0, 0, 0.08);
-    overflow: hidden; 
-    padding: 10px 30px 25px 30px;
-    background-color: #f8fdff;  */
-}
-#selfharm_hospitalisation {
-   width:80%;
-}   
-#suicide_rank_state {
-    /* border-radius: 20px;    
-    box-shadow: 0 5px 6px rgba(0, 0, 0, 0.08);
-    overflow: hidden; 
-    padding: 10px 30px 30px 30px;
-    background-color: #f8fdff;  */
+.wordcloud_main_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
 }
 
+.wordcloud_container {
+    display: flex;
+    flex-direction: column;
+    width: auto;
+    border-radius: 20px;
+    box-shadow: 0 5px 6px rgba(0, 0, 0, 0.08);
+    overflow: hidden; 
+    padding: 10px 10px 10px 10px;
+    margin: 10px 150px 10px 150px;
+    background-color: #f8fdff;
+}
+.wordcloud_chart{
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+.wordcloud_title{
+    justify-content: flex-start;
+    padding: 30px 0 0 100px;
+}
+.wordcloud_description{
+    justify-content: flex-end;
+    
+}

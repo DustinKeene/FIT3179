@@ -46,7 +46,7 @@
   </div>
   
       <div class="suicide_map_rank_description_container">
-      <h2 class="fw-bold fs-4" style="font-family: 'Segoe UI', system-ui, sans-serif;">Regional Areas Proven Shaky</h2>
+      <h2 class="fw-bold fs-5" style="font-family: 'Segoe UI', system-ui, sans-serif;">Regional Areas Remains Shaky</h2>
       <p>Since 2014,  <span style="color: #d62728; font-weight: bold;">Northern Territory</span> has had the highest suicide rate, peaking at 21.8 in 2014. Although, it has
         shown signs of decline alongside its neighbouring states (WA, TAS, QLD, SA) since 2020. Interestingly,   <span style="color:  #1f77b4; font-weight: bold;">Australian Capital Territory</span>  had halved its suicide rate to 7.7 in 2023 from its peak in 2017.</p>
 
@@ -87,17 +87,17 @@
 </div>
   
 <div class = "disparities_title"> 
-  <h1 class="text-center">Mental Health in Australia </h1>
   <div class="disparities_subtitle  text-center">
-    <p>This dashboard presents various visualisations related to mental health in Australia
+ 
 </div>
 </div>
 
-  <div class="disparities_container row">
+<div class = "disparities_container">
+  <div class="disparities_chart_container row">
   <!-- First Box -->
   <div class="col-md-6">
-    <div class="indigenous_disparity_chart p-4 border rounded shadow-sm">
-      <h2 class="fw-bold fs-5 text-center "style="font-family: 'Segoe UI', system-ui, sans-serif;">Indigenous Suicide Rate Disparities (2018-2023)</h2>
+    <div class="indigenous_disparity_chart">
+      <h2 class="fw-bold fs-5 text-center "style="font-family: 'Segoe UI', system-ui, sans-serif;">Suicide Rates by Indigenous Status  (2018-2023)</h2>
       <div id="indigenous_suicide"> </div>
       <div class="footnote footnote_indigenous"><small>Source: <a href="https://www.aihw.gov.au/suicide-self-harm-monitoring/resources/download-data-tables">Deaths Due to Suicide 2023 - National Mortality Databases</a>, Australian Institute of Health & Welfare (16/07/2025). </small></div>
   </div>
@@ -106,8 +106,8 @@
 
   <!-- Second Box -->
   <div class="col-md-6">
-      <div class="socioeconomic_disparity_chart p-4 border rounded shadow-sm">
-         <h2 class="fw-bold fs-5 text-center"style="font-family: 'Segoe UI', system-ui, sans-serif;">Socioeconomic Disparities in Suicide Rates (2010 vs 2023) </h2>
+      <div class="socioeconomic_disparity_chart">
+         <h2 class="fw-bold fs-5 text-center"style="font-family: 'Segoe UI', system-ui, sans-serif;">Suicide Rates by Socioeconomic Status (2010 vs 2023) </h2>
         <div id = "socioeconomic_suicide_discrepancy"> </div>
          <div class="footnote footnote_socioeconomic"><small>Source: <a href="https://www.aihw.gov.au/suicide-self-harm-monitoring/resources/download-data-tables">Deaths Due to Suicide 2023 - National Mortality Databases</a>, Australian Institute of Health & Welfare (16/07/2025). </small></div>
     
@@ -118,8 +118,8 @@
 <div class="disparity_description row">
   <!-- First Box -->
   <div class="col-md-6">
-    <div class=" p-4 border rounded shadow-sm">
-      <h2 class="fw-bold">First Column Title</h2>
+    <div class="first_column_disparity_description ">
+      <h2 class="fw-bold fs-4">Indigenous Disparities</h2>
       <p>The first column contains text and the second column contains a visualisation. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Massa sapien faucibus et molestie ac feugiat sed.</p>
       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Massa sapien faucibus et molestie ac feugiat sed.</p>
     </div>
@@ -127,25 +127,55 @@
 
   <!-- Second Box -->
   <div class="col-md-6">
-    <div class="p-4 border rounded shadow-sm">
-      <h2 class="fw-bold">Second Column Title</h2>
+    <div class="second_column_disparity_description">
+      <h2 class="fw-bold fs-4">Socioeconomic Disparities</h2>
       <p>The first column contains text and the second column contains a visualisation. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Massa sapien faucibus et molestie ac feugiat sed.</p>
       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Massa sapien faucibus et molestie ac feugiat sed.</p>
     </div>
   </div>
 </div>
-  
+</div>
 
-  <div class = "wordcloud_container col-md-8">
-    <div class = "wordcloud_titles"> 
-  <h2>Top 28 Words </h2>
-    <div id="wordcloud_chart"></div>
+
+<div class="wordcloud_main_container row">
+   <div class = "col-md-12">
+ <div class = "wordcloud_container">
+  <div class = "wordcloud_title fw-bold fs-3"style="font-family: 'Segoe UI', system-ui, sans-serif;">Top 28 Words in Frequency on Reddit Forums (2023) </div>
+      <div id="wordcloud_chart"></div>
+    <div class="footnote footnote_wordcloud">
+      <p><small>Source: <a href="https://www.aihw.gov.au/suicide-self-harm-monitoring/resources/download-data-tables">Depression Dataset - Kaggle</a>, Diego Silva França (14/07/2023). </small></p>
     </div>
-    <div class="footnote_wordcloud">
-      <p>Data Source: Australian Mental Health Survey 2023</p>
-      <p>Created by: Dustin Keene</p>
-    </div>
+     <div class = "col-md-6"> 
+  <h2 class = "fs-1 fw-bold ">You are not Alone. </h2>
   </div>
+    </div>
+   </div>
+
+  <div class="wordcloud_description">
+  Around the globes, it is estimated that one in eight people are affected by mental health conditions. The words 
+  in this word cloud represent the collective voice of those struggling with mental health issues in online forums and support groups.
+  Some are associated with negative emotions such as "Depression","Anxiety", while some of the prominent words are neutral in nature. 
+  However, words such as "Love" and "Family" no matter how small, are always present in the sea of bad thoughts
+  </div>
+
+  </div>
+  </div>
+  
+  <div class="wordcloud_special_description">
+  <figure class = "text-center"> <blockquote class = "blockquote"> <p>Help Someone,  Feel Family, Love Life</p>
+ </blockquote>
+ <figcaption class="blockquote-footer">
+    <cite title="Source Title"> Anonymous</cite>
+  </figcaption></figure>
+  A string of the words that we can weave into our own voices for those in need
+  </div>
+ 
+ 
+  <div class="wordcloud_help_description">
+  If you or someone you know is struggling with mental health issues, please reach out to a trusted friend, family member, or mental health professional.
+  Remember, you are not alone, and there is help available.
+  Hotline Australia: 13 11 14 (Lifeline Australia)  
+</div></div>
 
 <script type="text/javascript">
     var spec2 = "js/choropleth_map_cp_index.vg.json";

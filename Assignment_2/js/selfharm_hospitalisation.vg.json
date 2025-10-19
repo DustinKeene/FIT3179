@@ -46,7 +46,7 @@
   "columns": 4,
   "spec": {
     "width": 250,
-    "height": 200,
+    "height": 150,
     "layer": [
       {
         "mark": "bar",
