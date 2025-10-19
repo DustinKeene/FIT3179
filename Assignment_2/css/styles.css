@@ -58,7 +58,8 @@ h1 {
 }
 .footnote_wordcloud{
     justify-content: flex-start;
-    padding-left: 250px;
+    margin-top: -5px;
+    padding-left: 165px;
 }
  .dashboard_caption{
     margin-bottom: 50px;
@@ -76,9 +77,10 @@ h1 {
     border-radius: 20px;
     box-shadow: 0 3px 6px rgba(0, 0, 0, 0.08);
     overflow: hidden; 
-    padding: 15px 20px 10px 30px;
+    padding: 20px 30px 10px 30px;
     margin: 10px 0 10px 0;
     background-color:  #f8fdff;
+    text-align: justify;
 }
 .suicide_rank_container {
     border-radius: 20px;    
@@ -181,32 +183,40 @@ h1 {
 }
 
 .wordcloud_main_container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 100%;
+    margin: 80px 25px 80px 40px;
+}
+.wordcloud_chart_container {
+    padding: 10px 20px 10px -20px;
 }
 
 .wordcloud_container {
-    display: flex;
-    flex-direction: column;
-    width: auto;
     border-radius: 20px;
     box-shadow: 0 5px 6px rgba(0, 0, 0, 0.08);
     overflow: hidden; 
-    padding: 10px 10px 10px 10px;
-    margin: 10px 150px 10px 150px;
+    padding: 10px 10px 10px 0;
+    margin: 10px 60px 10px 60px;
     background-color: #f8fdff;
 }
-.wordcloud_chart{
-    justify-content: flex-start;
-    align-items: flex-start;
+.wordcloud_container_visualisation{
+   padding-left:10px;
 }
+.wordcloud_first_description{
+    padding: 20px 50px 0 40px;
+    text-align: justify;
+}
+.wordcloud_second_description
+{
+    margin: 30px 0 60px 0;
+    padding: 0 50px 0 40px;
+    text-align: justify;
+}
+
 .wordcloud_title{
-    justify-content: flex-start;
-    padding: 30px 0 0 100px;
+    padding: 10px 0 10px 85px;
 }
 .wordcloud_description{
-    justify-content: flex-end;
+    padding: 50px 50px 0 40px;
     
 }
+.wordcloud_hotline{
+    margin-top: 35px}
