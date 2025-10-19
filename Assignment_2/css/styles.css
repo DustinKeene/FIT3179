@@ -15,29 +15,113 @@ body {
 }
 
 .description h2,
-h1 {
+h1 {    
     margin-top: 10px;
 }
 
+.footnote{
+    display: flex;
+    font-family: "Arial, Helvetica, sans-serif";
+    margin-top: 20px;
+    font-style: italic;
+    font-size: 10px;
+    color: gray;
+    opacity: 0.5;
+    width: 100%;
+    
+}
+
+.footnote_choropleth{
+    justify-content: flex-end;
+    margin-top: 40px;
+}
+.footnote-left{
+    justify-content: flex-start;
+}
+.footnote_selfharm{
+    justify-content: flex-end;
+    padding-right: 40px;
+}
+.footnote_suicide_rank{
+    margin-bottom: -15px;
+    justify-content: flex-end;
+    font-size: 9.5px;
+}
+
+.footnote_indigenous{
+    justify-content: flex-end;
+    padding-right: 20px;    
+}
+.footnote_socioeconomic{
+    justify-content: flex-end;
+    padding-right: 20px;    
+}
  .dashboard_caption{
     margin-bottom: 50px;
  }
 
-.choropleth_description {
+ .choropleth_map_container{
+    border-radius: 20px;
+    box-shadow: 0 5px 6px rgba(0, 0, 0, 0.08);
+    overflow: hidden; 
+    padding: 10px 30px 15px 30px;
+    background-color: #f8fdff;
+ }
+
+ .suicide_map_rank_description{
+  
+ }
+.suicide_map_rank_description_container {
     border-radius: 20px;
     box-shadow: 0 3px 6px rgba(0, 0, 0, 0.08);
     overflow: hidden; 
-    padding: 20px;
-    margin-right: 20px;
+    padding: 15px 20px 10px 30px;
+    margin: 10px 0 10px 0;
     background-color:  #f8fdff;
+}
+.suicide_rank_container {
+    border-radius: 20px;    
+    box-shadow: 0 5px 6px rgba(0, 0, 0, 0.08);
+    overflow: hidden; 
+    padding: 10px 30px 30px 30px;
+    background-color: #f8fdff; 
 }
 
 .selfharm_container {     
-    margin: 80px 0 10px 80px;
+    margin: 80px 0px 0px 80px;
 }
+.selfharm_container_chart{
+    border-radius: 20px;    
+    box-shadow: 0 5px 6px rgba(0, 0, 0, 0.08);
+    overflow: hidden; 
+    padding: 10px 10px 25px 25px;
+    background-color: #f8fdff; 
+    width:95%;
+}
+
+.selfharm_description{
+    padding: 20px 60px 20px 20px;
+
+}
+.first_column_selfharm_description {
+    border-radius: 20px;
+    box-shadow: 0 5px 6px rgba(0, 0, 0, 0.08);
+    overflow: hidden; 
+   padding: 20px 30px 20px 30px;    
+    background-color: #f8fdff; 
+}
+
+.second_column_selfharm_description {
+    border-radius: 20px;
+    box-shadow: 0 5px 6px rgba(0, 0, 0, 0.08);
+    overflow: hidden; 
+    padding: 20px 30px 20px 30px;
+    background-color: #f8fdff; 
+}
+
 .disparities_container {
     margin: 40px 0 5px 0;
-
+    
   
 
 }
@@ -57,30 +141,35 @@ h1 {
 .socioeconomic_disparity_chart {
   background-color:  #f8fdff;
 }
+.wordcloud_section_container{
+    margin: 40px 0 60px 0;
+}
+
+.wordcloud_container{
+    /* border-radius: 20px;
+    box-shadow: 0 5px 6px rgba(0, 0, 0, 0.08);
+    overflow: hidden; 
+    padding: 10px 10px 10px 10px;
+    background-color: #f8fdff; */
+}
+
+
+
 #choropleth_map {
-    border-radius: 20px;
+    /* border-radius: 20px;
     box-shadow: 0 5px 6px rgba(0, 0, 0, 0.08);
     overflow: hidden; 
     padding: 10px 30px 25px 30px;
-    background-color: #f8fdff; 
+    background-color: #f8fdff;  */
 }
 #selfharm_hospitalisation {
-    border-radius: 20px;    
-    box-shadow: 0 5px 6px rgba(0, 0, 0, 0.08);
-    overflow: hidden; 
-    padding: 10px 30px 25px 25px;
-    background-color: #f8fdff; 
+   width:80%;
 }   
 #suicide_rank_state {
-    border-radius: 20px;    
+    /* border-radius: 20px;    
     box-shadow: 0 5px 6px rgba(0, 0, 0, 0.08);
     overflow: hidden; 
     padding: 10px 30px 30px 30px;
-    background-color: #f8fdff; 
+    background-color: #f8fdff;  */
 }
 
-#slider-container {
-    width: 700px;
-    margin-top: -20px;
-    margin-bottom: 30px;
-}

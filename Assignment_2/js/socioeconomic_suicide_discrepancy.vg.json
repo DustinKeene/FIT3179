@@ -25,12 +25,13 @@
     "y": {
       "field": "socioeconomic_type",
       "type": "nominal",
-      "title": "Socioeconomic Type",
+      "title": null,
       "axis": {
-        "offset":30,
+        "offset":10,
+        "labelFontSize":12,
         "ticks": false,
         "minExtent": 50,
-        "domain": false  
+        "domain": false
       }
     }
   },

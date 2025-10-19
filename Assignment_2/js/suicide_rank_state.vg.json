@@ -1,8 +1,11 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v6.json",
-  "title": {
-    "text":"Suicide Rate Rank of Australian States by Year (2013-2023)",
-    "align": "center"
+   "title": {
+    "text": "Suicide Rates Rank by Australian States (2013-2023)",
+    "align": "center",
+    "font": "Segoe UI, system-ui, sans-serif",
+    "fontSize": 18,
+    "offset": 20
   },
    "padding": {"top": 20},
   "width": 300,
@@ -19,7 +22,6 @@
         "min": 2013,
         "max": 2023,
         "step": 1,
-        "element": "#slider-container",
         "name": "Year: "
       }
     }
@@ -78,9 +80,10 @@
     "color": {
       "field": "State",
       "type": "nominal",
+     
       "scale": {
   "domain": ["New South Wales", "Victoria", "Queensland", "Western Australia", "South Australia", "Tasmania", "Australian Capital Territory", "Northern Territory"],
-  "range": ["#1f77b4", "#ff7f0e", "#2ca02c", "#9467bd", "#e377c2", "#FF69B4", "#8c564b", "#d62728"]
+  "range": ["#8c564b", "#ff7f0e", "#FA8072", "#9467bd", "#e377c2", "#FF69B4", " #1f77b4", "#d62728"]
 },
 "legend":null
     }
@@ -163,7 +166,7 @@
         "align": "left",
         "baseline": "middle",
         "dx": 15,
-        "fontSize": 10,
+        "fontSize": 8,
         "fontWeight": "bold"
       },
       "encoding": {
