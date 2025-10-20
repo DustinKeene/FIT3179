@@ -19,7 +19,7 @@
     "x": {
       "field": "age_standardised_suicide_rate",
       "type": "quantitative",
-      "title": "Age-Standardised Suicide Rate"
+      "title": "Suicide Rate (per 100,000)"
       
     },
     "y": {
@@ -85,7 +85,7 @@
         
         "tooltip": [
           {"field": "socioeconomic_type", "type": "nominal", "title": "Socioeconomic Type"},
-          {"field": "age_standardised_suicide_rate", "type": "quantitative", "title": "Suicide Rate"},
+          {"field": "age_standardised_suicide_rate", "type": "quantitative", "title": "Suicide Rate (per 100,000)"},
           {"field": "year", "type": "ordinal", "title": "Year"}
         ]
       }

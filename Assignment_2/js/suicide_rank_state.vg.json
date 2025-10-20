@@ -117,7 +117,7 @@
         },
         "tooltip": [
           {"field": "State", "type": "nominal", "title": "State"},
-          {"field": "Age_standardised_suicide_rate", "type": "quantitative", "title": "Suicide Rate", "format": ".1f"},
+          {"field": "Age_standardised_suicide_rate", "type": "quantitative", "title": "Suicide Rate (per 100,000)", "format": ".1f"},
           {"field": "rank", "type": "quantitative", "title": "Rank"},
           {"field": "Year", "type": "ordinal", "title": "Year"}
         ]
