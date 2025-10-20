@@ -65,6 +65,11 @@ h1 {
     margin-bottom: 50px;
  }
 
+ .caption_description{
+    padding: 15px 50px 0 50px;
+    text-align: justify;
+ }
+
  .choropleth_map_container{
     border-radius: 20px;
     box-shadow: 0 5px 6px rgba(0, 0, 0, 0.08);
@@ -91,7 +96,7 @@ h1 {
 }
 
 .selfharm_container {     
-    margin: 80px 0px 0px 80px;
+    margin: 50px 0px 0px 80px;
 }
 .selfharm_container_chart{
     border-radius: 20px;    
@@ -123,16 +128,13 @@ h1 {
 }
 
 .disparities_container {
-    margin: 40px 0 80px 40px;
+    margin: 20px 0 60px 40px;
 
 }
 
 .disparities_chart_container {
     padding: 20px 80px 10px 60px;
 }
-/* .disparities_title{
-    margin: 40px 0 0 0;
-} */
 
 .disparity_description{
      margin: 10px 40px 10px 20px;
@@ -174,20 +176,14 @@ h1 {
     background-color: #f8fdff; 
 }
 
-.wordcloud_container{
-    /* border-radius: 20px;
-    box-shadow: 0 5px 6px rgba(0, 0, 0, 0.08);
-    overflow: hidden; 
-    padding: 10px 10px 10px 10px;
-    background-color: #f8fdff; */
-}
 
 .wordcloud_main_container {
-    margin: 80px 25px 80px 40px;
+    margin: 40px 25px 80px 40px;
 }
 .wordcloud_chart_container {
     padding: 10px 20px 10px -20px;
 }
+
 
 .wordcloud_container {
     border-radius: 20px;
@@ -198,7 +194,7 @@ h1 {
     background-color: #f8fdff;
 }
 .wordcloud_container_visualisation{
-   padding-left:10px;
+   padding:30px 40px 0 30px;
 }
 .wordcloud_first_description{
     padding: 20px 50px 0 40px;

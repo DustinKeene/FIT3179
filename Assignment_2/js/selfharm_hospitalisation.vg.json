@@ -107,7 +107,7 @@
           },
           "opacity": {
             "condition": {
-              "test": "abs(datum.Hospitalisation_rate) >= 200",
+              "test": "abs(datum.Hospitalisation_rate) >= 250",
               "value": 1
             },
             "value": 0
